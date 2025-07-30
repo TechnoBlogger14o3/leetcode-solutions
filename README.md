@@ -15,6 +15,7 @@ This repository is created for learning and educational purposes. The goal is to
 
 | Date | Problem ID | Problem Title | Difficulty | Folder Link |
 |------|------------|---------------|------------|-------------|
+| 2025-07-30 | 2412 | Longest Subarray with Maximum Bitwise AND | Medium | [Link](Medium/2025-07-30-2412-LongestSubarrayWithMaximumBitwiseAnd/) |
 | 2025-07-29 | 2411 | Smallest Subarrays With Maximum Bitwise OR | Medium | [Link](Medium/2025-07-29-2411-SmallestSubarraysWithMaximumBitwiseOR/) |
 | 2025-07-29 | 2044 | Count Number of Maximum Bitwise OR Subsets | Medium | [Link](Medium/2025-07-29-2044-CountNumberOfMaximumBitwiseORSubsets/) |
 
@@ -43,9 +44,9 @@ YYYY-MM-DD-ProblemID-Title/
 
 ## Statistics
 
-- **Total Problems Solved**: 2
+- **Total Problems Solved**: 3
 - **Easy**: 0
-- **Medium**: 2
+- **Medium**: 3
 - **Hard**: 0
 
 ## Getting Started
