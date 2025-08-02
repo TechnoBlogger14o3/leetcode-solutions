@@ -19,20 +19,20 @@ Explanation: It can be shown that it is impossible to make both baskets equal.
 ```
 
 ## Approach
-**Key Insight**: To make both baskets equal, the total sum of both baskets must be equal. If they're not equal, it's impossible. If they are equal, we need to find the minimum cost to rearrange fruits.
+**Key Insight**: To make both baskets equal, we need to balance the fruits between them. The key optimization is using the minimum value in both baskets to potentially reduce swap costs.
 
 **Algorithm**:
-1. Check if the sum of both baskets is equal. If not, return -1.
-2. Count the frequency of each fruit in both baskets.
-3. For each fruit type, if the total count is odd, return -1 (impossible to split equally).
-4. Calculate the excess/deficit for each fruit type.
-5. Sort the excess and deficit arrays.
-6. Use two pointers to match the smallest excess with the smallest deficit, minimizing the cost.
+1. Count the frequency of each fruit in both baskets and find the minimum value.
+2. For each fruit type, check if the total count is odd (impossible to split equally).
+3. Calculate excess fruits for each basket (fruits that need to be moved out).
+4. Sort one list in ascending order and the other in descending order for optimal matching.
+5. Calculate the minimum cost considering both direct swaps and using the minimum value as an intermediary.
 
 **Why this works**:
 - We need to balance the fruits between baskets
-- The minimum cost is achieved by matching the smallest excess with the smallest deficit
-- Each swap operation costs the minimum of the two fruits being swapped
+- The minimum cost is achieved by matching optimally
+- Using the minimum value as an intermediary can sometimes reduce costs (2 * minVal vs direct swap)
+- Sorting in opposite directions ensures optimal pairing
 
 ## Complexity Analysis
 - **Time Complexity**: O(n log n) - Due to sorting the excess and deficit arrays
@@ -58,60 +58,56 @@ import java.util.*;
 
 class Solution {
     public long minCost(int[] basket1, int[] basket2) {
-        // Check if sums are equal
-        long sum1 = 0, sum2 = 0;
-        for (int fruit : basket1) sum1 += fruit;
-        for (int fruit : basket2) sum2 += fruit;
-        
-        if (sum1 != sum2) return -1;
-        
-        // Count frequencies
-        Map<Integer, Integer> freq1 = new HashMap<>();
-        Map<Integer, Integer> freq2 = new HashMap<>();
-        
-        for (int fruit : basket1) freq1.put(fruit, freq1.getOrDefault(fruit, 0) + 1);
-        for (int fruit : basket2) freq2.put(fruit, freq2.getOrDefault(fruit, 0) + 1);
-        
-        // Check if each fruit type has even total count
-        Set<Integer> allFruits = new HashSet<>();
-        allFruits.addAll(freq1.keySet());
-        allFruits.addAll(freq2.keySet());
-        
-        for (int fruit : allFruits) {
-            int total = freq1.getOrDefault(fruit, 0) + freq2.getOrDefault(fruit, 0);
-            if (total % 2 != 0) return -1;
+        int n = basket1.length;
+
+        Map<Integer, Integer> map1 = new HashMap<>();
+        Map<Integer, Integer> map2 = new HashMap<>();
+        int minVal = Integer.MAX_VALUE; 
+
+        for(int i = 0; i < n; i++){
+            map1.put(basket1[i], map1.getOrDefault(basket1[i], 0) + 1);
+            map2.put(basket2[i], map2.getOrDefault(basket2[i], 0) + 1);
+            minVal = Math.min(minVal, basket1[i]);
+            minVal = Math.min(minVal, basket2[i]);
         }
-        
-        // Calculate excess/deficit
-        List<Integer> excess = new ArrayList<>();
-        List<Integer> deficit = new ArrayList<>();
-        
-        for (int fruit : allFruits) {
-            int count1 = freq1.getOrDefault(fruit, 0);
-            int count2 = freq2.getOrDefault(fruit, 0);
-            int target = (count1 + count2) / 2;
-            
-            if (count1 > target) {
-                for (int i = 0; i < count1 - target; i++) {
-                    excess.add(fruit);
-                }
-            } else if (count2 > target) {
-                for (int i = 0; i < count2 - target; i++) {
-                    deficit.add(fruit);
+
+        List<Integer> swapList1 = new ArrayList<>();
+        for(int key: map1.keySet()){
+            int c1 = map1.get(key);
+            int c2 = map2.getOrDefault(key, 0);
+            if((c1 + c2) % 2 == 1) return -1; 
+            if(c1 > c2){
+                int addCnt = (c1 - c2) / 2;
+                while(addCnt-- > 0){
+                    swapList1.add(key);
                 }
             }
         }
-        
-        // Sort for optimal matching
-        Collections.sort(excess);
-        Collections.sort(deficit);
-        
-        long cost = 0;
-        for (int i = 0; i < excess.size(); i++) {
-            cost += Math.min(excess.get(i), deficit.get(i));
+
+        List<Integer> swapList2 = new ArrayList<>();
+        for(int key: map2.keySet()){
+            int c1 = map1.getOrDefault(key, 0);
+            int c2 = map2.get(key);
+            if((c1 + c2) % 2 == 1) return -1;  
+            if(c2 > c1){
+                int addCnt = (c2 - c1) / 2;
+                while(addCnt-- > 0){
+                    swapList2.add(key);
+                }
+            }
         }
-        
-        return cost;
+
+        Collections.sort(swapList1);
+        Collections.sort(swapList2, (a, b) -> b - a);
+
+        long res = 0;
+        for(int i = 0; i < swapList1.size(); i++){
+            res += Math.min(2 * minVal, 
+                            Math.min(swapList1.get(i), swapList2.get(i))
+                           );
+        }
+
+        return res;
     }
 }
 ```
@@ -181,6 +177,59 @@ var minCost = function(basket1, basket2) {
     
     return cost;
 };
+```
+
+### Python
+```python
+# See solution.py
+from collections import defaultdict
+from typing import List
+
+class Solution:
+    def minCost(self, basket1: List[int], basket2: List[int]) -> int:
+        n = len(basket1)
+        
+        map1 = defaultdict(int)
+        map2 = defaultdict(int)
+        min_val = float('inf')
+        
+        for i in range(n):
+            map1[basket1[i]] += 1
+            map2[basket2[i]] += 1
+            min_val = min(min_val, basket1[i])
+            min_val = min(min_val, basket2[i])
+        
+        swap_list1 = []
+        for key in map1:
+            c1 = map1[key]
+            c2 = map2.get(key, 0)
+            if (c1 + c2) % 2 == 1:
+                return -1
+            if c1 > c2:
+                add_cnt = (c1 - c2) // 2
+                for _ in range(add_cnt):
+                    swap_list1.append(key)
+        
+        swap_list2 = []
+        for key in map2:
+            c1 = map1.get(key, 0)
+            c2 = map2[key]
+            if (c1 + c2) % 2 == 1:
+                return -1
+            if c2 > c1:
+                add_cnt = (c2 - c1) // 2
+                for _ in range(add_cnt):
+                    swap_list2.append(key)
+        
+        swap_list1.sort()
+        swap_list2.sort(reverse=True)
+        
+        res = 0
+        for i in range(len(swap_list1)):
+            res += min(2 * min_val, 
+                      min(swap_list1[i], swap_list2[i]))
+        
+        return res
 ```
 
 ## Test Cases

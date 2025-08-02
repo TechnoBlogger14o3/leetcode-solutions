@@ -2,59 +2,55 @@ import java.util.*;
 
 class Solution {
     public long minCost(int[] basket1, int[] basket2) {
-        // Check if sums are equal
-        long sum1 = 0, sum2 = 0;
-        for (int fruit : basket1) sum1 += fruit;
-        for (int fruit : basket2) sum2 += fruit;
-        
-        if (sum1 != sum2) return -1;
-        
-        // Count frequencies
-        Map<Integer, Integer> freq1 = new HashMap<>();
-        Map<Integer, Integer> freq2 = new HashMap<>();
-        
-        for (int fruit : basket1) freq1.put(fruit, freq1.getOrDefault(fruit, 0) + 1);
-        for (int fruit : basket2) freq2.put(fruit, freq2.getOrDefault(fruit, 0) + 1);
-        
-        // Check if each fruit type has even total count
-        Set<Integer> allFruits = new HashSet<>();
-        allFruits.addAll(freq1.keySet());
-        allFruits.addAll(freq2.keySet());
-        
-        for (int fruit : allFruits) {
-            int total = freq1.getOrDefault(fruit, 0) + freq2.getOrDefault(fruit, 0);
-            if (total % 2 != 0) return -1;
+        int n = basket1.length;
+
+        Map<Integer, Integer> map1 = new HashMap<>();
+        Map<Integer, Integer> map2 = new HashMap<>();
+        int minVal = Integer.MAX_VALUE; 
+
+        for(int i = 0; i < n; i++){
+            map1.put(basket1[i], map1.getOrDefault(basket1[i], 0) + 1);
+            map2.put(basket2[i], map2.getOrDefault(basket2[i], 0) + 1);
+            minVal = Math.min(minVal, basket1[i]);
+            minVal = Math.min(minVal, basket2[i]);
         }
-        
-        // Calculate excess/deficit
-        List<Integer> excess = new ArrayList<>();
-        List<Integer> deficit = new ArrayList<>();
-        
-        for (int fruit : allFruits) {
-            int count1 = freq1.getOrDefault(fruit, 0);
-            int count2 = freq2.getOrDefault(fruit, 0);
-            int target = (count1 + count2) / 2;
-            
-            if (count1 > target) {
-                for (int i = 0; i < count1 - target; i++) {
-                    excess.add(fruit);
-                }
-            } else if (count2 > target) {
-                for (int i = 0; i < count2 - target; i++) {
-                    deficit.add(fruit);
+
+        List<Integer> swapList1 = new ArrayList<>();
+        for(int key: map1.keySet()){
+            int c1 = map1.get(key);
+            int c2 = map2.getOrDefault(key, 0);
+            if((c1 + c2) % 2 == 1) return -1; 
+            if(c1 > c2){
+                int addCnt = (c1 - c2) / 2;
+                while(addCnt-- > 0){
+                    swapList1.add(key);
                 }
             }
         }
-        
-        // Sort for optimal matching
-        Collections.sort(excess);
-        Collections.sort(deficit);
-        
-        long cost = 0;
-        for (int i = 0; i < excess.size(); i++) {
-            cost += Math.min(excess.get(i), deficit.get(i));
+
+        List<Integer> swapList2 = new ArrayList<>();
+        for(int key: map2.keySet()){
+            int c1 = map1.getOrDefault(key, 0);
+            int c2 = map2.get(key);
+            if((c1 + c2) % 2 == 1) return -1;  
+            if(c2 > c1){
+                int addCnt = (c2 - c1) / 2;
+                while(addCnt-- > 0){
+                    swapList2.add(key);
+                }
+            }
         }
-        
-        return cost;
+
+        Collections.sort(swapList1);
+        Collections.sort(swapList2, (a, b) -> b - a);
+
+        long res = 0;
+        for(int i = 0; i < swapList1.size(); i++){
+            res += Math.min(2 * minVal, 
+                            Math.min(swapList1.get(i), swapList2.get(i))
+                           );
+        }
+
+        return res;
     }
 } 
