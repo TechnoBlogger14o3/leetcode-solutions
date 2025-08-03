@@ -7,24 +7,33 @@ class Solution {
         
         int n = fruits.length;
         int maxFruits = 0;
+        int left = 0;
+        int currentSum = 0;
         
-        // Try all possible ranges
-        for (int left = 0; left < n; left++) {
-            for (int right = left; right < n; right++) {
+        // Sliding window approach
+        for (int right = 0; right < n; right++) {
+            currentSum += fruits[right][1];
+            
+            // Shrink window from left while it's invalid
+            while (left <= right) {
                 int leftPos = fruits[left][0];
                 int rightPos = fruits[right][0];
                 
-                // Calculate minimum steps needed
+                // Calculate minimum steps needed for current window
                 int steps = rightPos - leftPos + Math.min(Math.abs(startPos - leftPos), Math.abs(startPos - rightPos));
                 
                 if (steps <= k) {
-                    // Calculate total fruits in this range
-                    int totalFruits = 0;
-                    for (int i = left; i <= right; i++) {
-                        totalFruits += fruits[i][1];
-                    }
-                    maxFruits = Math.max(maxFruits, totalFruits);
+                    break; // Window is valid, keep it
                 }
+                
+                // Remove leftmost fruit and shrink window
+                currentSum -= fruits[left][1];
+                left++;
+            }
+            
+            // Update max fruits if window is valid
+            if (left <= right) {
+                maxFruits = Math.max(maxFruits, currentSum);
             }
         }
         

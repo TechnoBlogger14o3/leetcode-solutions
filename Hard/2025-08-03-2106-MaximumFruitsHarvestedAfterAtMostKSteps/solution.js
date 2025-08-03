@@ -10,24 +10,33 @@ var maxTotalFruits = function(fruits, startPos, k) {
     
     const n = fruits.length;
     let maxFruits = 0;
+    let left = 0;
+    let currentSum = 0;
     
-    // Try all possible ranges
-    for (let left = 0; left < n; left++) {
-        for (let right = left; right < n; right++) {
+    // Sliding window approach
+    for (let right = 0; right < n; right++) {
+        currentSum += fruits[right][1];
+        
+        // Shrink window from left while it's invalid
+        while (left <= right) {
             const leftPos = fruits[left][0];
             const rightPos = fruits[right][0];
             
-            // Calculate minimum steps needed
+            // Calculate minimum steps needed for current window
             const steps = rightPos - leftPos + Math.min(Math.abs(startPos - leftPos), Math.abs(startPos - rightPos));
             
             if (steps <= k) {
-                // Calculate total fruits in this range
-                let totalFruits = 0;
-                for (let i = left; i <= right; i++) {
-                    totalFruits += fruits[i][1];
-                }
-                maxFruits = Math.max(maxFruits, totalFruits);
+                break; // Window is valid, keep it
             }
+            
+            // Remove leftmost fruit and shrink window
+            currentSum -= fruits[left][1];
+            left++;
+        }
+        
+        // Update max fruits if window is valid
+        if (left <= right) {
+            maxFruits = Math.max(maxFruits, currentSum);
         }
     }
     

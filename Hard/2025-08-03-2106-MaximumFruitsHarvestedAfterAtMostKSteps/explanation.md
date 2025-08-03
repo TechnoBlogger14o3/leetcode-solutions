@@ -43,17 +43,19 @@ Explanation:
 
 **Algorithm**:
 1. Sort the fruits by position to get them in order.
-2. Use a sliding window approach to find the maximum sum of fruits that can be harvested within `k` steps.
-3. For each window, calculate the minimum steps needed to reach all fruits in the window.
-4. The minimum steps for a window from position `left` to `right` is: `right - left + min(left, right - left)`.
+2. Use a sliding window approach with two pointers (left and right).
+3. Expand the window by moving the right pointer and add fruits to the current sum.
+4. When the window becomes invalid (steps > k), shrink it from the left until it's valid again.
+5. Keep track of the maximum sum of fruits found in any valid window.
 
 **Why this works**:
 - We need to visit all fruits in a contiguous range
 - The optimal path is to go to one end, then to the other end
 - The total steps is the distance between the two ends plus the distance from start to the closer end
+- Sliding window ensures we find the optimal range efficiently
 
 ## Complexity Analysis
-- **Time Complexity**: O(n log n) - Due to sorting the fruits by position
+- **Time Complexity**: O(n log n) - Due to sorting the fruits by position, then O(n) for sliding window
 - **Space Complexity**: O(1) - Only using a few variables for the sliding window
 
 ## Key Insights
@@ -63,9 +65,10 @@ Explanation:
 - Use sliding window to find the maximum sum within the step constraint
 
 ## Alternative Approaches
-1. **Brute Force**: Try all possible ranges - O(n²) time
-2. **Binary Search**: Can be used to optimize the sliding window approach
-3. **Dynamic Programming**: Can be used but overkill for this problem
+1. **Brute Force**: Try all possible ranges - O(n²) time (causes TLE)
+2. **Sliding Window**: O(n) time after sorting - optimal approach
+3. **Binary Search**: Can be used to optimize the sliding window approach
+4. **Dynamic Programming**: Can be used but overkill for this problem
 
 ## Solutions in Different Languages
 
