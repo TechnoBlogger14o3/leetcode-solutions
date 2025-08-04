@@ -15,6 +15,11 @@ This repository is created for learning and educational purposes. The goal is to
 
 | Date | Problem ID | Problem Title | Difficulty | Folder Link |
 |------|------------|---------------|------------|-------------|
+| 2025-08-04 | 904 | Fruit Into Baskets | Medium | [Link](Medium/2025-08-04-0904-FruitIntoBaskets/) |
+| 2025-08-03 | 2106 | Maximum Fruits Harvested After at Most K Steps | Hard | [Link](Hard/2025-08-03-2106-MaximumFruitsHarvestedAfterAtMostKSteps/) |
+| 2025-08-02 | 2857 | Rearranging Fruits | Hard | [Link](Hard/2025-08-02-2857-RearrangingFruits/) |
+| 2025-08-01 | 118 | Pascal's Triangle | Easy | [Link](Easy/2025-08-01-0118-PascalsTriangle/) |
+| 2025-07-31 | 898 | Bitwise ORs of Subarrays | Medium | [Link](Medium/2025-07-31-898-BitwiseORsOfSubarrays/) |
 | 2025-07-30 | 2412 | Longest Subarray with Maximum Bitwise AND | Medium | [Link](Medium/2025-07-30-2412-LongestSubarrayWithMaximumBitwiseAnd/) |
 | 2025-07-29 | 2411 | Smallest Subarrays With Maximum Bitwise OR | Medium | [Link](Medium/2025-07-29-2411-SmallestSubarraysWithMaximumBitwiseOR/) |
 | 2025-07-29 | 2044 | Count Number of Maximum Bitwise OR Subsets | Medium | [Link](Medium/2025-07-29-2044-CountNumberOfMaximumBitwiseORSubsets/) |
@@ -39,20 +44,21 @@ Each problem folder follows the structure:
 YYYY-MM-DD-ProblemID-Title/
 ├── solution.java                # Java solution code
 ├── solution.js                  # JavaScript solution code
+├── solution.py                  # Python solution code
 └── explanation.md               # Problem statement, approach, complexities
 ```
 
 ## Statistics
 
-- **Total Problems Solved**: 3
-- **Easy**: 0
-- **Medium**: 3
-- **Hard**: 0
+- **Total Problems Solved**: 8
+- **Easy**: 1
+- **Medium**: 5
+- **Hard**: 2
 
 ## Getting Started
 
 1. Create a new problem folder using the format: `YYYY-MM-DD-ProblemID-Title`
-2. Add your solution code in `solution.java` and `solution.js`
+2. Add your solution code in `solution.java`, `solution.js`, and `solution.py`
 3. Document your approach in `explanation.md`
 4. Update this README with the new problem entry
 
@@ -65,7 +71,7 @@ Each problem includes:
 - **Complexity Analysis**: Time and space complexity breakdown
 - **Key Insights**: Important observations and learning points
 - **Alternative Approaches**: Other possible solution methods
-- **Multi-language Solutions**: Implementations in Java and JavaScript
+- **Multi-language Solutions**: Implementations in Java, JavaScript, and Python
 
 ## Learning Objectives
 
