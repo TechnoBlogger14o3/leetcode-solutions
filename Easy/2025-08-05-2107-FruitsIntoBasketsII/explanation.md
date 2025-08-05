@@ -1,60 +1,62 @@
-# Fruits Into Baskets II - Problem #2107
+# Fruits Into Baskets II - Problem #3477
 
 ## Problem Statement
-You are visiting a farm that has a single row of fruit trees arranged from left to right. The trees are represented by an integer array `fruits` where `fruits[i]` is the type of fruit the `i`th tree produces.
+You are given two arrays of integers, `fruits` and `baskets`, each of length `n`, where `fruits[i]` represents the quantity of the `i`th type of fruit, and `baskets[j]` represents the capacity of the `j`th basket.
 
-You want to collect as much fruit as possible. However, the owner has some strict rules that you must follow:
+From left to right, place the fruits according to these rules:
 
-- You only have **two baskets**, and each basket can only hold a **single type** of fruit. There is no limit on the amount of fruit each basket can hold.
-- Starting from any tree, you must pick **exactly one fruit** from **every** tree (including the start tree) while moving to the right. The picked fruits must fit in one of your baskets.
-- Once you reach a tree with fruit that cannot fit in your baskets, you must stop.
-- You can **skip at most one tree** during your collection.
+- Each fruit type must be placed in the leftmost available basket with a capacity greater than or equal to the quantity of that fruit type.
+- Each basket can hold only one type of fruit.
+- If a fruit type cannot be placed in any basket, it remains unplaced.
 
-Given the integer array `fruits`, return the **maximum number of fruits** you can pick.
+Return the number of fruit types that remain unplaced after all possible allocations are made.
 
 ## Examples
 ```
-Input: fruits = [1,2,1]
-Output: 3
-Explanation: We can pick from all 3 trees.
+Input: fruits = [4,2,5], baskets = [3,5,4]
+Output: 1
+Explanation:
+- fruits[0] = 4 is placed in baskets[1] = 5.
+- fruits[1] = 2 is placed in baskets[0] = 3.
+- fruits[2] = 5 cannot be placed in baskets[2] = 4.
+Since one fruit type remains unplaced, we return 1.
 
-Input: fruits = [0,1,2,2]
-Output: 4
-Explanation: We can pick from trees [0,1,2,2] by skipping the tree at index 2.
-
-Input: fruits = [1,2,3,2,2]
-Output: 5
-Explanation: We can pick from trees [1,2,3,2,2] by skipping the tree at index 2.
+Input: fruits = [3,6,1], baskets = [6,4,7]
+Output: 0
+Explanation:
+- fruits[0] = 3 is placed in baskets[0] = 6.
+- fruits[1] = 6 cannot be placed in baskets[1] = 4 (insufficient capacity) but can be placed in the next available basket, baskets[2] = 7.
+- fruits[2] = 1 is placed in baskets[1] = 4.
+Since all fruits are successfully placed, we return 0.
 ```
 
 ## Approach
-**Key Insight**: This is an extension of the classic sliding window problem where we need to find the longest subarray containing at most 2 different types of fruits, but with the ability to skip at most one tree.
+**Key Insight**: This is a greedy allocation problem where we need to place fruits in the leftmost available basket that can accommodate them.
 
 **Algorithm**:
-1. Use a sliding window with two pointers (left and right).
-2. Use a HashMap to track the count of each fruit type in the current window.
-3. Expand the window by moving the right pointer and add fruits to the map.
-4. When the window contains more than 2 fruit types, we can skip at most one tree.
-5. Keep track of the maximum window size found.
+1. For each fruit type, find the leftmost available basket with sufficient capacity.
+2. Mark the basket as used once a fruit is placed in it.
+3. Count how many fruit types cannot be placed in any basket.
+4. Return the count of unplaced fruit types.
 
 **Why this works**:
-- We need to find the longest contiguous sequence with at most 2 different fruit types
-- The ability to skip one tree allows us to handle cases where we encounter a third fruit type
-- Sliding window efficiently maintains the constraint while allowing for the skip
+- Greedy approach ensures optimal placement by always choosing the leftmost available basket
+- Each basket can only hold one fruit type, so we mark it as used after allocation
+- We process fruits in order and try to place each one in the best available basket
 
 ## Complexity Analysis
-- **Time Complexity**: O(n) - Each element is visited at most twice (once by right pointer, once by left pointer)
-- **Space Complexity**: O(1) - HashMap will contain at most 3 entries (2 types + 1 skipped)
+- **Time Complexity**: O(n²) - For each fruit, we may need to check all baskets
+- **Space Complexity**: O(n) - To track which baskets are used
 
 ## Key Insights
-- This is essentially finding the longest subarray with at most 2 distinct elements, with one skip allowed
-- The skip allows us to handle a third fruit type by ignoring it
-- We need to track which fruit type we're skipping and when
+- This is a greedy allocation problem where we need to find the best basket for each fruit
+- The leftmost available basket with sufficient capacity is always the optimal choice
+- We need to track which baskets are already used to avoid double allocation
 
 ## Alternative Approaches
-1. **Brute Force**: Try all possible subarrays with skips - O(n²) time
-2. **Dynamic Programming**: Can be used but overkill for this problem
-3. **Two Pointers**: Similar to sliding window but less efficient
+1. **Brute Force**: Try all possible basket assignments - O(n!) time
+2. **Sorting**: Sort baskets by capacity for more efficient matching
+3. **Binary Search**: Can be used to find the leftmost available basket more efficiently
 
 ## Solutions in Different Languages
 
@@ -181,21 +183,22 @@ class Solution:
 
 ## Test Cases
 ```
-Test Case 1: [1,2,1] → 3
-Test Case 2: [0,1,2,2] → 4
-Test Case 3: [1,2,3,2,2] → 5
-Test Case 4: [3,3,3,1,2,1,1,2,3,3,4] → 6
-Test Case 5: [1,1,1,1] → 4
+Test Case 1: fruits = [4,2,5], baskets = [3,5,4] → 1
+Test Case 2: fruits = [3,6,1], baskets = [6,4,7] → 0
+Test Case 3: fruits = [1,1,1], baskets = [1,1,1] → 0
+Test Case 4: fruits = [5,5,5], baskets = [3,3,3] → 3
+Test Case 5: fruits = [2,3,4], baskets = [1,2,3] → 1
 ```
 
 ## Edge Cases
-- All fruits are the same type
-- Only one fruit type
-- Empty array
+- All fruits can be placed (return 0)
+- No fruits can be placed (return n)
+- Single fruit and single basket
 - Large arrays with many different fruit types
-- Cases where skipping doesn't help
+- Cases where optimal placement requires careful consideration
 
 ## Related Problems
-- Fruit Into Baskets (original problem)
-- Longest Substring Without Repeating Characters
-- Longest Substring with At Most K Distinct Characters 
+- Assignment Problem
+- Greedy Algorithms
+- Resource Allocation
+- Matching Problems 
