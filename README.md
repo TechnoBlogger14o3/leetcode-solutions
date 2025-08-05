@@ -15,6 +15,7 @@ This repository is created for learning and educational purposes. The goal is to
 
 | Date | Problem ID | Problem Title | Difficulty | Folder Link |
 |------|------------|---------------|------------|-------------|
+| 2025-08-05 | 2107 | Fruits Into Baskets II | Hard | [Link](Hard/2025-08-05-2107-FruitsIntoBasketsII/) |
 | 2025-08-04 | 904 | Fruit Into Baskets | Medium | [Link](Medium/2025-08-04-0904-FruitIntoBaskets/) |
 | 2025-08-03 | 2106 | Maximum Fruits Harvested After at Most K Steps | Hard | [Link](Hard/2025-08-03-2106-MaximumFruitsHarvestedAfterAtMostKSteps/) |
 | 2025-08-02 | 2857 | Rearranging Fruits | Hard | [Link](Hard/2025-08-02-2857-RearrangingFruits/) |
@@ -50,10 +51,10 @@ YYYY-MM-DD-ProblemID-Title/
 
 ## Statistics
 
-- **Total Problems Solved**: 8
+- **Total Problems Solved**: 9
 - **Easy**: 1
 - **Medium**: 5
-- **Hard**: 2
+- **Hard**: 3
 
 ## Getting Started
 
