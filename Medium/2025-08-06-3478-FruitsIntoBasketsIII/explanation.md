@@ -15,12 +15,12 @@ Return the number of fruit types that remain unplaced after all possible allocat
 ## Examples
 ```
 Input: fruits = [4,2,5], baskets = [3,5,4]
-Output: 0
+Output: 1
 Explanation:
 - fruits[0] = 4 is placed in baskets[1] = 5.
 - fruits[1] = 2 is placed in baskets[0] = 3.
-- fruits[2] = 5 can be skipped, then placed in baskets[2] = 4.
-Since we can skip one fruit and place the rest, we return 0.
+- fruits[2] = 5 cannot be placed in baskets[2] = 4 (insufficient capacity).
+Even with skipping, we still have 1 unplaced fruit, so we return 1.
 
 Input: fruits = [3,6,1], baskets = [6,4,7]
 Output: 0
@@ -199,11 +199,11 @@ class Solution:
 
 ## Test Cases
 ```
-Test Case 1: fruits = [4,2,5], baskets = [3,5,4] → 0
+Test Case 1: fruits = [4,2,5], baskets = [3,5,4] → 1
 Test Case 2: fruits = [3,6,1], baskets = [6,4,7] → 0
 Test Case 3: fruits = [1,1,1], baskets = [1,1,1] → 0
 Test Case 4: fruits = [5,5,5], baskets = [3,3,3] → 2
-Test Case 5: fruits = [2,3,4], baskets = [1,2,3] → 0
+Test Case 5: fruits = [2,3,4], baskets = [1,2,3] → 1
 ```
 
 ## Edge Cases

@@ -22,7 +22,10 @@ function placeFruits(fruits, baskets, skipIndex) {
     let unplaced = 0;
     
     for (let i = 0; i < fruits.length; i++) {
-        if (i === skipIndex) continue; // Skip this fruit
+        if (i === skipIndex) {
+            unplaced++; // Count skipped fruit as unplaced
+            continue;
+        }
         
         let placed = false;
         

@@ -18,7 +18,10 @@ class Solution {
         int unplaced = 0;
         
         for (int i = 0; i < fruits.length; i++) {
-            if (i == skipIndex) continue; // Skip this fruit
+            if (i == skipIndex) {
+                unplaced++; // Count skipped fruit as unplaced
+                continue;
+            }
             
             boolean placed = false;
             

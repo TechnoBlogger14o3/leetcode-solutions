@@ -19,7 +19,8 @@ class Solution:
         
         for i in range(len(fruits)):
             if i == skip_index:
-                continue  # Skip this fruit
+                unplaced += 1  # Count skipped fruit as unplaced
+                continue
             
             placed = False
             
