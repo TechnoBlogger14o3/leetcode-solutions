@@ -46,13 +46,14 @@ Since we can skip one fruit and place the rest, we return 0.
 - We find the best outcome among all possible skip combinations
 
 ## Complexity Analysis
-- **Time Complexity**: O(n²) - For each skip possibility, we do O(n²) work
-- **Space Complexity**: O(n) - To track which baskets are used
+- **Time Complexity**: O(n log n) - Sort baskets once, then O(n) for each skip possibility
+- **Space Complexity**: O(n) - To maintain sorted list of available baskets
 
 ## Key Insights
 - This is an extension of the previous problem with skip logic
 - We need to try all possible skip combinations to find the optimal solution
-- The greedy placement strategy remains the same for each attempt
+- Using sorted data structures (TreeSet/Array) for efficient basket matching
+- Greedy placement strategy with optimized basket selection
 
 ## Alternative Approaches
 1. **Brute Force**: Try all possible skip combinations - O(n!) time

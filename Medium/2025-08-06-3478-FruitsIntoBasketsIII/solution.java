@@ -1,20 +1,27 @@
+import java.util.*;
+
 class Solution {
     public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
         int minUnplaced = Integer.MAX_VALUE;
         
         // Try placing all fruits without skipping
-        minUnplaced = Math.min(minUnplaced, placeFruits(fruits, baskets, -1));
+        minUnplaced = Math.min(minUnplaced, placeFruitsOptimized(fruits, baskets, -1));
         
         // Try skipping each fruit type
         for (int skipIndex = 0; skipIndex < fruits.length; skipIndex++) {
-            minUnplaced = Math.min(minUnplaced, placeFruits(fruits, baskets, skipIndex));
+            minUnplaced = Math.min(minUnplaced, placeFruitsOptimized(fruits, baskets, skipIndex));
         }
         
         return minUnplaced;
     }
     
-    private int placeFruits(int[] fruits, int[] baskets, int skipIndex) {
-        boolean[] used = new boolean[baskets.length];
+    private int placeFruitsOptimized(int[] fruits, int[] baskets, int skipIndex) {
+        // Use TreeSet to maintain available baskets efficiently
+        TreeSet<Integer> availableBaskets = new TreeSet<>();
+        for (int basket : baskets) {
+            availableBaskets.add(basket);
+        }
+        
         int unplaced = 0;
         
         for (int i = 0; i < fruits.length; i++) {
@@ -23,19 +30,13 @@ class Solution {
                 continue;
             }
             
-            boolean placed = false;
+            // Find the smallest available basket that can hold this fruit
+            Integer basket = availableBaskets.ceiling(fruits[i]);
             
-            // Find the leftmost available basket with sufficient capacity
-            for (int j = 0; j < baskets.length; j++) {
-                if (!used[j] && baskets[j] >= fruits[i]) {
-                    used[j] = true;  // Mark basket as used
-                    placed = true;
-                    break;
-                }
-            }
-            
-            if (!placed) {
+            if (basket == null) {
                 unplaced++;
+            } else {
+                availableBaskets.remove(basket);
             }
         }
         
