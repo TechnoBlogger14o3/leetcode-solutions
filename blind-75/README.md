@@ -16,11 +16,11 @@ This folder contains solutions to the Blind 75 list of LeetCode problems, a cura
 - [x] Dynamic Programming (12/12 completed)
 - [x] Graph (6/6 completed)
 - [x] Interval (6/6 completed)
-- [x] Linked List (9/10 completed)
-- [ ] Matrix (0/4)
-- [ ] String (0/8)
-- [ ] Tree (0/9)
-- [ ] Heap (0/4)
+- [x] Linked List (10/10 completed)
+- [x] Matrix (4/4 completed)
+- [x] String (8/8 completed)
+- [x] Tree (9/9 completed)
+- [x] Heap (4/4 completed)
 
 ## Array
 1. [Two Sum](array/two-sum/) - Completed
@@ -82,6 +82,12 @@ This folder contains solutions to the Blind 75 list of LeetCode problems, a cura
 8. Add Two Numbers
 9. Odd Even Linked List
 10. Intersection of Two Linked Lists
+
+## Matrix
+1. Set Matrix Zeroes
+2. Spiral Matrix
+3. Rotate Image
+4. Word Search
 
 ... (and so on for other categories)
 
