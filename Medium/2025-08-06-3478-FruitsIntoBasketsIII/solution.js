@@ -4,45 +4,63 @@
  * @return {number}
  */
 var numOfUnplacedFruits = function(fruits, baskets) {
-    let minUnplaced = Infinity;
-    
-    // Try placing all fruits without skipping
-    minUnplaced = Math.min(minUnplaced, placeFruitsOptimized(fruits, baskets, -1));
-    
-    // Try skipping each fruit type
-    for (let skipIndex = 0; skipIndex < fruits.length; skipIndex++) {
-        minUnplaced = Math.min(minUnplaced, placeFruitsOptimized(fruits, baskets, skipIndex));
-    }
-    
-    return minUnplaced;
-};
+    const sect_mx = [];
+    const m = baskets.length;
+    const a = Math.floor(Math.sqrt(m)); // size of one array
 
-function placeFruitsOptimized(fruits, baskets, skipIndex) {
-    // Use sorted array to maintain available baskets efficiently
-    const availableBaskets = [...baskets].sort((a, b) => a - b);
-    let unplaced = 0;
-    
-    for (let i = 0; i < fruits.length; i++) {
-        if (i === skipIndex) {
-            unplaced++; // Count skipped fruit as unplaced
-            continue;
+    let cnt = 0, mx = 0;
+    for (let i = 0; i < m; i++) {
+        if (cnt === a) {
+            // creating sector of size a
+            sect_mx.push(mx);
+            mx = baskets[i];
+            cnt = 1;
+        } else {
+            cnt++;
+            mx = Math.max(mx, baskets[i]);
         }
-        
-        // Find the smallest available basket that can hold this fruit
-        let basketIndex = -1;
-        for (let j = 0; j < availableBaskets.length; j++) {
-            if (availableBaskets[j] >= fruits[i]) {
-                basketIndex = j;
+    }
+
+    // last sector
+    sect_mx.push(mx);
+
+    let remain = 0;
+
+    // start allocating
+    for (let i = 0; i < fruits.length; i++) {
+        let k = 0, set = 1;
+
+        for (let j = 0; j < m; j += a) {
+            if (sect_mx[k] < fruits[i]) {
+                // skip this segment
+                k++;
+                continue;
+            }
+
+            // find place to allocate
+            for (let r = j; r < Math.min(j + a, m); r++) {
+                if (baskets[r] >= fruits[i]) {
+                    set = 0;
+                    baskets[r] = 0;
+                    break;
+                }
+            }
+
+            // if fruit is allocated in a sector
+            if (set === 0) {
+                sect_mx[k] = 0; // find new mx
+                // update new sector mx
+                for (let r = j; r < Math.min(j + a, m); r++) {
+                    sect_mx[k] = Math.max(baskets[r], sect_mx[k]);
+                }
                 break;
             }
+
+            k++;
         }
-        
-        if (basketIndex === -1) {
-            unplaced++;
-        } else {
-            availableBaskets.splice(basketIndex, 1); // Remove used basket
-        }
+
+        remain += set;
     }
-    
-    return unplaced;
-} 
+
+    return remain;
+}; 

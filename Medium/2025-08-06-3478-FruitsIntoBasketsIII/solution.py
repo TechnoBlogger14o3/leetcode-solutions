@@ -1,39 +1,57 @@
 from typing import List
-import bisect
+import math
 
 class Solution:
     def numOfUnplacedFruits(self, fruits: List[int], baskets: List[int]) -> int:
-        min_unplaced = float('inf')
-        
-        # Try placing all fruits without skipping
-        min_unplaced = min(min_unplaced, self.place_fruits_optimized(fruits, baskets, -1))
-        
-        # Try skipping each fruit type
-        for skip_index in range(len(fruits)):
-            min_unplaced = min(min_unplaced, self.place_fruits_optimized(fruits, baskets, skip_index))
-        
-        return min_unplaced
-    
-    def place_fruits_optimized(self, fruits: List[int], baskets: List[int], skip_index: int) -> int:
-        # Use sorted list to maintain available baskets efficiently
-        available_baskets = sorted(baskets)
-        unplaced = 0
-        
-        for i in range(len(fruits)):
-            if i == skip_index:
-                unplaced += 1  # Count skipped fruit as unplaced
-                continue
-            
-            # Find the smallest available basket that can hold this fruit
-            basket_index = -1
-            for j in range(len(available_baskets)):
-                if available_baskets[j] >= fruits[i]:
-                    basket_index = j
-                    break
-            
-            if basket_index == -1:
-                unplaced += 1
+        sect_mx = []
+        m = len(baskets)
+        a = int(math.sqrt(m))  # size of one array
+
+        cnt = 0
+        mx = 0
+        for i in range(m):
+            if cnt == a:
+                # creating sector of size a
+                sect_mx.append(mx)
+                mx = baskets[i]
+                cnt = 1
             else:
-                available_baskets.pop(basket_index)  # Remove used basket
-        
-        return unplaced 
+                cnt += 1
+                mx = max(mx, baskets[i])
+
+        # last sector
+        sect_mx.append(mx)
+
+        remain = 0
+
+        # start allocating
+        for i in range(len(fruits)):
+            k = 0
+            set_val = 1
+
+            for j in range(0, m, a):
+                if sect_mx[k] < fruits[i]:
+                    # skip this segment
+                    k += 1
+                    continue
+
+                # find place to allocate
+                for r in range(j, min(j + a, m)):
+                    if baskets[r] >= fruits[i]:
+                        set_val = 0
+                        baskets[r] = 0
+                        break
+
+                # if fruit is allocated in a sector
+                if set_val == 0:
+                    sect_mx[k] = 0  # find new mx
+                    # update new sector mx
+                    for r in range(j, min(j + a, m)):
+                        sect_mx[k] = max(baskets[r], sect_mx[k])
+                    break
+
+                k += 1
+
+            remain += set_val
+
+        return remain 

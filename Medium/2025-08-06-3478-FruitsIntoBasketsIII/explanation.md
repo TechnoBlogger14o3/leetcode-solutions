@@ -8,7 +8,6 @@ From left to right, place the fruits according to these rules:
 - Each fruit type must be placed in the leftmost available basket with a capacity greater than or equal to the quantity of that fruit type.
 - Each basket can hold only one type of fruit.
 - If a fruit type cannot be placed in any basket, it remains unplaced.
-- You can **skip at most one fruit type** during placement.
 
 Return the number of fruit types that remain unplaced after all possible allocations are made.
 
@@ -20,45 +19,48 @@ Explanation:
 - fruits[0] = 4 is placed in baskets[1] = 5.
 - fruits[1] = 2 is placed in baskets[0] = 3.
 - fruits[2] = 5 cannot be placed in baskets[2] = 4 (insufficient capacity).
-Even with skipping, we still have 1 unplaced fruit, so we return 1.
+So 1 fruit remains unplaced.
 
 Input: fruits = [3,6,1], baskets = [6,4,7]
 Output: 0
 Explanation:
 - fruits[0] = 3 is placed in baskets[0] = 6.
-- fruits[1] = 6 can be skipped.
+- fruits[1] = 6 is placed in baskets[2] = 7.
 - fruits[2] = 1 is placed in baskets[1] = 4.
-Since we can skip one fruit and place the rest, we return 0.
+All fruits are successfully placed.
 ```
 
 ## Approach
-**Key Insight**: This is a greedy allocation problem with the ability to skip at most one fruit type. We need to find the optimal placement that minimizes unplaced fruits.
+**Key Insight**: This is a greedy allocation problem using sector-based optimization for efficient basket matching.
 
 **Algorithm**:
-1. Try placing all fruits without skipping any.
-2. If that doesn't work, try skipping each fruit type one by one and find the best result.
-3. For each attempt, use the greedy approach: place each fruit in the leftmost available basket with sufficient capacity.
-4. Return the minimum number of unplaced fruits found.
+1. Divide baskets into sectors of size √n for efficient searching.
+2. For each sector, maintain the maximum basket capacity.
+3. For each fruit, search sectors from left to right:
+   - Skip sectors where max capacity < fruit size
+   - Search within sector for available basket
+   - Update sector max when basket is used
+4. Return count of unplaced fruits.
 
 **Why this works**:
-- We can skip at most one fruit type, so we need to try all possibilities
+- Sector-based approach reduces search complexity from O(n) to O(√n) per fruit
 - Greedy placement ensures optimal use of available baskets
-- We find the best outcome among all possible skip combinations
+- Efficient sector updates maintain accurate capacity information
 
 ## Complexity Analysis
-- **Time Complexity**: O(n log n) - Sort baskets once, then O(n) for each skip possibility
-- **Space Complexity**: O(n) - To maintain sorted list of available baskets
+- **Time Complexity**: O(n√n) - For each fruit, we search O(√n) sectors, each taking O(√n) time
+- **Space Complexity**: O(√n) - To store sector maximum values
 
 ## Key Insights
-- This is an extension of the previous problem with skip logic
-- We need to try all possible skip combinations to find the optimal solution
-- Using sorted data structures (TreeSet/Array) for efficient basket matching
-- Greedy placement strategy with optimized basket selection
+- This is a greedy allocation problem with sector-based optimization
+- Dividing baskets into √n sectors reduces search complexity
+- Sector maximum values allow quick filtering of unsuitable sectors
+- Efficient updates maintain accurate capacity information
 
 ## Alternative Approaches
-1. **Brute Force**: Try all possible skip combinations - O(n!) time
-2. **Dynamic Programming**: Can be used but overkill for this problem
-3. **Backtracking**: Can be used to find optimal placement
+1. **Brute Force**: Try all possible basket assignments - O(n!) time
+2. **Sorting**: Sort baskets for binary search - O(n log n) time
+3. **Segment Trees**: Can be used for range queries but overkill
 
 ## Solutions in Different Languages
 
