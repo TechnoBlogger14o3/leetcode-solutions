@@ -15,6 +15,9 @@ This repository is created for learning and educational purposes. The goal is to
 
 | Date | Problem ID | Problem Title | Difficulty | Folder Link |
 |------|------------|---------------|------------|-------------|
+| 2025-08-11 | 2438 | Range Product Queries of Powers | Medium | [Link](Medium/2025-08-11-2438-RangeProductQueriesOfPowers/) |
+| 2025-08-10 | 869 | Reordered Power of 2 | Easy | [Link](Easy/2025-08-10-0869-ReorderedPowerOf2/) |
+| 2025-08-09 | 231 | Power of Two | Easy | [Link](Easy/2025-08-09-0231-PowerOfTwo/) |
 | 2025-08-08 | 808 | Soup Servings | Medium | [Link](Medium/2025-08-08-0808-SoupServings/) |
 | 2025-08-07 | - | Find the Maximum Number of Fruits Collected | Medium | [Link](Medium/2025-08-07-FindTheMaximumNumberOfFruitsCollected/) |
 | 2025-08-06 | 3478 | Fruits Into Baskets III | Medium | [Link](Medium/2025-08-06-3478-FruitsIntoBasketsIII/) |
@@ -54,9 +57,9 @@ YYYY-MM-DD-ProblemID-Title/
 
 ## Statistics
 
-- **Total Problems Solved**: 12
-- **Easy**: 2
-- **Medium**: 8
+- **Total Problems Solved**: 15
+- **Easy**: 4
+- **Medium**: 9
 - **Hard**: 2
 
 ## Getting Started

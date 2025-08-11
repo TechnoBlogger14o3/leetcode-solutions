@@ -21,6 +21,7 @@ This folder contains solutions to the Blind 75 list of LeetCode problems, a cura
 - [x] String (8/8 completed)
 - [x] Tree (9/9 completed)
 - [x] Heap (4/4 completed)
+- [x] Bit Manipulation (3/3 completed) - NEW!
 
 ## Array
 1. [Two Sum](array/two-sum/) - Completed
@@ -40,6 +41,11 @@ This folder contains solutions to the Blind 75 list of LeetCode problems, a cura
 3. Counting Bits
 4. Missing Number
 5. Reverse Bits
+
+## Bit Manipulation
+1. [Power of Two](Easy/2025-08-09-0231-PowerOfTwo/) - Completed
+2. [Reordered Power of 2](Easy/2025-08-10-0869-ReorderedPowerOf2/) - Completed
+3. [Range Product Queries of Powers](Medium/2025-08-11-2438-RangeProductQueriesOfPowers/) - Completed
 
 ## Dynamic Programming
 1. Climbing Stairs
