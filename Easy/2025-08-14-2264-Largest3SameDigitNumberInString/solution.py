@@ -33,3 +33,4 @@ class Solution2:
                     result = current
         
         return result
+

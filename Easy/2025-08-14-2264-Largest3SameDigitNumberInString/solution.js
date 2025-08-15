@@ -45,3 +45,4 @@ var largestGoodInteger2 = function(num) {
     
     return result;
 };
+
