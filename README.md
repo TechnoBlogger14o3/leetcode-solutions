@@ -15,6 +15,10 @@ This repository is created for learning and educational purposes. The goal is to
 
 | Date | Problem ID | Problem Title | Difficulty | Folder Link |
 |------|------------|---------------|------------|-------------|
+| 2025-08-18 | 679 | 24 Game | Hard | [Link](Hard/2025-08-18-0679-24Game/) |
+| 2025-08-17 | 837 | New 21 Game | Medium | [Link](Medium/2025-08-17-0837-New21Game/) |
+| 2025-08-16 | 1323 | Maximum 69 Number | Easy | [Link](Easy/2025-08-16-1323-Maximum69Number/) |
+| 2025-08-15 | 342 | Power of Four | Easy | [Link](Easy/2025-08-15-0342-PowerOfFour/) |
 | 2025-08-14 | 2264 | Largest 3-Same-Digit Number in String | Easy | [Link](Easy/2025-08-14-2264-Largest3SameDigitNumberInString/) |
 | 2025-08-13 | 326 | Power of Three | Easy | [Link](Easy/2025-08-13-0326-PowerOfThree/) |
 | 2025-08-12 | 2787 | Ways to Express Integer as Sum of Powers | Medium | [Link](Medium/2025-08-12-2787-WaysToExpressIntegerAsSumOfPowers/) |
@@ -82,9 +86,9 @@ YYYY-MM-DD-ProblemID-Title/
 
 ## Statistics
 
-- **Total Problems Solved**: 18
-- **Easy**: 6
-- **Medium**: 10
+- **Total Problems Solved**: 21
+- **Easy**: 8
+- **Medium**: 11
 - **Hard**: 2
 
 ## Getting Started
