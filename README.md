@@ -15,6 +15,7 @@ This repository is created for learning and educational purposes. The goal is to
 
 | Date | Problem ID | Problem Title | Difficulty | Folder Link |
 |------|------------|---------------|------------|-------------|
+| 2025-08-19 | 2348 | Number of Zero-Filled Subarrays | Medium | [Link](Medium/2025-08-19-2348-NumberOfZeroFilledSubarrays/) |
 | 2025-08-18 | 679 | 24 Game | Hard | [Link](Hard/2025-08-18-0679-24Game/) |
 | 2025-08-17 | 837 | New 21 Game | Medium | [Link](Medium/2025-08-17-0837-New21Game/) |
 | 2025-08-16 | 1323 | Maximum 69 Number | Easy | [Link](Easy/2025-08-16-1323-Maximum69Number/) |
@@ -86,9 +87,9 @@ YYYY-MM-DD-ProblemID-Title/
 
 ## Statistics
 
-- **Total Problems Solved**: 21
+- **Total Problems Solved**: 22
 - **Easy**: 8
-- **Medium**: 11
+- **Medium**: 12
 - **Hard**: 2
 
 ## Getting Started
