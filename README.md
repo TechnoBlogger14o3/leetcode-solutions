@@ -15,6 +15,7 @@ This repository is created for learning and educational purposes. The goal is to
 
 | Date | Problem ID | Problem Title | Difficulty | Folder Link |
 |------|------------|---------------|------------|-------------|
+| 2025-08-21 | 1504 | Count Submatrices with All Ones | Medium | [Link](Medium/2025-08-21-1504-CountSubmatricesWithAllOnes/) |
 | 2025-08-20 | 1277 | Count Square Submatrices with All Ones | Medium | [Link](Medium/2025-08-20-1277-CountSquareSubmatricesWithAllOnes/) |
 | 2025-08-19 | 2348 | Number of Zero-Filled Subarrays | Medium | [Link](Medium/2025-08-19-2348-NumberOfZeroFilledSubarrays/) |
 | 2025-08-18 | 679 | 24 Game | Hard | [Link](Hard/2025-08-18-0679-24Game/) |
@@ -88,9 +89,9 @@ YYYY-MM-DD-ProblemID-Title/
 
 ## Statistics
 
-- **Total Problems Solved**: 23
+- **Total Problems Solved**: 24
 - **Easy**: 8
-- **Medium**: 13
+- **Medium**: 14
 - **Hard**: 2
 
 ## Getting Started
