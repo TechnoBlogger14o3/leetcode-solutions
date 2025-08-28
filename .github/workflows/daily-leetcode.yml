@@ -1,0 +1,56 @@
+name: Daily LeetCode Agent
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # runs daily at 00:30 UTC (≈06:00 IST)
+  workflow_dispatch:
+
+permissions:
+  contents: write   # allow commits
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt pytest
+
+      - name: Run daily LeetCode agent
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LLM_MODEL: gpt-4o-mini
+        run: |
+          python scripts/fetch_and_solve.py
+
+      - name: Run tests on generated Python solution
+        run: |
+          if [ -d "tests" ]; then
+            pytest tests --maxfail=1 --disable-warnings -q
+          else
+            echo "⚠️ No tests directory found. Skipping tests."
+          fi
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "leetcode-bot"
+          git config user.email "leetcode-bot@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "chore: add LeetCode daily solution [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
