@@ -45,8 +45,8 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          git config user.name "leetcode-bot"
-          git config user.email "leetcode-bot@users.noreply.github.com"
+          git config user.name "TechnoBlogger14o3"
+          git config user.email "aman.shekhar4@gmail.com"
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
             git commit -m "chore: add LeetCode daily solution [skip ci]"
