@@ -132,3 +132,4 @@ Each problem includes:
 ---
 
 *This repository is maintained for educational purposes and continuous learning in algorithmic problem-solving.*- 2025-08-28 — [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) (Medium) → `Medium/2025-08-28-3446-Sort-Matrix-by-Diagonals`
+- 2025-08-29 — [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) (Medium) → `Medium/2025-08-29-3021-Alice-and-Bob-Playing-Flower-Game`
