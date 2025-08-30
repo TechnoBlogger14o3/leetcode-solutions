@@ -24,7 +24,13 @@ DIFF_MAP = {"Easy": "Easy", "Medium": "Medium", "Hard": "Hard"}
 # -----------------------
 def graphql(query: str, variables=None):
     cookies = {"LEETCODE_SESSION": SESSION_COOKIE} if SESSION_COOKIE else None
-    r = requests.post(LEETCODE_GRAPHQL, headers=HEADERS, cookies=cookies, json={"query": query, "variables": variables or {}}, timeout=30)
+    r = requests.post(
+        LEETCODE_GRAPHQL,
+        headers=HEADERS,
+        cookies=cookies,
+        json={"query": query, "variables": variables or {}},
+        timeout=30,
+    )
     r.raise_for_status()
     data = r.json()
     if "errors" in data:
@@ -65,7 +71,7 @@ def ist_today():
     return datetime.now(timezone.utc).astimezone(ist).date()
 
 def safe_title(s: str) -> str:
-    return re.sub(r'[^A-Za-z0-9]+', '-', s).strip('-')
+    return re.sub(r"[^A-Za-z0-9]+", "-", s).strip("-")
 
 def call_llm(prompt: str, lang: str) -> str:
     from openai import OpenAI
@@ -78,7 +84,13 @@ def call_llm(prompt: str, lang: str) -> str:
         ],
         temperature=0.2,
     )
-    return resp.choices[0].message.content.strip().removeprefix("```").removesuffix("```").strip()
+    content = resp.choices[0].message.content.strip()
+
+    # Remove triple backticks and language hints
+    content = re.sub(r"^```[a-zA-Z]*\n?", "", content)
+    content = re.sub(r"```$", "", content).strip()
+
+    return content
 
 def build_prompt(meta, lang: str):
     return textwrap.dedent(f"""
@@ -100,6 +112,40 @@ def build_prompt(meta, lang: str):
     - Use standard LeetCode function/class signatures.
     - Do NOT include explanations in output, only code.
     """)
+
+def build_explanation_prompt(meta):
+    return textwrap.dedent(f"""
+    Explain the approach to solve the following LeetCode problem:
+
+    Title: {meta['title']}
+    Difficulty: {meta['difficulty']}
+    Problem ID: {meta['id']}
+    Link: {meta['link']}
+
+    Problem statement (HTML removed):
+    {re.sub(r"<[^>]+>", " ", meta['content'])}
+
+    Example test cases:
+    {meta['examples']}
+
+    Requirements:
+    - Write a clear, concise explanation of the solution approach.
+    - Mention the main idea, data structures, and complexity.
+    - Do NOT output code, only explanation.
+    """)
+
+def call_llm_explanation(prompt: str) -> str:
+    from openai import OpenAI
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    resp = client.chat.completions.create(
+        model=MODEL,
+        messages=[
+            {"role": "system", "content": "You are a senior competitive programmer. Write a concise explanation of the problem-solving approach."},
+            {"role": "user", "content": prompt},
+        ],
+        temperature=0.4,
+    )
+    return resp.choices[0].message.content.strip()
 
 def update_readme(entry: str):
     if not README.exists():
@@ -129,7 +175,8 @@ def main():
         code = call_llm(build_prompt(daily, lang), lang)
         (problem_dir / fname).write_text(code, encoding="utf-8")
 
-    # Explanation file
+    # Generate explanation
+    explanation_text = call_llm_explanation(build_explanation_prompt(daily))
     explanation = f"""# {daily['title']} ({daily['difficulty']})
 
 **Problem ID:** {daily['id']}  
@@ -138,8 +185,7 @@ def main():
 
 ## Approach
 
-- Optimized solution implemented in Python, Java, and JavaScript.
-
+{explanation_text}
 """
     (problem_dir / "explanation.md").write_text(explanation, encoding="utf-8")
 
