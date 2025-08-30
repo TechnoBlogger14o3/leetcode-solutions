@@ -49,7 +49,7 @@ jobs:
           git config user.email "aman.shekhar4@gmail.com"
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
-            git commit -m "chore: add LeetCode daily solution [skip ci]"
+            git commit -m "chore: add LeetCode daily solution"
             git push
           else
             echo "No changes to commit."
