@@ -135,3 +135,4 @@ Each problem includes:
 - 2025-08-29 — [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) (Medium) → `Medium/2025-08-29-3021-Alice-and-Bob-Playing-Flower-Game`
 - 2025-08-30 — [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (Medium) → `Medium/2025-08-30-36-Valid-Sudoku`
 - 2025-08-31 — [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (Hard) → `Hard/2025-08-31-37-Sudoku-Solver`
+- 2025-09-01 — [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) (Medium) → `Medium/2025-09-01-1792-Maximum-Average-Pass-Ratio`
