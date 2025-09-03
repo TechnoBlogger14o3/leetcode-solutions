@@ -137,3 +137,4 @@ Each problem includes:
 - 2025-08-31 — [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (Hard) → `Hard/2025-08-31-37-Sudoku-Solver`
 - 2025-09-01 — [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) (Medium) → `Medium/2025-09-01-1792-Maximum-Average-Pass-Ratio`
 - 2025-09-02 — [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) (Medium) → `Medium/2025-09-02-3025-Find-the-Number-of-Ways-to-Place-People-I`
+- 2025-09-03 — [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) (Hard) → `Hard/2025-09-03-3027-Find-the-Number-of-Ways-to-Place-People-II`
