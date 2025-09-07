@@ -140,3 +140,4 @@ Each problem includes:
 - 2025-09-03 — [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) (Hard) → `Hard/2025-09-03-3027-Find-the-Number-of-Ways-to-Place-People-II`
 - 2025-09-04 — [Find Closest Person](https://leetcode.com/problems/find-closest-person/) (Easy) → `Easy/2025-09-04-3516-Find-Closest-Person`
 - 2025-09-06 — [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) (Hard) → `Hard/2025-09-06-3495-Minimum-Operations-to-Make-Array-Elements-Zero`
+- 2025-09-07 — [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) (Easy) → `Easy/2025-09-07-1304-Find-N-Unique-Integers-Sum-up-to-Zero`
