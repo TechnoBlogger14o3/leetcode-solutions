@@ -143,3 +143,4 @@ Each problem includes:
 - 2025-09-07 — [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) (Easy) → `Easy/2025-09-07-1304-Find-N-Unique-Integers-Sum-up-to-Zero`
 - 2025-09-08 — [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) (Easy) → `Easy/2025-09-08-1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers`
 - 2025-09-09 — [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) (Medium) → `Medium/2025-09-09-2327-Number-of-People-Aware-of-a-Secret`
+- 2025-09-10 — [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) (Medium) → `Medium/2025-09-10-1733-Minimum-Number-of-People-to-Teach`
