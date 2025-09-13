@@ -146,3 +146,4 @@ Each problem includes:
 - 2025-09-10 — [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) (Medium) → `Medium/2025-09-10-1733-Minimum-Number-of-People-to-Teach`
 - 2025-09-11 — [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) (Medium) → `Medium/2025-09-11-2785-Sort-Vowels-in-a-String`
 - 2025-09-12 — [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) (Medium) → `Medium/2025-09-12-3227-Vowels-Game-in-a-String`
+- 2025-09-13 — [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) (Easy) → `Easy/2025-09-13-3541-Find-Most-Frequent-Vowel-and-Consonant`
