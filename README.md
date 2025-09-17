@@ -149,3 +149,4 @@ Each problem includes:
 - 2025-09-13 — [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) (Easy) → `Easy/2025-09-13-3541-Find-Most-Frequent-Vowel-and-Consonant`
 - 2025-09-14 — [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) (Medium) → `Medium/2025-09-14-966-Vowel-Spellchecker`
 - 2025-09-15 — [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) (Easy) → `Easy/2025-09-15-1935-Maximum-Number-of-Words-You-Can-Type`
+- 2025-09-17 — [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) (Medium) → `Medium/2025-09-17-2353-Design-a-Food-Rating-System`
