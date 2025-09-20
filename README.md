@@ -152,3 +152,4 @@ Each problem includes:
 - 2025-09-17 — [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) (Medium) → `Medium/2025-09-17-2353-Design-a-Food-Rating-System`
 - 2025-09-18 — [Design Task Manager](https://leetcode.com/problems/design-task-manager/) (Medium) → `Medium/2025-09-18-3408-Design-Task-Manager`
 - 2025-09-19 — [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) (Medium) → `Medium/2025-09-19-3484-Design-Spreadsheet`
+- 2025-09-20 — [Implement Router](https://leetcode.com/problems/implement-router/) (Medium) → `Medium/2025-09-20-3508-Implement-Router`
