@@ -156,3 +156,4 @@ Each problem includes:
 - 2025-09-21 — [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) (Hard) → `Hard/2025-09-21-1912-Design-Movie-Rental-System`
 - 2025-09-22 — [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) (Easy) → `Easy/2025-09-22-3005-Count-Elements-With-Maximum-Frequency`
 - 2025-09-23 — [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) (Medium) → `Medium/2025-09-23-165-Compare-Version-Numbers`
+- 2025-09-24 — [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) (Medium) → `Medium/2025-09-24-166-Fraction-to-Recurring-Decimal`
