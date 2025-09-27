@@ -159,3 +159,4 @@ Each problem includes:
 - 2025-09-24 — [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) (Medium) → `Medium/2025-09-24-166-Fraction-to-Recurring-Decimal`
 - 2025-09-25 — [Triangle](https://leetcode.com/problems/triangle/) (Medium) → `Medium/2025-09-25-120-Triangle`
 - 2025-09-26 — [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) (Medium) → `Medium/2025-09-26-611-Valid-Triangle-Number`
+- 2025-09-27 — [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) (Easy) → `Easy/2025-09-27-812-Largest-Triangle-Area`
