@@ -161,3 +161,4 @@ Each problem includes:
 - 2025-09-26 — [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) (Medium) → `Medium/2025-09-26-611-Valid-Triangle-Number`
 - 2025-09-27 — [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) (Easy) → `Easy/2025-09-27-812-Largest-Triangle-Area`
 - 2025-09-28 — [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) (Easy) → `Easy/2025-09-28-976-Largest-Perimeter-Triangle`
+- 2025-09-29 — [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) (Medium) → `Medium/2025-09-29-1039-Minimum-Score-Triangulation-of-Polygon`
