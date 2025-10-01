@@ -163,3 +163,4 @@ Each problem includes:
 - 2025-09-28 — [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) (Easy) → `Easy/2025-09-28-976-Largest-Perimeter-Triangle`
 - 2025-09-29 — [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) (Medium) → `Medium/2025-09-29-1039-Minimum-Score-Triangulation-of-Polygon`
 - 2025-09-30 — [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) (Medium) → `Medium/2025-09-30-2221-Find-Triangular-Sum-of-an-Array`
+- 2025-10-01 — [Water Bottles](https://leetcode.com/problems/water-bottles/) (Easy) → `Easy/2025-10-01-1518-Water-Bottles`
