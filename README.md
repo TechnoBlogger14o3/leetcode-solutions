@@ -165,3 +165,4 @@ Each problem includes:
 - 2025-09-30 — [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) (Medium) → `Medium/2025-09-30-2221-Find-Triangular-Sum-of-an-Array`
 - 2025-10-01 — [Water Bottles](https://leetcode.com/problems/water-bottles/) (Easy) → `Easy/2025-10-01-1518-Water-Bottles`
 - 2025-10-02 — [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) (Medium) → `Medium/2025-10-02-3100-Water-Bottles-II`
+- 2025-10-03 — [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) (Hard) → `Hard/2025-10-03-407-Trapping-Rain-Water-II`
