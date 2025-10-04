@@ -166,3 +166,4 @@ Each problem includes:
 - 2025-10-01 — [Water Bottles](https://leetcode.com/problems/water-bottles/) (Easy) → `Easy/2025-10-01-1518-Water-Bottles`
 - 2025-10-02 — [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) (Medium) → `Medium/2025-10-02-3100-Water-Bottles-II`
 - 2025-10-03 — [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) (Hard) → `Hard/2025-10-03-407-Trapping-Rain-Water-II`
+- 2025-10-04 — [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (Medium) → `Medium/2025-10-04-11-Container-With-Most-Water`
