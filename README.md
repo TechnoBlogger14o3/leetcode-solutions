@@ -168,3 +168,4 @@ Each problem includes:
 - 2025-10-03 — [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) (Hard) → `Hard/2025-10-03-407-Trapping-Rain-Water-II`
 - 2025-10-04 — [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (Medium) → `Medium/2025-10-04-11-Container-With-Most-Water`
 - 2025-10-05 — [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) (Medium) → `Medium/2025-10-05-417-Pacific-Atlantic-Water-Flow`
+- 2025-10-06 — [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) (Hard) → `Hard/2025-10-06-778-Swim-in-Rising-Water`
