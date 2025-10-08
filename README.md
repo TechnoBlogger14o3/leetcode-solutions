@@ -170,3 +170,4 @@ Each problem includes:
 - 2025-10-05 — [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) (Medium) → `Medium/2025-10-05-417-Pacific-Atlantic-Water-Flow`
 - 2025-10-06 — [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) (Hard) → `Hard/2025-10-06-778-Swim-in-Rising-Water`
 - 2025-10-07 — [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) (Medium) → `Medium/2025-10-07-1488-Avoid-Flood-in-The-City`
+- 2025-10-08 — [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) (Medium) → `Medium/2025-10-08-2300-Successful-Pairs-of-Spells-and-Potions`
