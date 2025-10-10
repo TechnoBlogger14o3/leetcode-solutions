@@ -172,3 +172,4 @@ Each problem includes:
 - 2025-10-07 — [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) (Medium) → `Medium/2025-10-07-1488-Avoid-Flood-in-The-City`
 - 2025-10-08 — [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) (Medium) → `Medium/2025-10-08-2300-Successful-Pairs-of-Spells-and-Potions`
 - 2025-10-09 — [Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) (Medium) → `Medium/2025-10-09-3494-Find-the-Minimum-Amount-of-Time-to-Brew-Potions`
+- 2025-10-10 — [Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) (Medium) → `Medium/2025-10-10-3147-Taking-Maximum-Energy-From-the-Mystic-Dungeon`
