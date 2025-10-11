@@ -63,6 +63,36 @@ The repository also includes solutions for the **Blind 75** - a curated list of 
 - **Completed**: 75 (100%)
 - **Solutions Available**: Java, JavaScript, and Python for all problems
 
+## NeetCode 150 Problems
+
+The repository now includes complete solutions for the **NeetCode 150** - an expanded list of essential coding interview questions that builds upon the Blind 75. This comprehensive collection covers all major algorithmic patterns and data structures.
+
+### NeetCode 150 Categories:
+- **Arrays & Hashing** (9 problems): Contains Duplicate, Valid Anagram, Two Sum, Group Anagrams, etc.
+- **Two Pointers** (5 problems): Valid Palindrome, Two Sum II, 3Sum, Container With Most Water, etc.
+- **Sliding Window** (6 problems): Best Time to Buy and Sell Stock, Longest Substring Without Repeating Characters, etc.
+- **Stack** (7 problems): Valid Parentheses, Min Stack, Evaluate Reverse Polish Notation, etc.
+- **Binary Search** (7 problems): Binary Search, Search 2D Matrix, Koko Eating Bananas, etc.
+- **Linked List** (11 problems): Reverse Linked List, Linked List Cycle, Merge Two Sorted Lists, etc.
+- **Trees** (8 problems): Invert Binary Tree, Maximum Depth of Binary Tree, Diameter of Binary Tree, etc.
+- **Tries** (3 problems): Implement Trie, Design Add and Search Words Data Structure, Word Search II
+- **Backtracking** (7 problems): Subsets, Combination Sum, Permutations, Word Search, etc.
+- **Heap/Priority Queue** (7 problems): Kth Largest Element in a Stream, Last Stone Weight, Task Scheduler, etc.
+- **Graphs** (13 problems): Number of Islands, Clone Graph, Pacific Atlantic Water Flow, etc.
+- **Advanced Graphs** (6 problems): Reconstruct Itinerary, Min Cost to Connect All Points, Network Delay Time, etc.
+- **1D Dynamic Programming** (8 problems): Climbing Stairs, House Robber, Longest Palindromic Substring, etc.
+- **2D Dynamic Programming** (8 problems): Unique Paths, Longest Common Subsequence, Edit Distance, etc.
+- **Greedy** (8 problems): Maximum Subarray, Jump Game, Gas Station, Hand of Straights, etc.
+- **Intervals** (7 problems): Insert Interval, Merge Intervals, Non-overlapping Intervals, etc.
+- **Math & Geometry** (9 problems): Rotate Image, Spiral Matrix, Set Matrix Zeroes, Power of Two, etc.
+- **Bit Manipulation** (5 problems): Single Number, Reverse Integer, Add Binary, Single Number II, etc.
+
+### NeetCode 150 Progress:
+- **Total NeetCode 150 Problems**: 134
+- **Completed**: 134 (100%)
+- **Solutions Available**: Java, JavaScript, and Python for all problems
+- **Categories Completed**: 18/18 (100%)
+
 ## Repository Structure
 
 ```
@@ -70,6 +100,25 @@ LeetCode-Daily-Solutions/
 │
 ├── README.md                     # Index of all problems
 ├── blind-75/                    # Blind 75 curated problems by category
+├── neetcode-150/                # NeetCode 150 comprehensive problems by category
+│   ├── arrays-hashing/          # Arrays & Hashing problems
+│   ├── two-pointers/            # Two Pointers problems
+│   ├── sliding-window/          # Sliding Window problems
+│   ├── stack/                   # Stack problems
+│   ├── binary-search/           # Binary Search problems
+│   ├── linked-list/             # Linked List problems
+│   ├── trees/                   # Trees problems
+│   ├── tries/                   # Tries problems
+│   ├── backtracking/           # Backtracking problems
+│   ├── heap/                    # Heap/Priority Queue problems
+│   ├── graphs/                  # Graphs problems
+│   ├── advanced-graphs/         # Advanced Graphs problems
+│   ├── 1d-dp/                   # 1D Dynamic Programming problems
+│   ├── 2d-dp/                   # 2D Dynamic Programming problems
+│   ├── greedy/                  # Greedy problems
+│   ├── intervals/               # Intervals problems
+│   ├── math-geometry/           # Math & Geometry problems
+│   └── bit-manipulation/        # Bit Manipulation problems
 ├── Easy/                        # Easy difficulty problems
 ├── Medium/                      # Medium difficulty problems
 ├── Hard/                        # Hard difficulty problems
@@ -90,10 +139,22 @@ YYYY-MM-DD-ProblemID-Title/
 
 ## Statistics
 
+### Daily Problems:
 - **Total Problems Solved**: 25
 - **Easy**: 8
 - **Medium**: 15
 - **Hard**: 2
+
+### Curated Problem Sets:
+- **Blind 75**: 75 problems (100% complete)
+- **NeetCode 150**: 134 problems (100% complete)
+- **Total Curated Problems**: 209 problems
+
+### Overall Repository:
+- **Total Problems**: 234 problems
+- **Languages**: Java, JavaScript, Python
+- **Categories**: 18 algorithmic categories
+- **Documentation**: Comprehensive explanations for all problems
 
 ## Getting Started
 
@@ -123,15 +184,25 @@ Each problem includes:
 
 ## Notes
 
-- All solutions are organized by difficulty level
-- Each problem includes solutions in both Java and JavaScript
+- All solutions are organized by difficulty level and category
+- Each problem includes solutions in Java, JavaScript, and Python
 - Detailed explanations and complexity analysis included
 - Solutions are date-stamped for tracking progress
 - Focus on understanding rather than memorization
+- Comprehensive coverage of all major algorithmic patterns
+
+## 🎯 Learning Outcomes
+
+Through completing the Blind 75 and NeetCode 150, you will have mastered:
+- **Data Structures**: Arrays, Hash Tables, Stacks, Queues, Trees, Graphs, Tries, Heaps
+- **Algorithms**: Sorting, Searching, Dynamic Programming, Greedy, Backtracking, Graph Algorithms
+- **Patterns**: Two Pointers, Sliding Window, Binary Search, Bit Manipulation, Interval Scheduling
+- **Complexity Analysis**: Time and space complexity optimization
+- **Problem-Solving Skills**: Systematic approach to tackling algorithmic challenges
 
 ---
 
-*This repository is maintained for educational purposes and continuous learning in algorithmic problem-solving.*- 2025-08-28 — [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) (Medium) → `Medium/2025-08-28-3446-Sort-Matrix-by-Diagonals`
+*This repository is maintained for educational purposes and continuous learning in algorithmic problem-solving. The completion of both Blind 75 and NeetCode 150 represents a significant milestone in coding interview preparation.*- 2025-08-28 — [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) (Medium) → `Medium/2025-08-28-3446-Sort-Matrix-by-Diagonals`
 - 2025-08-29 — [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) (Medium) → `Medium/2025-08-29-3021-Alice-and-Bob-Playing-Flower-Game`
 - 2025-08-30 — [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (Medium) → `Medium/2025-08-30-36-Valid-Sudoku`
 - 2025-08-31 — [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (Hard) → `Hard/2025-08-31-37-Sudoku-Solver`
