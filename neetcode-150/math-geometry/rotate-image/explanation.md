@@ -17,52 +17,52 @@ Output: [[7,4,1],[8,5,2],[9,6,3]]
 ## Approach
 
 ### Method 1: Transpose + Reverse (Recommended)
-1. Transpose the matrix (swap rows and columns)
+1. Transpose the matrix (swap matrix[i][j] with matrix[j][i])
 2. Reverse each row
 3. Most efficient approach
 
 **Time Complexity:** O(n²) - Two passes
 **Space Complexity:** O(1) - In-place modification
 
-### Method 2: Layer by Layer Rotation
+### Method 2: Layer by Layer
 1. Rotate matrix layer by layer
 2. Use four-way swap for each layer
 3. Less efficient than transpose approach
 
-**Time Complexity:** O(n²) - Two passes
+**Time Complexity:** O(n²) - Single pass
 **Space Complexity:** O(1) - In-place modification
 
 ## Algorithm
 
 ```
 1. Transpose matrix: matrix[i][j] = matrix[j][i]
-2. Reverse each row: matrix[i][j] = matrix[i][n-1-j]
+2. Reverse each row: reverse(matrix[i])
 ```
 
 ## Key Insights
 
-- **Transpose**: Swap rows and columns
+- **Transpose**: Swap elements across diagonal
 - **Reverse**: Reverse each row after transpose
-- **Local Optimum**: Efficient matrix transformation
-- **Global Optimum**: 90-degree clockwise rotation
+- **In-place**: No extra space needed
+- **Space Optimization**: Use only necessary space
 
 ## Alternative Approaches
 
 1. **Layer by Layer**: Rotate layer by layer
 2. **Four-way Swap**: Use four-way swap for each element
-3. **Brute Force**: Create new matrix and copy
+3. **Mathematical**: Use mathematical transformation
 
 ## Edge Cases
 
-- Single element: Return as is
-- 2x2 matrix: Handle appropriately
+- Single element: No change needed
+- 2x2 matrix: Simple swap
 - Large matrix: Handle efficiently
-- Empty matrix: Return empty matrix
+- Empty matrix: Handle appropriately
 
 ## Applications
 
-- Matrix algorithms
 - Image processing
+- Matrix operations
 - Algorithm design patterns
 - Interview preparation
 - System design
