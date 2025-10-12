@@ -245,3 +245,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-10-09 — [Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) (Medium) → `Medium/2025-10-09-3494-Find-the-Minimum-Amount-of-Time-to-Brew-Potions`
 - 2025-10-10 — [Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) (Medium) → `Medium/2025-10-10-3147-Taking-Maximum-Energy-From-the-Mystic-Dungeon`
 - 2025-10-11 — [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) (Medium) → `Medium/2025-10-11-3186-Maximum-Total-Damage-With-Spell-Casting`
+- 2025-10-12 — [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) (Hard) → `Hard/2025-10-12-3539-Find-Sum-of-Array-Product-of-Magical-Sequences`
