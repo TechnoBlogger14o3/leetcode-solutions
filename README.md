@@ -247,3 +247,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-10-11 — [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) (Medium) → `Medium/2025-10-11-3186-Maximum-Total-Damage-With-Spell-Casting`
 - 2025-10-12 — [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) (Hard) → `Hard/2025-10-12-3539-Find-Sum-of-Array-Product-of-Magical-Sequences`
 - 2025-10-13 — [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) (Easy) → `Easy/2025-10-13-2273-Find-Resultant-Array-After-Removing-Anagrams`
+- 2025-10-14 — [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) (Easy) → `Easy/2025-10-14-3349-Adjacent-Increasing-Subarrays-Detection-I`
