@@ -249,3 +249,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-10-13 — [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) (Easy) → `Easy/2025-10-13-2273-Find-Resultant-Array-After-Removing-Anagrams`
 - 2025-10-14 — [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) (Easy) → `Easy/2025-10-14-3349-Adjacent-Increasing-Subarrays-Detection-I`
 - 2025-10-15 — [Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) (Medium) → `Medium/2025-10-15-3350-Adjacent-Increasing-Subarrays-Detection-II`
+- 2025-10-16 — [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) (Medium) → `Medium/2025-10-16-2598-Smallest-Missing-Non-negative-Integer-After-Operations`
