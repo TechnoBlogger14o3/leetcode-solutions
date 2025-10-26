@@ -259,3 +259,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-10-23 — [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) (Easy) → `Easy/2025-10-23-3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I`
 - 2025-10-24 — [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) (Medium) → `Medium/2025-10-24-2048-Next-Greater-Numerically-Balanced-Number`
 - 2025-10-25 — [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) (Easy) → `Easy/2025-10-25-1716-Calculate-Money-in-Leetcode-Bank`
+- 2025-10-26 — [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) (Medium) → `Medium/2025-10-26-2043-Simple-Bank-System`
