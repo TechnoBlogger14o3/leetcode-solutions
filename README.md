@@ -260,3 +260,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-10-24 — [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) (Medium) → `Medium/2025-10-24-2048-Next-Greater-Numerically-Balanced-Number`
 - 2025-10-25 — [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) (Easy) → `Easy/2025-10-25-1716-Calculate-Money-in-Leetcode-Bank`
 - 2025-10-26 — [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) (Medium) → `Medium/2025-10-26-2043-Simple-Bank-System`
+- 2025-10-27 — [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) (Medium) → `Medium/2025-10-27-2125-Number-of-Laser-Beams-in-a-Bank`
