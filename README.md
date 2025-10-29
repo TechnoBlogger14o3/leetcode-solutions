@@ -262,3 +262,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-10-26 — [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) (Medium) → `Medium/2025-10-26-2043-Simple-Bank-System`
 - 2025-10-27 — [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) (Medium) → `Medium/2025-10-27-2125-Number-of-Laser-Beams-in-a-Bank`
 - 2025-10-28 — [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) (Easy) → `Easy/2025-10-28-3354-Make-Array-Elements-Equal-to-Zero`
+- 2025-10-29 — [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) (Easy) → `Easy/2025-10-29-3370-Smallest-Number-With-All-Set-Bits`
