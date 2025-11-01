@@ -265,3 +265,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-10-29 — [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) (Easy) → `Easy/2025-10-29-3370-Smallest-Number-With-All-Set-Bits`
 - 2025-10-30 — [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) (Hard) → `Hard/2025-10-30-1526-Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array`
 - 2025-10-31 — [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) (Easy) → `Easy/2025-10-31-3289-The-Two-Sneaky-Numbers-of-Digitville`
+- 2025-11-01 — [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) (Medium) → `Medium/2025-11-01-3217-Delete-Nodes-From-Linked-List-Present-in-Array`
