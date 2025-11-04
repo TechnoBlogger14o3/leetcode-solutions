@@ -268,3 +268,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-11-01 — [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) (Medium) → `Medium/2025-11-01-3217-Delete-Nodes-From-Linked-List-Present-in-Array`
 - 2025-11-02 — [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) (Medium) → `Medium/2025-11-02-2257-Count-Unguarded-Cells-in-the-Grid`
 - 2025-11-03 — [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) (Medium) → `Medium/2025-11-03-1578-Minimum-Time-to-Make-Rope-Colorful`
+- 2025-11-04 — [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) (Easy) → `Easy/2025-11-04-3318-Find-X-Sum-of-All-K-Long-Subarrays-I`
