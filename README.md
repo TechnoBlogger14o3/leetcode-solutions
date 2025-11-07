@@ -271,3 +271,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-11-04 — [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) (Easy) → `Easy/2025-11-04-3318-Find-X-Sum-of-All-K-Long-Subarrays-I`
 - 2025-11-05 — [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) (Hard) → `Hard/2025-11-05-3321-Find-X-Sum-of-All-K-Long-Subarrays-II`
 - 2025-11-06 — [Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) (Medium) → `Medium/2025-11-06-3607-Power-Grid-Maintenance`
+- 2025-11-07 — [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) (Hard) → `Hard/2025-11-07-2528-Maximize-the-Minimum-Powered-City`
