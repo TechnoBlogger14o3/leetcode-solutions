@@ -276,3 +276,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-11-09 — [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) (Easy) → `Easy/2025-11-09-2169-Count-Operations-to-Obtain-Zero`
 - 2025-11-10 — [Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) (Medium) → `Medium/2025-11-10-3542-Minimum-Operations-to-Convert-All-Elements-to-Zero`
 - 2025-11-11 — [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) (Medium) → `Medium/2025-11-11-474-Ones-and-Zeroes`
+- 2025-11-12 — [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) (Medium) → `Medium/2025-11-12-2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1`
