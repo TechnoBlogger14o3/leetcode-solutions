@@ -284,3 +284,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-11-17 — [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) (Easy) → `Easy/2025-11-17-1437-Check-If-All-1-s-Are-at-Least-Length-K-Places-Away`
 - 2025-11-18 — [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) (Easy) → `Easy/2025-11-18-717-1-bit-and-2-bit-Characters`
 - 2025-11-19 — [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) (Easy) → `Easy/2025-11-19-2154-Keep-Multiplying-Found-Values-by-Two`
+- 2025-11-20 — [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) (Hard) → `Hard/2025-11-20-757-Set-Intersection-Size-At-Least-Two`
