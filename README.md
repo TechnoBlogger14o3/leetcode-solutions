@@ -288,3 +288,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-11-21 — [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) (Medium) → `Medium/2025-11-21-1930-Unique-Length-3-Palindromic-Subsequences`
 - 2025-11-22 — [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) (Easy) → `Easy/2025-11-22-3190-Find-Minimum-Operations-to-Make-All-Elements-Divisible-by-Three`
 - 2025-11-23 — [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) (Medium) → `Medium/2025-11-23-1262-Greatest-Sum-Divisible-by-Three`
+- 2025-11-24 — [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) (Easy) → `Easy/2025-11-24-1018-Binary-Prefix-Divisible-By-5`
