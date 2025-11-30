@@ -290,3 +290,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-11-23 — [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) (Medium) → `Medium/2025-11-23-1262-Greatest-Sum-Divisible-by-Three`
 - 2025-11-24 — [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) (Easy) → `Easy/2025-11-24-1018-Binary-Prefix-Divisible-By-5`
 - 2025-11-25 — [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) (Medium) → `Medium/2025-11-25-1015-Smallest-Integer-Divisible-by-K`
+- 2025-11-30 — [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) (Medium) → `Medium/2025-11-30-1590-Make-Sum-Divisible-by-P`
