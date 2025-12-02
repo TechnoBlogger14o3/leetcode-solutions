@@ -292,3 +292,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-11-25 — [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) (Medium) → `Medium/2025-11-25-1015-Smallest-Integer-Divisible-by-K`
 - 2025-11-30 — [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) (Medium) → `Medium/2025-11-30-1590-Make-Sum-Divisible-by-P`
 - 2025-12-01 — [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) (Hard) → `Hard/2025-12-01-2141-Maximum-Running-Time-of-N-Computers`
+- 2025-12-02 — [Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) (Medium) → `Medium/2025-12-02-3623-Count-Number-of-Trapezoids-I`
