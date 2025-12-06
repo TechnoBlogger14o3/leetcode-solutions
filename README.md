@@ -296,3 +296,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-03 — [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) (Hard) → `Hard/2025-12-03-3625-Count-Number-of-Trapezoids-II`
 - 2025-12-04 — [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) (Medium) → `Medium/2025-12-04-2211-Count-Collisions-on-a-Road`
 - 2025-12-05 — [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) (Easy) → `Easy/2025-12-05-3432-Count-Partitions-with-Even-Sum-Difference`
+- 2025-12-06 — [Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) (Medium) → `Medium/2025-12-06-3578-Count-Partitions-With-Max-Min-Difference-at-Most-K`
