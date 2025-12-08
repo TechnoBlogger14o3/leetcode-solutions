@@ -47,10 +47,14 @@ def graphql(query: str, variables=None):
 
 def search_problem_by_title(title: str):
     """Search for a problem on LeetCode by title"""
-    # Clean title for search
-    clean_title = re.sub(r'[^a-zA-Z0-9\s]', '', title).strip()
-    if len(clean_title) < 3:
+    # Clean title for search - use key words
+    clean_title = re.sub(r'[^a-zA-Z0-9\s]', ' ', title).strip()
+    # Extract key words (remove common words)
+    words = [w for w in clean_title.split() if len(w) > 2 and w.lower() not in ['the', 'and', 'for', 'with', 'without', 'using']]
+    if not words:
         return None
+    
+    search_key = ' '.join(words[:5])  # Use first 5 meaningful words
     
     query = """
     query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $filters: QuestionListFilterInput) {
@@ -76,23 +80,34 @@ def search_problem_by_title(title: str):
         "categorySlug": "",
         "limit": 50,
         "skip": 0,
-        "filters": {"searchKeywords": clean_title}
+        "filters": {"searchKeywords": search_key}
     }
     
-    data = graphql(query, variables)
-    if not data or "problemsetQuestionList" not in data:
+    try:
+        data = graphql(query, variables)
+        if not data or "problemsetQuestionList" not in data:
+            return None
+        
+        questions = data["problemsetQuestionList"].get("questions", [])
+        
+        # Find best match
+        title_lower = clean_title.lower()
+        for q in questions:
+            q_title_lower = q["title"].lower()
+            # Check if titles match significantly
+            if title_lower in q_title_lower or q_title_lower in title_lower:
+                return q
+            # Check word overlap
+            q_words = set(q_title_lower.split())
+            title_words = set(title_lower.split())
+            if len(q_words & title_words) >= 2:  # At least 2 words match
+                return q
+        
+        # Return first result if any
+        return questions[0] if questions else None
+    except Exception as e:
+        print(f"Search error: {e}")
         return None
-    
-    questions = data["problemsetQuestionList"].get("questions", [])
-    
-    # Find best match
-    title_lower = clean_title.lower()
-    for q in questions:
-        if title_lower in q["title"].lower() or q["title"].lower() in title_lower:
-            return q
-    
-    # Return first result if any
-    return questions[0] if questions else None
 
 def get_problem_by_slug(slug: str):
     """Get full problem details by slug"""
@@ -215,19 +230,23 @@ def solve_problem(problem, progress):
     # Try to get problem details
     problem_data = None
     
-    if slug:
+    # Only use slugs that are complete (more than 5 chars and don't end with hyphen)
+    if slug and len(slug) > 5 and not slug.endswith('-'):
         print(f"Fetching problem by slug: {slug}")
         problem_data = get_problem_by_slug(slug)
+        if problem_data:
+            print(f"✅ Found: {problem_data['title']}")
     
-    if not problem_data and title and title != "Unknown":
-        print(f"Searching LeetCode for: {title}")
-        search_result = search_problem_by_title(title)
-        if search_result:
-            print(f"Found: {search_result['title']} ({search_result['titleSlug']})")
-            problem_data = get_problem_by_slug(search_result['titleSlug'])
+    # Skip search for now due to API issues - focus on problems with slugs
+    # if not problem_data and title and title != "Unknown":
+    #     print(f"Searching LeetCode for: {title}")
+    #     search_result = search_problem_by_title(title)
+    #     if search_result:
+    #         print(f"Found: {search_result['title']} ({search_result['titleSlug']})")
+    #         problem_data = get_problem_by_slug(search_result['titleSlug'])
     
     if not problem_data:
-        print(f"❌ Could not find problem on LeetCode. Skipping...")
+        print(f"❌ Could not find problem on LeetCode (no valid slug). Skipping...")
         progress["skipped"].append(problem_num)
         save_progress(progress)
         return False
@@ -317,11 +336,19 @@ def main():
     unsolved = [p for p in problems if p["number"] not in progress["solved"]]
     print(f"Remaining: {len(unsolved)}")
     
-    # Solve problems
+    # Prioritize problems with slugs
+    unsolved_with_slugs = [p for p in unsolved if p.get("title_slug") and len(p.get("title_slug", "")) > 5 and not p.get("title_slug", "").endswith("-")]
+    unsolved_without_slugs = [p for p in unsolved if p not in unsolved_with_slugs]
+    
+    print(f"Problems with slugs: {len(unsolved_with_slugs)}")
+    print(f"Problems without slugs: {len(unsolved_without_slugs)}")
+    
+    # Solve problems - prioritize those with slugs
     solved_count = 0
     target = 100
     
-    for problem in unsolved[:target]:
+    # First solve problems with slugs
+    for problem in unsolved_with_slugs[:target]:
         if solve_problem(problem, progress):
             solved_count += 1
             print(f"\nProgress: {solved_count}/{target} problems solved")
@@ -331,6 +358,19 @@ def main():
         
         if solved_count >= target:
             break
+    
+    # If we haven't reached target, try problems without slugs (but they'll likely fail)
+    if solved_count < target:
+        print(f"\n⚠️  Only {solved_count} problems solved with slugs. Trying problems without slugs...")
+        for problem in unsolved_without_slugs[:target - solved_count]:
+            if solve_problem(problem, progress):
+                solved_count += 1
+                print(f"\nProgress: {solved_count}/{target} problems solved")
+            
+            time.sleep(2)
+            
+            if solved_count >= target:
+                break
     
     print(f"\n{'='*60}")
     print(f"✅ Completed {solved_count} problems!")

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Extract problems from DSA Sheets.pdf
+Hybrid approach: extract all problems, improve slug extraction
 """
 import pdfplumber
 import re
@@ -28,19 +29,32 @@ def extract_problems_from_pdf():
     print(f"Total pages: {len(pdf.pages)}")
     print(f"Extracted text length: {len(full_text)} characters")
     
-    # Try to find problem patterns
-    # Common patterns: Problem numbers, LeetCode links, problem titles
+    # First pass: Extract all LeetCode URLs with complete slugs
+    # Normalize text to handle line breaks in URLs
+    normalized_text = full_text.replace('\n', ' ').replace('  ', ' ')
     
-    # Pattern 1: LeetCode problem links (leetcode.com/problems/...)
-    leetcode_pattern = r'leetcode\.com/problems/([a-z0-9-]+)'
-    leetcode_matches = re.findall(leetcode_pattern, full_text, re.IGNORECASE)
+    # Find all complete LeetCode URLs
+    leetcode_pattern = r'(?:https?://)?(?:www\.)?leetcode\.com/problems/([a-z0-9-]+)/?'
+    all_slug_matches = {}
+    for match in re.finditer(leetcode_pattern, normalized_text, re.IGNORECASE):
+        slug = match.group(1).lower()
+        # Only keep complete slugs (more than 5 chars, doesn't end with hyphen)
+        if len(slug) > 5 and not slug.endswith('-'):
+            # Get context to find problem number
+            start = max(0, match.start() - 100)
+            end = min(len(normalized_text), match.end() + 50)
+            context = normalized_text[start:end]
+            # Try to find problem number nearby
+            num_match = re.search(r'\b(\d{1,3})\.?\s', context)
+            if num_match:
+                problem_num = int(num_match.group(1))
+                if slug not in all_slug_matches:
+                    all_slug_matches[slug] = problem_num
     
-    # Pattern 2: Problem numbers (like "1.", "2.", etc.)
-    # Pattern 3: Problem titles (usually after numbers)
+    print(f"Found {len(all_slug_matches)} complete LeetCode slugs with problem numbers")
     
-    # Split by lines and look for structured data
+    # Second pass: Extract problems line by line (original method)
     lines = full_text.split('\n')
-    
     current_category = None
     problem_num = 0
     
@@ -49,30 +63,48 @@ def extract_problems_from_pdf():
         if not line:
             continue
             
-        # Detect category headers (usually in caps or bold)
+        # Detect category headers
         if len(line) > 3 and line.isupper() and len(line.split()) < 10:
             current_category = line
             print(f"Found category: {current_category}")
             continue
         
-        # Look for problem numbers (1., 2., etc.) or LeetCode problem IDs
-        # Pattern: Number followed by problem name or LeetCode link
+        # Look for problem numbers
         problem_match = re.match(r'^(\d+)\.?\s*(.+)', line)
         if problem_match:
             num = problem_match.group(1)
             rest = problem_match.group(2).strip()
             
-            # Try to extract LeetCode link if present (capture full slug)
-            link_match = re.search(r'leetcode\.com/problems/([a-z0-9-]+)/?', rest, re.IGNORECASE)
-            title_slug = link_match.group(1) if link_match else None
-            # Also check if slug is incomplete in the line
-            if title_slug and len(title_slug) < 5:
-                # Might be incomplete, try to get more from next lines
-                title_slug = None
+            # Build search text from current line and next 2 lines (for split URLs)
+            search_text = line
+            for j in range(i+1, min(i+3, len(lines))):
+                if lines[j].strip():
+                    search_text += " " + lines[j].strip()
             
-            # Extract problem title (text before link or special chars)
+            # Normalize for URL matching (remove spaces that might break URLs)
+            search_normalized = re.sub(r'([a-z0-9-])\s+([a-z0-9-])', r'\1\2', search_text, flags=re.IGNORECASE)
+            
+            # Try to extract LeetCode link
+            link_match = re.search(leetcode_pattern, search_normalized, re.IGNORECASE)
+            title_slug = None
+            if link_match:
+                potential_slug = link_match.group(1).lower()
+                # Only use if it's a complete slug
+                if len(potential_slug) > 5 and not potential_slug.endswith('-'):
+                    title_slug = potential_slug
+            
+            # Also check if this problem number has a slug in our map
+            if not title_slug and int(num) in all_slug_matches.values():
+                # Find slug for this problem number
+                for slug, pnum in all_slug_matches.items():
+                    if pnum == int(num):
+                        title_slug = slug
+                        break
+            
+            # Extract problem title
             title = re.sub(r'https?://[^\s]+', '', rest).strip()
-            title = re.sub(r'\([^)]*\)', '', title).strip()  # Remove parentheses
+            title = re.sub(r'\([^)]*\)', '', title).strip()
+            title = re.sub(r'\[.*?\]', '', title).strip()
             if not title and title_slug:
                 title = title_slug.replace('-', ' ').title()
             
@@ -89,24 +121,27 @@ def extract_problems_from_pdf():
                 if problem_num % 50 == 0:
                     print(f"Extracted {problem_num} problems...")
     
-    # Also try to extract from LeetCode links directly
-    unique_slugs = list(set(leetcode_matches))
-    print(f"\nFound {len(unique_slugs)} unique LeetCode problem slugs")
-    
-    # Merge with existing problems
+    # Add any slugs we found that weren't in the numbered list
     existing_slugs = {p.get("title_slug") for p in problems if p.get("title_slug")}
-    for slug in unique_slugs:
+    for slug, pnum in all_slug_matches.items():
         if slug not in existing_slugs:
-            problem_num += 1
-            problems.append({
-                "number": problem_num,
-                "category": "Unknown",
-                "title": slug.replace('-', ' ').title(),
-                "title_slug": slug,
-                "raw_line": f"leetcode.com/problems/{slug}"
-            })
+            # Check if we already have this problem number
+            existing_for_num = [p for p in problems if p["number"] == pnum]
+            if not existing_for_num:
+                problem_num += 1
+                problems.append({
+                    "number": problem_num,
+                    "category": "Unknown",
+                    "title": slug.replace('-', ' ').title(),
+                    "title_slug": slug,
+                    "raw_line": f"leetcode.com/problems/{slug}"
+                })
     
-    print(f"\nTotal problems extracted: {len(problems)}")
+    # Count problems with slugs
+    with_slugs = [p for p in problems if p.get("title_slug") and len(p["title_slug"]) > 5]
+    print(f"\nProblems with valid slugs: {len(with_slugs)}")
+    print(f"Total problems extracted: {len(problems)}")
+    
     return problems
 
 def save_problems(problems):
@@ -119,4 +154,3 @@ if __name__ == "__main__":
     problems = extract_problems_from_pdf()
     save_problems(problems)
     print(f"\n✅ Extraction complete! Found {len(problems)} problems")
-

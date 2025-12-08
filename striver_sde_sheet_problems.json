@@ -3,7 +3,7 @@
     "number": 1,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -59,21 +59,21 @@
     "number": 9,
     "category": "Unknown",
     "title": "Write a program to cyclically rotate an array by one.",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Write a program to cyclically rotate an array by one."
   },
   {
     "number": 10,
     "category": "Unknown",
-    "title": "find Largest sum contiguous Subarray [V. IMP]",
-    "title_slug": null,
+    "title": "find Largest sum contiguous Subarray",
+    "title_slug": "flood-fill",
     "raw_line": "8 find Largest sum contiguous Subarray [V. IMP]"
   },
   {
     "number": 11,
     "category": "Unknown",
-    "title": "Minimise the maximum difference between heights [V.IMP]",
-    "title_slug": null,
+    "title": "Minimise the maximum difference between heights",
+    "title_slug": "reorganize-string",
     "raw_line": "9 Minimise the maximum difference between heights [V.IMP]"
   },
   {
@@ -87,7 +87,7 @@
     "number": 13,
     "category": "Unknown",
     "title": "find duplicate in an array of N+1 Integers (",
-    "title_slug": "find-the-",
+    "title_slug": "word-ladder",
     "raw_line": "11 find duplicate in an array of N+1 Integers (https://leetcode.com/problems/find-the-"
   },
   {
@@ -100,8 +100,8 @@
   {
     "number": 15,
     "category": "Unknown",
-    "title": "Kadane's Algo [V.V.V.V.V IMP]",
-    "title_slug": null,
+    "title": "Kadane's Algo",
+    "title_slug": "merge-intervals",
     "raw_line": "13 Kadane's Algo [V.V.V.V.V IMP]"
   },
   {
@@ -129,7 +129,7 @@
     "number": 19,
     "category": "Unknown",
     "title": "Best time to buy and Sell stock (",
-    "title_slug": "best-time-to-buy-",
+    "title_slug": "best-time-to-buy-and-sell-stock",
     "raw_line": "17 Best time to buy and Sell stock (https://leetcode.com/problems/best-time-to-buy-"
   },
   {
@@ -185,7 +185,7 @@
     "number": 27,
     "category": "Unknown",
     "title": "Given an array of size n and a number k, find all elements that appear more than \"",
-    "title_slug": null,
+    "title_slug": "majority-element-ii",
     "raw_line": "25 Given an array of size n and a number k, find all elements that appear more than \""
   },
   {
@@ -199,7 +199,7 @@
     "number": 29,
     "category": "Unknown",
     "title": "Find whether an array is a subset of another array ",
-    "title_slug": null,
+    "title_slug": "longest-common-prefix",
     "raw_line": "27 Find whether an array is a subset of another array "
   },
   {
@@ -269,7 +269,7 @@
     "number": 39,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -297,7 +297,7 @@
     "number": 43,
     "category": "Unknown",
     "title": "Remove Invalid Parentheses (",
-    "title_slug": "remove-invalid-",
+    "title_slug": "remove-invalid-parentheses",
     "raw_line": "4 Remove Invalid Parentheses (https://leetcode.com/problems/remove-invalid-"
   },
   {
@@ -318,21 +318,21 @@
     "number": 46,
     "category": "Unknown",
     "title": "Print all palindromic partitions of a string (",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Print all palindromic partitions of a string (https://www.geeksforgeeks.org/given-a-"
   },
   {
     "number": 47,
     "category": "Unknown",
     "title": "Subset Sum Problem (",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 Subset Sum Problem (https://practice.geeksforgeeks.org/problems/subset-sum-"
   },
   {
     "number": 48,
     "category": "Unknown",
     "title": "The Knight’s tour problem (",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 The Knight’s tour problem (https://www.geeksforgeeks.org/the-knights-tour-"
   },
   {
@@ -346,7 +346,7 @@
     "number": 50,
     "category": "Unknown",
     "title": "Find shortest safe route in a path with landmines",
-    "title_slug": null,
+    "title_slug": "word-ladder",
     "raw_line": "11 Find shortest safe route in a path with landmines"
   },
   {
@@ -367,7 +367,7 @@
     "number": 53,
     "category": "Unknown",
     "title": "Print all permutations of a string",
-    "title_slug": null,
+    "title_slug": "merge-intervals",
     "raw_line": "14 Print all permutations of a string"
   },
   {
@@ -437,7 +437,7 @@
     "number": 63,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -486,21 +486,21 @@
     "number": 70,
     "category": "Unknown",
     "title": "Preorder Traversal of a tree both using recursion and Iteration",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Preorder Traversal of a tree both using recursion and Iteration"
   },
   {
     "number": 71,
     "category": "Unknown",
     "title": "Postorder Traversal of a tree both using recursion and Iteration",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 Postorder Traversal of a tree both using recursion and Iteration"
   },
   {
     "number": 72,
     "category": "Unknown",
     "title": "Left View of a tree (",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 Left View of a tree (https://practice.geeksforgeeks.org/problems/left-view-of-"
   },
   {
@@ -514,7 +514,7 @@
     "number": 74,
     "category": "Unknown",
     "title": "Top View of a tree (",
-    "title_slug": null,
+    "title_slug": "word-ladder",
     "raw_line": "11 Top View of a tree (https://practice.geeksforgeeks.org/problems/top-view-of-"
   },
   {
@@ -535,7 +535,7 @@
     "number": 77,
     "category": "Unknown",
     "title": "Check if a tree is balanced or not",
-    "title_slug": null,
+    "title_slug": "merge-intervals",
     "raw_line": "14 Check if a tree is balanced or not"
   },
   {
@@ -604,7 +604,7 @@
   {
     "number": 87,
     "category": "Unknown",
-    "title": "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+    "title": "Check if a Binary Tree contains duplicate subtrees of size 2 or more",
     "title_slug": null,
     "raw_line": "24 Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]"
   },
@@ -612,7 +612,7 @@
     "number": 88,
     "category": "Unknown",
     "title": "Check if 2 trees are mirror or not",
-    "title_slug": null,
+    "title_slug": "majority-element-ii",
     "raw_line": "25 Check if 2 trees are mirror or not"
   },
   {
@@ -625,8 +625,8 @@
   {
     "number": 90,
     "category": "Unknown",
-    "title": "Check if given graph is tree or not. [ IMP ] (",
-    "title_slug": null,
+    "title": "Check if given graph is tree or not.  (",
+    "title_slug": "longest-common-prefix",
     "raw_line": "27 Check if given graph is tree or not. [ IMP ] (https://www.geeksforgeeks.org/check-"
   },
   {
@@ -674,7 +674,7 @@
   {
     "number": 97,
     "category": "Unknown",
-    "title": "Find all Duplicate subtrees in a Binary tree [ IMP ]",
+    "title": "Find all Duplicate subtrees in a Binary tree",
     "title_slug": null,
     "raw_line": "34 Find all Duplicate subtrees in a Binary tree [ IMP ]"
   },
@@ -689,7 +689,7 @@
     "number": 99,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -738,21 +738,21 @@
     "number": 106,
     "category": "Unknown",
     "title": "Copy set bits in a range (",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Copy set bits in a range (https://www.geeksforgeeks.org/copy-set-bits-in-a-"
   },
   {
     "number": 107,
     "category": "Unknown",
     "title": "Divide two integers without using multiplication, division and mod operator",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 Divide two integers without using multiplication, division and mod operator"
   },
   {
     "number": 108,
     "category": "Unknown",
     "title": "Calculate square of a number without using *, / and pow",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 Calculate square of a number without using *, / and pow()"
   },
   {
@@ -766,7 +766,7 @@
     "number": 110,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -780,7 +780,7 @@
     "number": 112,
     "category": "Unknown",
     "title": "Deletion of a node in a BST (",
-    "title_slug": "delete-node-in-a-",
+    "title_slug": "delete-node-in-a-bst",
     "raw_line": "2 Deletion of a node in a BST (https://leetcode.com/problems/delete-node-in-a-"
   },
   {
@@ -815,21 +815,21 @@
     "number": 117,
     "category": "Unknown",
     "title": "Find LCA of 2 nodes in a BST (",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Find LCA of 2 nodes in a BST (https://practice.geeksforgeeks.org/problems/lowest-"
   },
   {
     "number": 118,
     "category": "Unknown",
     "title": "Construct BST from preorder traversal (",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 Construct BST from preorder traversal (https://www.geeksforgeeks.org/construct-"
   },
   {
     "number": 119,
     "category": "Unknown",
     "title": "Convert Binary tree into BST (",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 Convert Binary tree into BST (https://practice.geeksforgeeks.org/problems/binary-"
   },
   {
@@ -842,8 +842,8 @@
   {
     "number": 121,
     "category": "Unknown",
-    "title": "Merge two BST [ V.V.V>IMP ] (",
-    "title_slug": null,
+    "title": "Merge two BST  (",
+    "title_slug": "word-ladder",
     "raw_line": "11 Merge two BST [ V.V.V>IMP ] (https://www.geeksforgeeks.org/merge-two-"
   },
   {
@@ -864,7 +864,7 @@
     "number": 124,
     "category": "Unknown",
     "title": "Count pairs from 2 BST whose sum is equal to given value \"X\"",
-    "title_slug": null,
+    "title_slug": "merge-intervals",
     "raw_line": "14 Count pairs from 2 BST whose sum is equal to given value \"X\""
   },
   {
@@ -912,7 +912,7 @@
   {
     "number": 131,
     "category": "Unknown",
-    "title": "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+    "title": "Largest BST in a Binary Tree",
     "title_slug": null,
     "raw_line": "21 Largest BST in a Binary Tree [ V.V.V.V.V IMP ]"
   },
@@ -927,7 +927,7 @@
     "number": 133,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -976,21 +976,21 @@
     "number": 140,
     "category": "Unknown",
     "title": "Edit Distance (",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Edit Distance (https://practice.geeksforgeeks.org/problems/edit-distance3702/1)"
   },
   {
     "number": 141,
     "category": "Unknown",
     "title": "Subset Sum Problem (",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 Subset Sum Problem (https://practice.geeksforgeeks.org/problems/subset-sum-"
   },
   {
     "number": 142,
     "category": "Unknown",
     "title": "Friends Pairing Problem (",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 Friends Pairing Problem (https://practice.geeksforgeeks.org/problems/friends-"
   },
   {
@@ -1004,7 +1004,7 @@
     "number": 144,
     "category": "Unknown",
     "title": "Assembly Line SchedulingProblem (",
-    "title_slug": null,
+    "title_slug": "word-ladder",
     "raw_line": "11 Assembly Line SchedulingProblem (https://www.geeksforgeeks.org/assembly-line-"
   },
   {
@@ -1025,7 +1025,7 @@
     "number": 147,
     "category": "Unknown",
     "title": "Longest Common Subsequence",
-    "title_slug": null,
+    "title_slug": "merge-intervals",
     "raw_line": "14 Longest Common Subsequence"
   },
   {
@@ -1102,7 +1102,7 @@
     "number": 158,
     "category": "Unknown",
     "title": "Maximum size square sub-matrix with all 1s",
-    "title_slug": null,
+    "title_slug": "majority-element-ii",
     "raw_line": "25 Maximum size square sub-matrix with all 1s"
   },
   {
@@ -1116,7 +1116,7 @@
     "number": 160,
     "category": "Unknown",
     "title": "Min Cost PathProblem (",
-    "title_slug": null,
+    "title_slug": "longest-common-prefix",
     "raw_line": "27 Min Cost PathProblem (https://practice.geeksforgeeks.org/problems/path-in-"
   },
   {
@@ -1171,7 +1171,7 @@
   {
     "number": 168,
     "category": "Unknown",
-    "title": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+    "title": "LargestSum Contiguous Subarray",
     "title_slug": null,
     "raw_line": "35 LargestSum Contiguous Subarray [V>V>V>V IMP ]"
   },
@@ -1228,7 +1228,7 @@
     "number": 176,
     "category": "Unknown",
     "title": "Longest Palindromic Substring (",
-    "title_slug": "longest-",
+    "title_slug": "longest-palindromic-substring",
     "raw_line": "43 Longest Palindromic Substring (https://leetcode.com/problems/longest-"
   },
   {
@@ -1262,7 +1262,7 @@
   {
     "number": 181,
     "category": "Unknown",
-    "title": "Maximum profit by buying and selling a share at most twice [ IMP ]",
+    "title": "Maximum profit by buying and selling a share at most twice",
     "title_slug": null,
     "raw_line": "48 Maximum profit by buying and selling a share at most twice [ IMP ]"
   },
@@ -1297,7 +1297,7 @@
   {
     "number": 186,
     "category": "Unknown",
-    "title": "Mobile Numeric Keypad Problem [ IMP ]",
+    "title": "Mobile Numeric Keypad Problem",
     "title_slug": null,
     "raw_line": "53 Mobile Numeric Keypad Problem [ IMP ]"
   },
@@ -1318,7 +1318,7 @@
   {
     "number": 189,
     "category": "Unknown",
-    "title": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]",
+    "title": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s",
     "title_slug": null,
     "raw_line": "56 Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]"
   },
@@ -1340,7 +1340,7 @@
     "number": 192,
     "category": "Unknown",
     "title": "Find if a string is interleaved of two other strings",
-    "title_slug": null,
+    "title_slug": "maximum-len",
     "raw_line": "59 Find if a string is interleaved of two other strings"
   },
   {
@@ -1354,7 +1354,7 @@
     "number": 194,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -1403,7 +1403,7 @@
     "number": 201,
     "category": "Unknown",
     "title": "Minimum Step by Knight (",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "7 Minimum Step by Knight (https://practice.geeksforgeeks.org/problems/steps-by-"
   },
   {
@@ -1424,7 +1424,7 @@
     "number": 204,
     "category": "Unknown",
     "title": "Making wired Connections (",
-    "title_slug": "number-of-",
+    "title_slug": "number-of-operations-to-make-network-connected",
     "raw_line": "10 Making wired Connections (https://leetcode.com/problems/number-of-"
   },
   {
@@ -1452,7 +1452,7 @@
     "number": 208,
     "category": "Unknown",
     "title": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
-    "title_slug": null,
+    "title_slug": "merge-intervals",
     "raw_line": "14 Minimum time taken by each job to be completed given by a Directed Acyclic Graph"
   },
   {
@@ -1529,7 +1529,7 @@
     "number": 219,
     "category": "Unknown",
     "title": "Snake and Ladders Problem (",
-    "title_slug": "snakes-and-",
+    "title_slug": "snakes-and-ladders",
     "raw_line": "25 Snake and Ladders Problem (https://leetcode.com/problems/snakes-and-"
   },
   {
@@ -1543,7 +1543,7 @@
     "number": 221,
     "category": "Unknown",
     "title": "Count Strongly connected Components",
-    "title_slug": null,
+    "title_slug": "longest-common-prefix",
     "raw_line": "27 Count Strongly connected Components(Kosaraju Algo)"
   },
   {
@@ -1578,7 +1578,7 @@
     "number": 226,
     "category": "Unknown",
     "title": "Cheapest Flights Within K Stops (",
-    "title_slug": "cheapest-flights-",
+    "title_slug": "cheapest-flights-within-k-stops",
     "raw_line": "32 Cheapest Flights Within K Stops (https://leetcode.com/problems/cheapest-flights-"
   },
   {
@@ -1676,7 +1676,7 @@
     "number": 240,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -1725,21 +1725,21 @@
     "number": 247,
     "category": "Unknown",
     "title": "Maximum trains for which stoppage can be provided",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Maximum trains for which stoppage can be provided"
   },
   {
     "number": 248,
     "category": "Unknown",
     "title": "Minimum Platforms Problem",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 Minimum Platforms Problem"
   },
   {
     "number": 249,
     "category": "Unknown",
     "title": "Buy Maximum Stocks if i stocks can be bought on i-th day",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 Buy Maximum Stocks if i stocks can be bought on i-th day"
   },
   {
@@ -1753,7 +1753,7 @@
     "number": 251,
     "category": "Unknown",
     "title": "Minimize Cash Flow among a given set of friends who have borrowed money from",
-    "title_slug": null,
+    "title_slug": "word-ladder",
     "raw_line": "11 Minimize Cash Flow among a given set of friends who have borrowed money from"
   },
   {
@@ -1774,7 +1774,7 @@
     "number": 254,
     "category": "Unknown",
     "title": "Find maximum meetings in one room (",
-    "title_slug": null,
+    "title_slug": "merge-intervals",
     "raw_line": "14 Find maximum meetings in one room (https://www.geeksforgeeks.org/find-"
   },
   {
@@ -1794,7 +1794,7 @@
   {
     "number": 257,
     "category": "Unknown",
-    "title": "Maximize the sum of arr[i]*i",
+    "title": "Maximize the sum of arr*i",
     "title_slug": null,
     "raw_line": "17 Maximize the sum of arr[i]*i"
   },
@@ -1851,7 +1851,7 @@
     "number": 265,
     "category": "Unknown",
     "title": "DEFKIN -Defense of a Kingdom (",
-    "title_slug": null,
+    "title_slug": "majority-element-ii",
     "raw_line": "25 DEFKIN -Defense of a Kingdom (https://www.spoj.com/problems/DEFKIN/)"
   },
   {
@@ -1865,7 +1865,7 @@
     "number": 267,
     "category": "Unknown",
     "title": "GERGOVIA -Wine trading in Gergovia (",
-    "title_slug": null,
+    "title_slug": "longest-common-prefix",
     "raw_line": "27 GERGOVIA -Wine trading in Gergovia (https://www.spoj.com/problems/GERGOVIA/)"
   },
   {
@@ -1928,7 +1928,7 @@
     "number": 276,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -1969,7 +1969,7 @@
   {
     "number": 282,
     "category": "Unknown",
-    "title": "Merge “K” sorted arrays. [ IMP ]",
+    "title": "Merge “K” sorted arrays.",
     "title_slug": null,
     "raw_line": "6 Merge “K” sorted arrays. [ IMP ]"
   },
@@ -1977,14 +1977,14 @@
     "number": 283,
     "category": "Unknown",
     "title": "Merge 2 Binary Max Heaps (",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Merge 2 Binary Max Heaps (https://practice.geeksforgeeks.org/problems/merge-"
   },
   {
     "number": 284,
     "category": "Unknown",
     "title": "Kth largest sum continuous subarrays (",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "8 Kth largest sum continuous subarrays (https://www.geeksforgeeks.org/k-th-"
   },
   {
@@ -1997,7 +1997,7 @@
   {
     "number": 286,
     "category": "Unknown",
-    "title": "Merge “K” Sorted Linked Lists [V.IMP]",
+    "title": "Merge “K” Sorted Linked Lists",
     "title_slug": null,
     "raw_line": "10 Merge “K” Sorted Linked Lists [V.IMP]"
   },
@@ -2005,7 +2005,7 @@
     "number": 287,
     "category": "Unknown",
     "title": "Smallest range in “K” Lists (",
-    "title_slug": null,
+    "title_slug": "word-ladder",
     "raw_line": "11 Smallest range in “K” Lists (https://practice.geeksforgeeks.org/problems/find-"
   },
   {
@@ -2026,7 +2026,7 @@
     "number": 290,
     "category": "Unknown",
     "title": "Connect “n” ropes with minimum cost",
-    "title_slug": null,
+    "title_slug": "merge-intervals",
     "raw_line": "14 Connect “n” ropes with minimum cost"
   },
   {
@@ -2061,7 +2061,7 @@
     "number": 295,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -2074,7 +2074,7 @@
   {
     "number": 297,
     "category": "Unknown",
-    "title": "Reverse a Linked List in group of Given Size. [Very Imp]",
+    "title": "Reverse a Linked List in group of Given Size.",
     "title_slug": null,
     "raw_line": "2 Reverse a Linked List in group of Given Size. [Very Imp]"
   },
@@ -2110,21 +2110,21 @@
     "number": 302,
     "category": "Unknown",
     "title": "Remove Duplicates in a Un-sorted Linked List.",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Remove Duplicates in a Un-sorted Linked List."
   },
   {
     "number": 303,
     "category": "Unknown",
     "title": "Write a Program to Move the last element to Front in a Linked List.",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 Write a Program to Move the last element to Front in a Linked List."
   },
   {
     "number": 304,
     "category": "Unknown",
     "title": "Add “1” to a number represented as a Linked List.",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 Add “1” to a number represented as a Linked List."
   },
   {
@@ -2138,7 +2138,7 @@
     "number": 306,
     "category": "Unknown",
     "title": "Intersection of two Sorted Linked List.",
-    "title_slug": null,
+    "title_slug": "word-ladder",
     "raw_line": "11 Intersection of two Sorted Linked List."
   },
   {
@@ -2151,22 +2151,22 @@
   {
     "number": 308,
     "category": "Unknown",
-    "title": "Merge Sort For Linked lists.[Very Important]",
+    "title": "Merge Sort For Linked lists.",
     "title_slug": null,
     "raw_line": "13 Merge Sort For Linked lists.[Very Important]"
   },
   {
     "number": 309,
     "category": "Unknown",
-    "title": "Quicksort for Linked Lists.[Very Important]",
-    "title_slug": null,
+    "title": "Quicksort for Linked Lists.",
+    "title_slug": "merge-intervals",
     "raw_line": "14 Quicksort for Linked Lists.[Very Important]"
   },
   {
     "number": 310,
     "category": "Unknown",
     "title": "Find the middle Element of a linked list. (",
-    "title_slug": "middle-of-",
+    "title_slug": "middle-of-the-linked-list",
     "raw_line": "15 Find the middle Element of a linked list. (https://leetcode.com/problems/middle-of-"
   },
   {
@@ -2221,7 +2221,7 @@
   {
     "number": 318,
     "category": "Unknown",
-    "title": "Sort a “k”sorted Doubly Linked list.[Very IMP] (",
+    "title": "Sort a “k”sorted Doubly Linked list. (",
     "title_slug": null,
     "raw_line": "23 Sort a “k”sorted Doubly Linked list.[Very IMP] (https://www.geeksforgeeks.org/sort-"
   },
@@ -2235,8 +2235,8 @@
   {
     "number": 320,
     "category": "Unknown",
-    "title": "Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
-    "title_slug": null,
+    "title": "Rotate a Doubly Linked list in group of Given Size.",
+    "title_slug": "majority-element-ii",
     "raw_line": "25 Rotate a Doubly Linked list in group of Given Size.[Very IMP]"
   },
   {
@@ -2250,7 +2250,7 @@
     "number": 322,
     "category": "Unknown",
     "title": "Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?",
-    "title_slug": null,
+    "title_slug": "longest-common-prefix",
     "raw_line": "27 Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ? (<->)"
   },
   {
@@ -2320,7 +2320,7 @@
     "number": 332,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -2334,7 +2334,7 @@
     "number": 334,
     "category": "Unknown",
     "title": "Search an element in a matrix (",
-    "title_slug": "search-a-2d-",
+    "title_slug": "search-a-2d-matrix",
     "raw_line": "2 Search an element in a matrix (https://leetcode.com/problems/search-a-2d-"
   },
   {
@@ -2369,14 +2369,14 @@
     "number": 339,
     "category": "Unknown",
     "title": "Find a specific pair in matrix (",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Find a specific pair in matrix (https://www.geeksforgeeks.org/find-a-specific-pair-"
   },
   {
     "number": 340,
     "category": "Unknown",
     "title": "Rotate matrix by 90 degrees (",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 Rotate matrix by 90 degrees (https://www.geeksforgeeks.org/rotate-a-matrix-by-"
   },
   {
@@ -2390,7 +2390,7 @@
     "number": 342,
     "category": "Unknown",
     "title": "Kth smallest element in a row-cpumn wise sorted matrix",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 Kth smallest element in a row-cpumn wise sorted matrix"
   },
   {
@@ -2404,7 +2404,7 @@
     "number": 344,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -2425,7 +2425,7 @@
     "number": 347,
     "category": "Unknown",
     "title": "Search in a rotated sorted array (",
-    "title_slug": "search-in-",
+    "title_slug": "search-in-rotated-sorted-array",
     "raw_line": "3 Search in a rotated sorted array (https://leetcode.com/problems/search-in-"
   },
   {
@@ -2453,21 +2453,21 @@
     "number": 351,
     "category": "Unknown",
     "title": "Find the repeating and the missing",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Find the repeating and the missing"
   },
   {
     "number": 352,
     "category": "Unknown",
     "title": "find majority element (",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 find majority element (https://practice.geeksforgeeks.org/problems/majority-"
   },
   {
     "number": 353,
     "category": "Unknown",
     "title": "Searching in an array where adjacent differ by at most k",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 Searching in an array where adjacent differ by at most k"
   },
   {
@@ -2481,7 +2481,7 @@
     "number": 355,
     "category": "Unknown",
     "title": "find four elements that sum to a given value",
-    "title_slug": null,
+    "title_slug": "word-ladder",
     "raw_line": "11 find four elements that sum to a given value"
   },
   {
@@ -2502,7 +2502,7 @@
     "number": 358,
     "category": "Unknown",
     "title": "merge 2 sorted arrays (",
-    "title_slug": null,
+    "title_slug": "merge-intervals",
     "raw_line": "14 merge 2 sorted arrays (https://practice.geeksforgeeks.org/problems/merge-two-"
   },
   {
@@ -2579,7 +2579,7 @@
     "number": 369,
     "category": "Unknown",
     "title": "Book Allocation Problem (",
-    "title_slug": null,
+    "title_slug": "majority-element-ii",
     "raw_line": "25 Book Allocation Problem (https://practice.geeksforgeeks.org/problems/allocate-"
   },
   {
@@ -2593,7 +2593,7 @@
     "number": 371,
     "category": "Unknown",
     "title": "Job Scheduling Algo (",
-    "title_slug": null,
+    "title_slug": "longest-common-prefix",
     "raw_line": "27 Job Scheduling Algo (https://www.geeksforgeeks.org/weighted-job-scheduling-"
   },
   {
@@ -2663,7 +2663,7 @@
     "number": 381,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -2719,21 +2719,21 @@
     "number": 389,
     "category": "Unknown",
     "title": "Reverse a String using Stack",
-    "title_slug": null,
+    "title_slug": "count-and-say",
     "raw_line": "7 Reverse a String using Stack"
   },
   {
     "number": 390,
     "category": "Unknown",
     "title": "Design a Stack that supports getMin in O time and O extra space.",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 Design a Stack that supports getMin() in O(1) time and O(1) extra space."
   },
   {
     "number": 391,
     "category": "Unknown",
     "title": "Find the next Greater element (",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 Find the next Greater element (https://practice.geeksforgeeks.org/problems/next-"
   },
   {
@@ -2747,7 +2747,7 @@
     "number": 393,
     "category": "Unknown",
     "title": "Arithmetic Expression evaluation (",
-    "title_slug": null,
+    "title_slug": "word-ladder",
     "raw_line": "11 Arithmetic Expression evaluation (https://www.geeksforgeeks.org/arithmetic-"
   },
   {
@@ -2768,7 +2768,7 @@
     "number": 396,
     "category": "Unknown",
     "title": "Reverse a stack using recursion (",
-    "title_slug": null,
+    "title_slug": "merge-intervals",
     "raw_line": "14 Reverse a stack using recursion (https://www.geeksforgeeks.org/reverse-a-stack-"
   },
   {
@@ -2845,7 +2845,7 @@
     "number": 407,
     "category": "Unknown",
     "title": "Implement a Circular queue (",
-    "title_slug": null,
+    "title_slug": "majority-element-ii",
     "raw_line": "25 Implement a Circular queue (https://www.geeksforgeeks.org/circular-queue-set-"
   },
   {
@@ -2866,7 +2866,7 @@
     "number": 410,
     "category": "Unknown",
     "title": "Reverse a Queue using recursion",
-    "title_slug": null,
+    "title_slug": "longest-common-prefix",
     "raw_line": "27 Reverse a Queue using recursion"
   },
   {
@@ -2957,7 +2957,7 @@
     "number": 423,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -3013,14 +3013,14 @@
     "number": 431,
     "category": "Unknown",
     "title": "Write a program to find the longest Palindrome in a string.[ Longest palindromic",
-    "title_slug": null,
+    "title_slug": "flood-fill",
     "raw_line": "8 Write a program to find the longest Palindrome in a string.[ Longest palindromic"
   },
   {
     "number": 432,
     "category": "Unknown",
     "title": "Find Longest Recurring Subsequence in String",
-    "title_slug": null,
+    "title_slug": "reorganize-string",
     "raw_line": "9 Find Longest Recurring Subsequence in String"
   },
   {
@@ -3034,7 +3034,7 @@
     "number": 434,
     "category": "Unknown",
     "title": "Print all the permutations of the given string",
-    "title_slug": null,
+    "title_slug": "word-ladder",
     "raw_line": "11 Print all the permutations of the given string"
   },
   {
@@ -3047,35 +3047,35 @@
   {
     "number": 436,
     "category": "Unknown",
-    "title": "Word Wrap Problem [VERY IMP].",
+    "title": "Word Wrap Problem .",
     "title_slug": null,
     "raw_line": "13 Word Wrap Problem [VERY IMP]."
   },
   {
     "number": 437,
     "category": "Unknown",
-    "title": "EDIT Distance [Very Imp] (",
-    "title_slug": null,
+    "title": "EDIT Distance  (",
+    "title_slug": "merge-intervals",
     "raw_line": "14 EDIT Distance [Very Imp] (https://practice.geeksforgeeks.org/problems/edit-"
   },
   {
     "number": 438,
     "category": "Unknown",
-    "title": "Find next greater number with same set of digits. [Very Very IMP]",
+    "title": "Find next greater number with same set of digits.",
     "title_slug": null,
     "raw_line": "15 Find next greater number with same set of digits. [Very Very IMP]"
   },
   {
     "number": 439,
     "category": "Unknown",
-    "title": "Balanced Parenthesis problem.[Imp]",
+    "title": "Balanced Parenthesis problem.",
     "title_slug": null,
     "raw_line": "16 Balanced Parenthesis problem.[Imp]"
   },
   {
     "number": 440,
     "category": "Unknown",
-    "title": "Word break Problem[ Very Imp]",
+    "title": "Word break Problem",
     "title_slug": null,
     "raw_line": "17 Word break Problem[ Very Imp]"
   },
@@ -3132,7 +3132,7 @@
     "number": 448,
     "category": "Unknown",
     "title": "Boyer Moore Algorithm for Pattern Searching.",
-    "title_slug": null,
+    "title_slug": "majority-element-ii",
     "raw_line": "25 Boyer Moore Algorithm for Pattern Searching."
   },
   {
@@ -3265,7 +3265,7 @@
     "number": 467,
     "category": "Unknown",
     "title": "DSA Cracker",
-    "title_slug": null,
+    "title_slug": "reverse-string",
     "raw_line": "450 DSA Cracker"
   },
   {
@@ -3309,12 +3309,5 @@
     "title": "Print unique rows in a given boolean matrix",
     "title_slug": null,
     "raw_line": "6 Print unique rows in a given boolean matrix"
-  },
-  {
-    "number": 474,
-    "category": "Unknown",
-    "title": "Majority Element Ii",
-    "title_slug": "majority-element-ii",
-    "raw_line": "leetcode.com/problems/majority-element-ii"
   }
 ]
