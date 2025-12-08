@@ -191,7 +191,7 @@ def save_progress(progress):
         json.dump(progress, f, indent=2)
 
 def git_commit(problem_num, title):
-    """Commit the solution"""
+    """Commit and push the solution"""
     try:
         subprocess.run(
             ["git", "add", "-A"],
@@ -207,9 +207,31 @@ def git_commit(problem_num, title):
             capture_output=True
         )
         print(f"✅ Committed: {commit_msg}")
+        
+        # Push to remote
+        try:
+            subprocess.run(
+                ["git", "push"],
+                cwd=ROOT,
+                check=True,
+                capture_output=True
+            )
+            print(f"✅ Pushed to remote")
+        except subprocess.CalledProcessError:
+            # Try setting upstream if not set
+            try:
+                subprocess.run(
+                    ["git", "push", "--set-upstream", "origin", "strivers_list"],
+                    cwd=ROOT,
+                    check=True,
+                    capture_output=True
+                )
+                print(f"✅ Pushed to remote (set upstream)")
+            except subprocess.CalledProcessError as push_err:
+                print(f"⚠️  Git push failed: {push_err}")
         return True
     except subprocess.CalledProcessError as e:
-        print(f"⚠️  Git commit failed: {e}")
+        print(f"⚠️  Git commit/push failed: {e}")
         return False
 
 def solve_problem(problem, progress):
