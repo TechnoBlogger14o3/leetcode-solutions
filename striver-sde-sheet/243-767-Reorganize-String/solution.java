@@ -1,0 +1,7 @@
+// Solution for Reorganize String
+// Problem ID: 767
+// Link: https://leetcode.com/problems/reorganize-string
+
+class Solution {
+    // TODO: Implement solution
+}
