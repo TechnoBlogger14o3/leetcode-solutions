@@ -1,8 +1,14 @@
-# Solution for Remove Duplicates from Sorted Array
-# Problem ID: 26
-# Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array
+from typing import List
 
 class Solution:
-    def solve(self):
-        # TODO: Implement solution
-        pass
+    def removeDuplicates(self, nums: List[int]) -> int:
+        if not nums:
+            return 0
+        
+        write_index = 1
+        for i in range(1, len(nums)):
+            if nums[i] != nums[i - 1]:
+                nums[write_index] = nums[i]
+                write_index += 1
+        
+        return write_index
