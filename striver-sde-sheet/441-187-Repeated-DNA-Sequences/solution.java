@@ -1,0 +1,7 @@
+// Solution for Repeated DNA Sequences
+// Problem ID: 187
+// Link: https://leetcode.com/problems/repeated-dna-sequences
+
+class Solution {
+    // TODO: Implement solution
+}
