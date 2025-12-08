@@ -1,0 +1,10 @@
+// Solution for Min Stack
+// Problem ID: 155
+// Link: https://leetcode.com/problems/min-stack
+
+/**
+ * TODO: Implement solution
+ */
+var solve = function() {
+    // Implementation needed
+};
