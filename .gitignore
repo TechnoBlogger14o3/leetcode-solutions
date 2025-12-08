@@ -55,3 +55,6 @@ __pycache__/
 # Backup files
 *.bak
 *.backup
+
+# Progress tracking
+.striver_progress.json
