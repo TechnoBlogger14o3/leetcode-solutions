@@ -1,0 +1,8 @@
+# Solution for Gas Station
+# Problem ID: 134
+# Link: https://leetcode.com/problems/gas-station
+
+class Solution:
+    def solve(self):
+        # TODO: Implement solution
+        pass
