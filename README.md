@@ -299,3 +299,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-06 — [Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) (Medium) → `Medium/2025-12-06-3578-Count-Partitions-With-Max-Min-Difference-at-Most-K`
 - 2025-12-07 — [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) (Easy) → `Easy/2025-12-07-1523-Count-Odd-Numbers-in-an-Interval-Range`
 - 2025-12-08 — [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) (Easy) → `Easy/2025-12-08-1925-Count-Square-Sum-Triples`
+- 2025-12-09 — [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) (Medium) → `Medium/2025-12-09-3583-Count-Special-Triplets`
