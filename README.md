@@ -302,3 +302,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-09 — [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) (Medium) → `Medium/2025-12-09-3583-Count-Special-Triplets`
 - 2025-12-10 — [Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) (Medium) → `Medium/2025-12-10-3577-Count-the-Number-of-Computer-Unlocking-Permutations`
 - 2025-12-11 — [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) (Medium) → `Medium/2025-12-11-3531-Count-Covered-Buildings`
+- 2025-12-12 — [Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/) (Medium) → `Medium/2025-12-12-3433-Count-Mentions-Per-User`
