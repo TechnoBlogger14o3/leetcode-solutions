@@ -308,3 +308,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-15 — [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) (Medium) → `Medium/2025-12-15-2110-Number-of-Smooth-Descent-Periods-of-a-Stock`
 - 2025-12-16 — [Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) (Hard) → `Hard/2025-12-16-3562-Maximum-Profit-from-Trading-Stocks-with-Discounts`
 - 2025-12-17 — [Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) (Medium) → `Medium/2025-12-17-3573-Best-Time-to-Buy-and-Sell-Stock-V`
+- 2025-12-18 — [Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) (Medium) → `Medium/2025-12-18-3652-Best-Time-to-Buy-and-Sell-Stock-using-Strategy`
