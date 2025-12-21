@@ -311,3 +311,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-18 — [Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) (Medium) → `Medium/2025-12-18-3652-Best-Time-to-Buy-and-Sell-Stock-using-Strategy`
 - 2025-12-19 — [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) (Hard) → `Hard/2025-12-19-2092-Find-All-People-With-Secret`
 - 2025-12-20 — [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) (Easy) → `Easy/2025-12-20-944-Delete-Columns-to-Make-Sorted`
+- 2025-12-21 — [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) (Medium) → `Medium/2025-12-21-955-Delete-Columns-to-Make-Sorted-II`
