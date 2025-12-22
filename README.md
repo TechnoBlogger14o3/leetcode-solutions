@@ -312,3 +312,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-19 — [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) (Hard) → `Hard/2025-12-19-2092-Find-All-People-With-Secret`
 - 2025-12-20 — [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) (Easy) → `Easy/2025-12-20-944-Delete-Columns-to-Make-Sorted`
 - 2025-12-21 — [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) (Medium) → `Medium/2025-12-21-955-Delete-Columns-to-Make-Sorted-II`
+- 2025-12-22 — [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) (Hard) → `Hard/2025-12-22-960-Delete-Columns-to-Make-Sorted-III`
