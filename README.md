@@ -315,3 +315,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-22 — [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) (Hard) → `Hard/2025-12-22-960-Delete-Columns-to-Make-Sorted-III`
 - 2025-12-23 — [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) (Medium) → `Medium/2025-12-23-2054-Two-Best-Non-Overlapping-Events`
 - 2025-12-24 — [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) (Easy) → `Easy/2025-12-24-3074-Apple-Redistribution-into-Boxes`
+- 2025-12-25 — [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) (Medium) → `Medium/2025-12-25-3075-Maximize-Happiness-of-Selected-Children`
