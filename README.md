@@ -316,3 +316,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-23 — [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) (Medium) → `Medium/2025-12-23-2054-Two-Best-Non-Overlapping-Events`
 - 2025-12-24 — [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) (Easy) → `Easy/2025-12-24-3074-Apple-Redistribution-into-Boxes`
 - 2025-12-25 — [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) (Medium) → `Medium/2025-12-25-3075-Maximize-Happiness-of-Selected-Children`
+- 2025-12-26 — [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) (Medium) → `Medium/2025-12-26-2483-Minimum-Penalty-for-a-Shop`
