@@ -318,3 +318,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-25 — [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) (Medium) → `Medium/2025-12-25-3075-Maximize-Happiness-of-Selected-Children`
 - 2025-12-26 — [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) (Medium) → `Medium/2025-12-26-2483-Minimum-Penalty-for-a-Shop`
 - 2025-12-27 — [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) (Hard) → `Hard/2025-12-27-2402-Meeting-Rooms-III`
+- 2025-12-28 — [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) (Easy) → `Easy/2025-12-28-1351-Count-Negative-Numbers-in-a-Sorted-Matrix`
