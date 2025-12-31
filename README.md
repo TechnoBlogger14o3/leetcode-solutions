@@ -321,3 +321,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-28 — [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) (Easy) → `Easy/2025-12-28-1351-Count-Negative-Numbers-in-a-Sorted-Matrix`
 - 2025-12-29 — [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) (Medium) → `Medium/2025-12-29-756-Pyramid-Transition-Matrix`
 - 2025-12-30 — [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) (Medium) → `Medium/2025-12-30-840-Magic-Squares-In-Grid`
+- 2025-12-31 — [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) (Hard) → `Hard/2025-12-31-1970-Last-Day-Where-You-Can-Still-Cross`
