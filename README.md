@@ -324,3 +324,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2025-12-31 — [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) (Hard) → `Hard/2025-12-31-1970-Last-Day-Where-You-Can-Still-Cross`
 - 2026-01-01 — [Plus One](https://leetcode.com/problems/plus-one/) (Easy) → `Easy/2026-01-01-66-Plus-One`
 - 2026-01-02 — [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) (Easy) → `Easy/2026-01-02-961-N-Repeated-Element-in-Size-2N-Array`
+- 2026-01-03 — [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) (Hard) → `Hard/2026-01-03-1411-Number-of-Ways-to-Paint-N-3-Grid`
