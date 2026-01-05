@@ -326,3 +326,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-01-02 — [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) (Easy) → `Easy/2026-01-02-961-N-Repeated-Element-in-Size-2N-Array`
 - 2026-01-03 — [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) (Hard) → `Hard/2026-01-03-1411-Number-of-Ways-to-Paint-N-3-Grid`
 - 2026-01-04 — [Four Divisors](https://leetcode.com/problems/four-divisors/) (Medium) → `Medium/2026-01-04-1390-Four-Divisors`
+- 2026-01-05 — [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) (Medium) → `Medium/2026-01-05-1975-Maximum-Matrix-Sum`
