@@ -327,3 +327,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-01-03 — [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) (Hard) → `Hard/2026-01-03-1411-Number-of-Ways-to-Paint-N-3-Grid`
 - 2026-01-04 — [Four Divisors](https://leetcode.com/problems/four-divisors/) (Medium) → `Medium/2026-01-04-1390-Four-Divisors`
 - 2026-01-05 — [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) (Medium) → `Medium/2026-01-05-1975-Maximum-Matrix-Sum`
+- 2026-01-06 — [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (Medium) → `Medium/2026-01-06-1161-Maximum-Level-Sum-of-a-Binary-Tree`
