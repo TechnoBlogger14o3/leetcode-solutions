@@ -328,3 +328,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-01-04 — [Four Divisors](https://leetcode.com/problems/four-divisors/) (Medium) → `Medium/2026-01-04-1390-Four-Divisors`
 - 2026-01-05 — [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) (Medium) → `Medium/2026-01-05-1975-Maximum-Matrix-Sum`
 - 2026-01-06 — [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (Medium) → `Medium/2026-01-06-1161-Maximum-Level-Sum-of-a-Binary-Tree`
+- 2026-01-07 — [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) (Medium) → `Medium/2026-01-07-1339-Maximum-Product-of-Splitted-Binary-Tree`
