@@ -331,3 +331,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-01-07 — [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) (Medium) → `Medium/2026-01-07-1339-Maximum-Product-of-Splitted-Binary-Tree`
 - 2026-01-08 — [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) (Hard) → `Hard/2026-01-08-1458-Max-Dot-Product-of-Two-Subsequences`
 - 2026-01-11 — [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) (Hard) → `Hard/2026-01-11-85-Maximal-Rectangle`
+- 2026-01-12 — [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) (Easy) → `Easy/2026-01-12-1266-Minimum-Time-Visiting-All-Points`
