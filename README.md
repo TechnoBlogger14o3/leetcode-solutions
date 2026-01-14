@@ -333,3 +333,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-01-11 — [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) (Hard) → `Hard/2026-01-11-85-Maximal-Rectangle`
 - 2026-01-12 — [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) (Easy) → `Easy/2026-01-12-1266-Minimum-Time-Visiting-All-Points`
 - 2026-01-13 — [Separate Squares I](https://leetcode.com/problems/separate-squares-i/) (Medium) → `Medium/2026-01-13-3453-Separate-Squares-I`
+- 2026-01-14 — [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) (Hard) → `Hard/2026-01-14-3454-Separate-Squares-II`
