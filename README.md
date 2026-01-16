@@ -335,3 +335,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-01-13 — [Separate Squares I](https://leetcode.com/problems/separate-squares-i/) (Medium) → `Medium/2026-01-13-3453-Separate-Squares-I`
 - 2026-01-14 — [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) (Hard) → `Hard/2026-01-14-3454-Separate-Squares-II`
 - 2026-01-15 — [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) (Medium) → `Medium/2026-01-15-2943-Maximize-Area-of-Square-Hole-in-Grid`
+- 2026-01-16 — [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) (Medium) → `Medium/2026-01-16-2975-Maximum-Square-Area-by-Removing-Fences-From-a-Field`
