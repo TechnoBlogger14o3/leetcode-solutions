@@ -341,3 +341,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-01-19 — [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) (Medium) → `Medium/2026-01-19-1292-Maximum-Side-Length-of-a-Square-with-Sum-Less-than-or-Equal-to-Threshold`
 - 2026-01-20 — [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) (Easy) → `Easy/2026-01-20-3314-Construct-the-Minimum-Bitwise-Array-I`
 - 2026-01-21 — [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) (Medium) → `Medium/2026-01-21-3315-Construct-the-Minimum-Bitwise-Array-II`
+- 2026-01-22 — [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) (Easy) → `Easy/2026-01-22-3507-Minimum-Pair-Removal-to-Sort-Array-I`
