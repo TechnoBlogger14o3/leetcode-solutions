@@ -346,3 +346,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-01-24 — [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) (Medium) → `Medium/2026-01-24-1877-Minimize-Maximum-Pair-Sum-in-Array`
 - 2026-01-25 — [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) (Easy) → `Easy/2026-01-25-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores`
 - 2026-01-26 — [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) (Easy) → `Easy/2026-01-26-1200-Minimum-Absolute-Difference`
+- 2026-01-27 — [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) (Medium) → `Medium/2026-01-27-3650-Minimum-Cost-Path-with-Edge-Reversals`
