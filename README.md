@@ -350,3 +350,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-01-28 — [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) (Hard) → `Hard/2026-01-28-3651-Minimum-Cost-Path-with-Teleportations`
 - 2026-01-29 — [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) (Medium) → `Medium/2026-01-29-2976-Minimum-Cost-to-Convert-String-I`
 - 2026-01-30 — [Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) (Hard) → `Hard/2026-01-30-2977-Minimum-Cost-to-Convert-String-II`
+- 2026-01-31 — [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) (Easy) → `Easy/2026-01-31-744-Find-Smallest-Letter-Greater-Than-Target`
