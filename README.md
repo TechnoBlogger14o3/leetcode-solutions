@@ -353,3 +353,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-01-31 — [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) (Easy) → `Easy/2026-01-31-744-Find-Smallest-Letter-Greater-Than-Target`
 - 2026-02-01 — [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) (Easy) → `Easy/2026-02-01-3010-Divide-an-Array-Into-Subarrays-With-Minimum-Cost-I`
 - 2026-02-02 — [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) (Hard) → `Hard/2026-02-02-3013-Divide-an-Array-Into-Subarrays-With-Minimum-Cost-II`
+- 2026-02-03 — [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) (Easy) → `Easy/2026-02-03-3637-Trionic-Array-I`
