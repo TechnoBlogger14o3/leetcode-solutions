@@ -355,3 +355,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-02 — [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) (Hard) → `Hard/2026-02-02-3013-Divide-an-Array-Into-Subarrays-With-Minimum-Cost-II`
 - 2026-02-03 — [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) (Easy) → `Easy/2026-02-03-3637-Trionic-Array-I`
 - 2026-02-04 — [Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) (Hard) → `Hard/2026-02-04-3640-Trionic-Array-II`
+- 2026-02-05 — [Transformed Array](https://leetcode.com/problems/transformed-array/) (Easy) → `Easy/2026-02-05-3379-Transformed-Array`
