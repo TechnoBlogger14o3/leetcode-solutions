@@ -356,3 +356,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-03 — [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) (Easy) → `Easy/2026-02-03-3637-Trionic-Array-I`
 - 2026-02-04 — [Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) (Hard) → `Hard/2026-02-04-3640-Trionic-Array-II`
 - 2026-02-05 — [Transformed Array](https://leetcode.com/problems/transformed-array/) (Easy) → `Easy/2026-02-05-3379-Transformed-Array`
+- 2026-02-06 — [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) (Medium) → `Medium/2026-02-06-3634-Minimum-Removals-to-Balance-Array`
