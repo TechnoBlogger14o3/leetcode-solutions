@@ -359,3 +359,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-06 — [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) (Medium) → `Medium/2026-02-06-3634-Minimum-Removals-to-Balance-Array`
 - 2026-02-07 — [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) (Medium) → `Medium/2026-02-07-1653-Minimum-Deletions-to-Make-String-Balanced`
 - 2026-02-08 — [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (Easy) → `Easy/2026-02-08-110-Balanced-Binary-Tree`
+- 2026-02-09 — [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) (Medium) → `Medium/2026-02-09-1382-Balance-a-Binary-Search-Tree`
