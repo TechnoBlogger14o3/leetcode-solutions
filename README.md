@@ -361,3 +361,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-08 — [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (Easy) → `Easy/2026-02-08-110-Balanced-Binary-Tree`
 - 2026-02-09 — [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) (Medium) → `Medium/2026-02-09-1382-Balance-a-Binary-Search-Tree`
 - 2026-02-10 — [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) (Medium) → `Medium/2026-02-10-3719-Longest-Balanced-Subarray-I`
+- 2026-02-11 — [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) (Hard) → `Hard/2026-02-11-3721-Longest-Balanced-Subarray-II`
