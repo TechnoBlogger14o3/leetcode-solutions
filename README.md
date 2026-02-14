@@ -364,3 +364,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-11 — [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) (Hard) → `Hard/2026-02-11-3721-Longest-Balanced-Subarray-II`
 - 2026-02-12 — [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) (Medium) → `Medium/2026-02-12-3713-Longest-Balanced-Substring-I`
 - 2026-02-13 — [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) (Medium) → `Medium/2026-02-13-3714-Longest-Balanced-Substring-II`
+- 2026-02-14 — [Champagne Tower](https://leetcode.com/problems/champagne-tower/) (Medium) → `Medium/2026-02-14-799-Champagne-Tower`
