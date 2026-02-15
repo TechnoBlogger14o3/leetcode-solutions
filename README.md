@@ -139,22 +139,22 @@ YYYY-MM-DD-ProblemID-Title/
 
 ## Statistics
 
-### Daily Problems:
-- **Total Problems Solved**: 25
-- **Easy**: 8
-- **Medium**: 15
-- **Hard**: 2
+_Last updated: 2026-02-15_
+
+### Daily Problems (top-level `Easy/`, `Medium/`, `Hard/` folders):
+- **Total Problems Solved**: 197
+- **Easy**: 53
+- **Medium**: 109
+- **Hard**: 35
 
 ### Curated Problem Sets:
 - **Blind 75**: 75 problems (100% complete)
-- **NeetCode 150**: 134 problems (100% complete)
-- **Total Curated Problems**: 209 problems
+- **NeetCode 150**: 150 problems (target set complete)
 
-### Overall Repository:
-- **Total Problems**: 234 problems
-- **Languages**: Java, JavaScript, Python
-- **Categories**: 18 algorithmic categories
-- **Documentation**: Comprehensive explanations for all problems
+### Repository Snapshot:
+- **Primary Languages**: Java, JavaScript, Python
+- **Structured Explanations**: Included alongside solutions
+- **Practice Tracks**: Daily LeetCode + Blind 75 + NeetCode 150 + Striver SDE Sheet
 
 ## Getting Started
 
