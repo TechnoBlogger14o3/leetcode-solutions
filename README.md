@@ -368,3 +368,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-15 — [Add Binary](https://leetcode.com/problems/add-binary/) (Easy) → `Easy/2026-02-15-67-Add-Binary`
 - 2026-02-16 — [Reverse Bits](https://leetcode.com/problems/reverse-bits/) (Easy) → `Easy/2026-02-16-190-Reverse-Bits`
 - 2026-02-17 — [Binary Watch](https://leetcode.com/problems/binary-watch/) (Easy) → `Easy/2026-02-17-401-Binary-Watch`
+- 2026-02-18 — [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) (Easy) → `Easy/2026-02-18-693-Binary-Number-with-Alternating-Bits`
