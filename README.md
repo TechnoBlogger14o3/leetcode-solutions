@@ -370,3 +370,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-17 — [Binary Watch](https://leetcode.com/problems/binary-watch/) (Easy) → `Easy/2026-02-17-401-Binary-Watch`
 - 2026-02-18 — [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) (Easy) → `Easy/2026-02-18-693-Binary-Number-with-Alternating-Bits`
 - 2026-02-19 — [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) (Easy) → `Easy/2026-02-19-696-Count-Binary-Substrings`
+- 2026-02-20 — [Special Binary String](https://leetcode.com/problems/special-binary-string/) (Hard) → `Hard/2026-02-20-761-Special-Binary-String`
