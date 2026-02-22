@@ -372,3 +372,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-19 — [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) (Easy) → `Easy/2026-02-19-696-Count-Binary-Substrings`
 - 2026-02-20 — [Special Binary String](https://leetcode.com/problems/special-binary-string/) (Hard) → `Hard/2026-02-20-761-Special-Binary-String`
 - 2026-02-21 — [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) (Easy) → `Easy/2026-02-21-762-Prime-Number-of-Set-Bits-in-Binary-Representation`
+- 2026-02-22 — [Binary Gap](https://leetcode.com/problems/binary-gap/) (Easy) → `Easy/2026-02-22-868-Binary-Gap`
