@@ -375,3 +375,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-22 — [Binary Gap](https://leetcode.com/problems/binary-gap/) (Easy) → `Easy/2026-02-22-868-Binary-Gap`
 - 2026-02-23 — [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) (Medium) → `Medium/2026-02-23-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K`
 - 2026-02-24 — [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) (Easy) → `Easy/2026-02-24-1022-Sum-of-Root-To-Leaf-Binary-Numbers`
+- 2026-02-25 — [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) (Easy) → `Easy/2026-02-25-1356-Sort-Integers-by-The-Number-of-1-Bits`
