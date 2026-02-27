@@ -377,3 +377,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-24 — [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) (Easy) → `Easy/2026-02-24-1022-Sum-of-Root-To-Leaf-Binary-Numbers`
 - 2026-02-25 — [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) (Easy) → `Easy/2026-02-25-1356-Sort-Integers-by-The-Number-of-1-Bits`
 - 2026-02-26 — [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) (Medium) → `Medium/2026-02-26-1404-Number-of-Steps-to-Reduce-a-Number-in-Binary-Representation-to-One`
+- 2026-02-27 — [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) (Hard) → `Hard/2026-02-27-3666-Minimum-Operations-to-Equalize-Binary-String`
