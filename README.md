@@ -380,3 +380,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-02-27 — [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) (Hard) → `Hard/2026-02-27-3666-Minimum-Operations-to-Equalize-Binary-String`
 - 2026-02-28 — [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) (Medium) → `Medium/2026-02-28-1680-Concatenation-of-Consecutive-Binary-Numbers`
 - 2026-03-01 — [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) (Medium) → `Medium/2026-03-01-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers`
+- 2026-03-02 — [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) (Medium) → `Medium/2026-03-02-1536-Minimum-Swaps-to-Arrange-a-Binary-Grid`
