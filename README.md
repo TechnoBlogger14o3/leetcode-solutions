@@ -384,3 +384,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-03-03 — [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) (Medium) → `Medium/2026-03-03-1545-Find-Kth-Bit-in-Nth-Binary-String`
 - 2026-03-04 — [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) (Easy) → `Easy/2026-03-04-1582-Special-Positions-in-a-Binary-Matrix`
 - 2026-03-05 — [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) (Easy) → `Easy/2026-03-05-1758-Minimum-Changes-To-Make-Alternating-Binary-String`
+- 2026-03-06 — [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) (Easy) → `Easy/2026-03-06-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones`
