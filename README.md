@@ -389,3 +389,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-03-08 — [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) (Medium) → `Medium/2026-03-08-1980-Find-Unique-Binary-String`
 - 2026-03-09 — [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) (Medium) → `Medium/2026-03-09-3129-Find-All-Possible-Stable-Binary-Arrays-I`
 - 2026-03-10 — [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) (Hard) → `Hard/2026-03-10-3130-Find-All-Possible-Stable-Binary-Arrays-II`
+- 2026-03-11 — [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) (Easy) → `Easy/2026-03-11-1009-Complement-of-Base-10-Integer`
