@@ -395,3 +395,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-03-14 — [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) (Medium) → `Medium/2026-03-14-1415-The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n`
 - 2026-03-15 — [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) (Hard) → `Hard/2026-03-15-1622-Fancy-Sequence`
 - 2026-03-16 — [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) (Medium) → `Medium/2026-03-16-1878-Get-Biggest-Three-Rhombus-Sums-in-a-Grid`
+- 2026-03-17 — [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) (Medium) → `Medium/2026-03-17-1727-Largest-Submatrix-With-Rearrangements`
