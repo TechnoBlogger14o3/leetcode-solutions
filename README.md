@@ -400,3 +400,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-03-19 — [Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) (Medium) → `Medium/2026-03-19-3212-Count-Submatrices-With-Equal-Frequency-of-X-and-Y`
 - 2026-03-20 — [Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) (Medium) → `Medium/2026-03-20-3567-Minimum-Absolute-Difference-in-Sliding-Submatrix`
 - 2026-03-21 — [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) (Easy) → `Easy/2026-03-21-3643-Flip-Square-Submatrix-Vertically`
+- 2026-03-22 — [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) (Easy) → `Easy/2026-03-22-1886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation`
