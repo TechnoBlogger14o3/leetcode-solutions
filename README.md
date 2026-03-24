@@ -402,3 +402,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-03-21 — [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) (Easy) → `Easy/2026-03-21-3643-Flip-Square-Submatrix-Vertically`
 - 2026-03-22 — [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) (Easy) → `Easy/2026-03-22-1886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation`
 - 2026-03-23 — [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) (Medium) → `Medium/2026-03-23-1594-Maximum-Non-Negative-Product-in-a-Matrix`
+- 2026-03-24 — [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/) (Medium) → `Medium/2026-03-24-2906-Construct-Product-Matrix`
