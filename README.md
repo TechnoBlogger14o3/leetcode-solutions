@@ -404,3 +404,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-03-23 — [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) (Medium) → `Medium/2026-03-23-1594-Maximum-Non-Negative-Product-in-a-Matrix`
 - 2026-03-24 — [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/) (Medium) → `Medium/2026-03-24-2906-Construct-Product-Matrix`
 - 2026-03-25 — [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) (Medium) → `Medium/2026-03-25-3546-Equal-Sum-Grid-Partition-I`
+- 2026-03-26 — [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) (Hard) → `Hard/2026-03-26-3548-Equal-Sum-Grid-Partition-II`
