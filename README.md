@@ -406,3 +406,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-03-25 — [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) (Medium) → `Medium/2026-03-25-3546-Equal-Sum-Grid-Partition-I`
 - 2026-03-26 — [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) (Hard) → `Hard/2026-03-26-3548-Equal-Sum-Grid-Partition-II`
 - 2026-03-27 — [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) (Easy) → `Easy/2026-03-27-2946-Matrix-Similarity-After-Cyclic-Shifts`
+- 2026-03-28 — [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/) (Hard) → `Hard/2026-03-28-2573-Find-the-String-with-LCP`
