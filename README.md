@@ -409,3 +409,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-03-28 — [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/) (Hard) → `Hard/2026-03-28-2573-Find-the-String-with-LCP`
 - 2026-03-29 — [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) (Easy) → `Easy/2026-03-29-2839-Check-if-Strings-Can-be-Made-Equal-With-Operations-I`
 - 2026-03-30 — [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) (Medium) → `Medium/2026-03-30-2840-Check-if-Strings-Can-be-Made-Equal-With-Operations-II`
+- 2026-03-31 — [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) (Hard) → `Hard/2026-03-31-3474-Lexicographically-Smallest-Generated-String`
