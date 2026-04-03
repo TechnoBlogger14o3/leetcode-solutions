@@ -412,3 +412,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-03-31 — [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) (Hard) → `Hard/2026-03-31-3474-Lexicographically-Smallest-Generated-String`
 - 2026-04-01 — [Robot Collisions](https://leetcode.com/problems/robot-collisions/) (Hard) → `Hard/2026-04-01-2751-Robot-Collisions`
 - 2026-04-02 — [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) (Medium) → `Medium/2026-04-02-3418-Maximum-Amount-of-Money-Robot-Can-Earn`
+- 2026-04-03 — [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) (Hard) → `Hard/2026-04-03-3661-Maximum-Walls-Destroyed-by-Robots`
