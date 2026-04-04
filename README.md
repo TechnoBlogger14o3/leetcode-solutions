@@ -413,3 +413,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-04-01 — [Robot Collisions](https://leetcode.com/problems/robot-collisions/) (Hard) → `Hard/2026-04-01-2751-Robot-Collisions`
 - 2026-04-02 — [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) (Medium) → `Medium/2026-04-02-3418-Maximum-Amount-of-Money-Robot-Can-Earn`
 - 2026-04-03 — [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) (Hard) → `Hard/2026-04-03-3661-Maximum-Walls-Destroyed-by-Robots`
+- 2026-04-04 — [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) (Medium) → `Medium/2026-04-04-2075-Decode-the-Slanted-Ciphertext`
