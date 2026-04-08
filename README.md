@@ -417,3 +417,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-04-05 — [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) (Easy) → `Easy/2026-04-05-657-Robot-Return-to-Origin`
 - 2026-04-06 — [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) (Medium) → `Medium/2026-04-06-874-Walking-Robot-Simulation`
 - 2026-04-07 — [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) (Medium) → `Medium/2026-04-07-2069-Walking-Robot-Simulation-II`
+- 2026-04-08 — [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) (Medium) → `Medium/2026-04-08-3653-XOR-After-Range-Multiplication-Queries-I`
