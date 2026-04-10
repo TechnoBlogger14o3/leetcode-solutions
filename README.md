@@ -419,3 +419,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-04-07 — [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) (Medium) → `Medium/2026-04-07-2069-Walking-Robot-Simulation-II`
 - 2026-04-08 — [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) (Medium) → `Medium/2026-04-08-3653-XOR-After-Range-Multiplication-Queries-I`
 - 2026-04-09 — [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) (Hard) → `Hard/2026-04-09-3655-XOR-After-Range-Multiplication-Queries-II`
+- 2026-04-10 — [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) (Easy) → `Easy/2026-04-10-3740-Minimum-Distance-Between-Three-Equal-Elements-I`
