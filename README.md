@@ -424,3 +424,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-04-12 — [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) (Hard) → `Hard/2026-04-12-1320-Minimum-Distance-to-Type-a-Word-Using-Two-Fingers`
 - 2026-04-13 — [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) (Easy) → `Easy/2026-04-13-1848-Minimum-Distance-to-the-Target-Element`
 - 2026-04-14 — [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) (Hard) → `Hard/2026-04-14-2463-Minimum-Total-Distance-Traveled`
+- 2026-04-15 — [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) (Easy) → `Easy/2026-04-15-2515-Shortest-Distance-to-Target-String-in-a-Circular-Array`
