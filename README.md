@@ -428,3 +428,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-04-16 — [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/) (Medium) → `Medium/2026-04-16-3488-Closest-Equal-Element-Queries`
 - 2026-04-17 — [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) (Medium) → `Medium/2026-04-17-3761-Minimum-Absolute-Distance-Between-Mirror-Pairs`
 - 2026-04-18 — [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) (Easy) → `Easy/2026-04-18-3783-Mirror-Distance-of-an-Integer`
+- 2026-04-19 — [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) (Medium) → `Medium/2026-04-19-1855-Maximum-Distance-Between-a-Pair-of-Values`
