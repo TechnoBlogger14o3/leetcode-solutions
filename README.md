@@ -431,3 +431,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-04-19 — [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) (Medium) → `Medium/2026-04-19-1855-Maximum-Distance-Between-a-Pair-of-Values`
 - 2026-04-20 — [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) (Easy) → `Easy/2026-04-20-2078-Two-Furthest-Houses-With-Different-Colors`
 - 2026-04-21 — [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) (Medium) → `Medium/2026-04-21-1722-Minimize-Hamming-Distance-After-Swap-Operations`
+- 2026-04-22 — [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) (Medium) → `Medium/2026-04-22-2452-Words-Within-Two-Edits-of-Dictionary`
