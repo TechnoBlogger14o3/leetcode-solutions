@@ -435,3 +435,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-04-23 — [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) (Medium) → `Medium/2026-04-23-2615-Sum-of-Distances`
 - 2026-04-24 — [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) (Easy) → `Easy/2026-04-24-2833-Furthest-Point-From-Origin`
 - 2026-04-25 — [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) (Hard) → `Hard/2026-04-25-3464-Maximize-the-Distance-Between-Points-on-a-Square`
+- 2026-04-26 — [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) (Medium) → `Medium/2026-04-26-1559-Detect-Cycles-in-2D-Grid`
