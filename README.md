@@ -437,3 +437,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-04-25 — [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) (Hard) → `Hard/2026-04-25-3464-Maximize-the-Distance-Between-Points-on-a-Square`
 - 2026-04-26 — [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) (Medium) → `Medium/2026-04-26-1559-Detect-Cycles-in-2D-Grid`
 - 2026-04-27 — [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) (Medium) → `Medium/2026-04-27-1391-Check-if-There-is-a-Valid-Path-in-a-Grid`
+- 2026-04-28 — [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) (Medium) → `Medium/2026-04-28-2033-Minimum-Operations-to-Make-a-Uni-Value-Grid`
