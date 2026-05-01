@@ -440,3 +440,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-04-28 — [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) (Medium) → `Medium/2026-04-28-2033-Minimum-Operations-to-Make-a-Uni-Value-Grid`
 - 2026-04-29 — [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) (Hard) → `Hard/2026-04-29-3225-Maximum-Score-From-Grid-Operations`
 - 2026-04-30 — [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) (Medium) → `Medium/2026-04-30-3742-Maximum-Path-Score-in-a-Grid`
+- 2026-05-01 — [Rotate Function](https://leetcode.com/problems/rotate-function/) (Medium) → `Medium/2026-05-01-396-Rotate-Function`
