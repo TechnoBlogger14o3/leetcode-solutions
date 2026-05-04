@@ -443,3 +443,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-01 — [Rotate Function](https://leetcode.com/problems/rotate-function/) (Medium) → `Medium/2026-05-01-396-Rotate-Function`
 - 2026-05-02 — [Rotated Digits](https://leetcode.com/problems/rotated-digits/) (Medium) → `Medium/2026-05-02-788-Rotated-Digits`
 - 2026-05-03 — [Rotate String](https://leetcode.com/problems/rotate-string/) (Easy) → `Easy/2026-05-03-796-Rotate-String`
+- 2026-05-04 — [Rotate Image](https://leetcode.com/problems/rotate-image/) (Medium) → `Medium/2026-05-04-48-Rotate-Image`
