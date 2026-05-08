@@ -447,3 +447,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-05 — [Rotate List](https://leetcode.com/problems/rotate-list/) (Medium) → `Medium/2026-05-05-61-Rotate-List`
 - 2026-05-06 — [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) (Medium) → `Medium/2026-05-06-1861-Rotating-the-Box`
 - 2026-05-07 — [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) (Medium) → `Medium/2026-05-07-3660-Jump-Game-IX`
+- 2026-05-08 — [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) (Medium) → `Medium/2026-05-08-3629-Minimum-Jumps-to-Reach-End-via-Prime-Teleportation`
