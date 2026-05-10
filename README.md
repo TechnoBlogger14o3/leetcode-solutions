@@ -449,3 +449,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-07 — [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) (Medium) → `Medium/2026-05-07-3660-Jump-Game-IX`
 - 2026-05-08 — [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) (Medium) → `Medium/2026-05-08-3629-Minimum-Jumps-to-Reach-End-via-Prime-Teleportation`
 - 2026-05-09 — [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) (Medium) → `Medium/2026-05-09-1914-Cyclically-Rotating-a-Grid`
+- 2026-05-10 — [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) (Medium) → `Medium/2026-05-10-2770-Maximum-Number-of-Jumps-to-Reach-the-Last-Index`
