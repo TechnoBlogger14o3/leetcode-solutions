@@ -452,3 +452,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-10 — [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) (Medium) → `Medium/2026-05-10-2770-Maximum-Number-of-Jumps-to-Reach-the-Last-Index`
 - 2026-05-11 — [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) (Easy) → `Easy/2026-05-11-2553-Separate-the-Digits-in-an-Array`
 - 2026-05-12 — [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) (Hard) → `Hard/2026-05-12-1665-Minimum-Initial-Energy-to-Finish-Tasks`
+- 2026-05-13 — [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) (Medium) → `Medium/2026-05-13-1674-Minimum-Moves-to-Make-Array-Complementary`
