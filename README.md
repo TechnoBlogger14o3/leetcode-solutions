@@ -454,3 +454,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-12 — [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) (Hard) → `Hard/2026-05-12-1665-Minimum-Initial-Energy-to-Finish-Tasks`
 - 2026-05-13 — [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) (Medium) → `Medium/2026-05-13-1674-Minimum-Moves-to-Make-Array-Complementary`
 - 2026-05-14 — [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) (Easy) → `Easy/2026-05-14-2784-Check-if-Array-is-Good`
+- 2026-05-15 — [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) (Medium) → `Medium/2026-05-15-153-Find-Minimum-in-Rotated-Sorted-Array`
