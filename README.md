@@ -458,3 +458,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-16 — [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) (Hard) → `Hard/2026-05-16-154-Find-Minimum-in-Rotated-Sorted-Array-II`
 - 2026-05-17 — [Jump Game III](https://leetcode.com/problems/jump-game-iii/) (Medium) → `Medium/2026-05-17-1306-Jump-Game-III`
 - 2026-05-18 — [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) (Hard) → `Hard/2026-05-18-1345-Jump-Game-IV`
+- 2026-05-19 — [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) (Easy) → `Easy/2026-05-19-2540-Minimum-Common-Value`
