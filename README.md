@@ -460,3 +460,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-18 — [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) (Hard) → `Hard/2026-05-18-1345-Jump-Game-IV`
 - 2026-05-19 — [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) (Easy) → `Easy/2026-05-19-2540-Minimum-Common-Value`
 - 2026-05-20 — [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) (Medium) → `Medium/2026-05-20-2657-Find-the-Prefix-Common-Array-of-Two-Arrays`
+- 2026-05-21 — [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) (Medium) → `Medium/2026-05-21-3043-Find-the-Length-of-the-Longest-Common-Prefix`
