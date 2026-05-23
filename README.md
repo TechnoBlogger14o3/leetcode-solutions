@@ -462,3 +462,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-20 — [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) (Medium) → `Medium/2026-05-20-2657-Find-the-Prefix-Common-Array-of-Two-Arrays`
 - 2026-05-21 — [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) (Medium) → `Medium/2026-05-21-3043-Find-the-Length-of-the-Longest-Common-Prefix`
 - 2026-05-22 — [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (Medium) → `Medium/2026-05-22-33-Search-in-Rotated-Sorted-Array`
+- 2026-05-23 — [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) (Easy) → `Easy/2026-05-23-1752-Check-if-Array-Is-Sorted-and-Rotated`
