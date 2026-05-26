@@ -465,3 +465,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-23 — [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) (Easy) → `Easy/2026-05-23-1752-Check-if-Array-Is-Sorted-and-Rotated`
 - 2026-05-24 — [Jump Game V](https://leetcode.com/problems/jump-game-v/) (Hard) → `Hard/2026-05-24-1340-Jump-Game-V`
 - 2026-05-25 — [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) (Medium) → `Medium/2026-05-25-1871-Jump-Game-VII`
+- 2026-05-26 — [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) (Easy) → `Easy/2026-05-26-3120-Count-the-Number-of-Special-Characters-I`
