@@ -467,3 +467,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-25 — [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) (Medium) → `Medium/2026-05-25-1871-Jump-Game-VII`
 - 2026-05-26 — [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) (Easy) → `Easy/2026-05-26-3120-Count-the-Number-of-Special-Characters-I`
 - 2026-05-27 — [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) (Medium) → `Medium/2026-05-27-3121-Count-the-Number-of-Special-Characters-II`
+- 2026-05-28 — [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) (Hard) → `Hard/2026-05-28-3093-Longest-Common-Suffix-Queries`
