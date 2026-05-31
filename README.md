@@ -470,3 +470,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-28 — [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) (Hard) → `Hard/2026-05-28-3093-Longest-Common-Suffix-Queries`
 - 2026-05-29 — [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) (Easy) → `Easy/2026-05-29-3300-Minimum-Element-After-Replacement-With-Digit-Sum`
 - 2026-05-30 — [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) (Hard) → `Hard/2026-05-30-3161-Block-Placement-Queries`
+- 2026-05-31 — [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) (Medium) → `Medium/2026-05-31-2126-Destroying-Asteroids`
