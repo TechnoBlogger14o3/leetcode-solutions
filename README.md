@@ -472,3 +472,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-05-30 — [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) (Hard) → `Hard/2026-05-30-3161-Block-Placement-Queries`
 - 2026-05-31 — [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) (Medium) → `Medium/2026-05-31-2126-Destroying-Asteroids`
 - 2026-06-01 — [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) (Easy) → `Easy/2026-06-01-2144-Minimum-Cost-of-Buying-Candies-With-Discount`
+- 2026-06-02 — [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) (Easy) → `Easy/2026-06-02-3633-Earliest-Finish-Time-for-Land-and-Water-Rides-I`
