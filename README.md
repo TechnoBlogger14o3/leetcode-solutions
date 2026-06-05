@@ -475,3 +475,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-06-02 — [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) (Easy) → `Easy/2026-06-02-3633-Earliest-Finish-Time-for-Land-and-Water-Rides-I`
 - 2026-06-03 — [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) (Medium) → `Medium/2026-06-03-3635-Earliest-Finish-Time-for-Land-and-Water-Rides-II`
 - 2026-06-04 — [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) (Medium) → `Medium/2026-06-04-3751-Total-Waviness-of-Numbers-in-Range-I`
+- 2026-06-05 — [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) (Hard) → `Hard/2026-06-05-3753-Total-Waviness-of-Numbers-in-Range-II`
