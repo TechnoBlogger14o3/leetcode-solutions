@@ -480,3 +480,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-06-07 — [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) (Medium) → `Medium/2026-06-07-2196-Create-Binary-Tree-From-Descriptions`
 - 2026-06-08 — [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) (Medium) → `Medium/2026-06-08-2161-Partition-Array-According-to-Given-Pivot`
 - 2026-06-09 — [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) (Medium) → `Medium/2026-06-09-3689-Maximum-Total-Subarray-Value-I`
+- 2026-06-10 — [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) (Hard) → `Hard/2026-06-10-3691-Maximum-Total-Subarray-Value-II`
