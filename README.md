@@ -482,3 +482,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-06-09 — [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) (Medium) → `Medium/2026-06-09-3689-Maximum-Total-Subarray-Value-I`
 - 2026-06-10 — [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) (Hard) → `Hard/2026-06-10-3691-Maximum-Total-Subarray-Value-II`
 - 2026-06-11 — [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) (Medium) → `Medium/2026-06-11-3558-Number-of-Ways-to-Assign-Edge-Weights-I`
+- 2026-06-12 — [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) (Hard) → `Hard/2026-06-12-3559-Number-of-Ways-to-Assign-Edge-Weights-II`
