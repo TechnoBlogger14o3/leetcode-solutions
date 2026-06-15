@@ -485,3 +485,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-06-12 — [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) (Hard) → `Hard/2026-06-12-3559-Number-of-Ways-to-Assign-Edge-Weights-II`
 - 2026-06-13 — [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) (Easy) → `Easy/2026-06-13-3838-Weighted-Word-Mapping`
 - 2026-06-14 — [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) (Medium) → `Medium/2026-06-14-2130-Maximum-Twin-Sum-of-a-Linked-List`
+- 2026-06-15 — [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) (Medium) → `Medium/2026-06-15-2095-Delete-the-Middle-Node-of-a-Linked-List`
