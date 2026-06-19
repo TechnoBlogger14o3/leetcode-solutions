@@ -489,3 +489,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-06-16 — [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) (Medium) → `Medium/2026-06-16-3612-Process-String-with-Special-Operations-I`
 - 2026-06-17 — [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) (Hard) → `Hard/2026-06-17-3614-Process-String-with-Special-Operations-II`
 - 2026-06-18 — [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) (Medium) → `Medium/2026-06-18-1344-Angle-Between-Hands-of-a-Clock`
+- 2026-06-19 — [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) (Easy) → `Easy/2026-06-19-1732-Find-the-Highest-Altitude`
