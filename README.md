@@ -491,3 +491,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-06-18 — [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) (Medium) → `Medium/2026-06-18-1344-Angle-Between-Hands-of-a-Clock`
 - 2026-06-19 — [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) (Easy) → `Easy/2026-06-19-1732-Find-the-Highest-Altitude`
 - 2026-06-20 — [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) (Hard) → `Hard/2026-06-20-1840-Maximum-Building-Height`
+- 2026-06-21 — [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) (Medium) → `Medium/2026-06-21-1833-Maximum-Ice-Cream-Bars`
