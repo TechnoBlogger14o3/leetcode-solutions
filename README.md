@@ -493,3 +493,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-06-20 — [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) (Hard) → `Hard/2026-06-20-1840-Maximum-Building-Height`
 - 2026-06-21 — [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) (Medium) → `Medium/2026-06-21-1833-Maximum-Ice-Cream-Bars`
 - 2026-06-22 — [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) (Easy) → `Easy/2026-06-22-1189-Maximum-Number-of-Balloons`
+- 2026-06-23 — [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) (Hard) → `Hard/2026-06-23-3699-Number-of-ZigZag-Arrays-I`
