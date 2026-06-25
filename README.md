@@ -495,3 +495,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-06-22 — [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) (Easy) → `Easy/2026-06-22-1189-Maximum-Number-of-Balloons`
 - 2026-06-23 — [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) (Hard) → `Hard/2026-06-23-3699-Number-of-ZigZag-Arrays-I`
 - 2026-06-24 — [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) (Hard) → `Hard/2026-06-24-3700-Number-of-ZigZag-Arrays-II`
+- 2026-06-25 — [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) (Medium) → `Medium/2026-06-25-3737-Count-Subarrays-With-Majority-Element-I`
