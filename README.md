@@ -498,3 +498,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-06-25 — [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) (Medium) → `Medium/2026-06-25-3737-Count-Subarrays-With-Majority-Element-I`
 - 2026-06-26 — [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) (Hard) → `Hard/2026-06-26-3739-Count-Subarrays-With-Majority-Element-II`
 - 2026-06-27 — [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) (Medium) → `Medium/2026-06-27-3020-Find-the-Maximum-Number-of-Elements-in-Subset`
+- 2026-06-28 — [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) (Medium) → `Medium/2026-06-28-1846-Maximum-Element-After-Decreasing-and-Rearranging`
