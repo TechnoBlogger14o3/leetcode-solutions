@@ -502,3 +502,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-06-29 — [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) (Easy) → `Easy/2026-06-29-1967-Number-of-Strings-That-Appear-as-Substrings-in-Word`
 - 2026-06-30 — [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) (Medium) → `Medium/2026-06-30-1358-Number-of-Substrings-Containing-All-Three-Characters`
 - 2026-07-01 — [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) (Medium) → `Medium/2026-07-01-2812-Find-the-Safest-Path-in-a-Grid`
+- 2026-07-02 — [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) (Medium) → `Medium/2026-07-02-3286-Find-a-Safe-Walk-Through-a-Grid`
