@@ -506,3 +506,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-03 — [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) (Hard) → `Hard/2026-07-03-3620-Network-Recovery-Pathways`
 - 2026-07-04 — [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) (Medium) → `Medium/2026-07-04-2492-Minimum-Score-of-a-Path-Between-Two-Cities`
 - 2026-07-05 — [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) (Hard) → `Hard/2026-07-05-1301-Number-of-Paths-with-Max-Score`
+- 2026-07-06 — [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) (Medium) → `Medium/2026-07-06-1288-Remove-Covered-Intervals`
