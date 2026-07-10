@@ -510,3 +510,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-07 — [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) (Easy) → `Easy/2026-07-07-3754-Concatenate-Non-Zero-Digits-and-Multiply-by-Sum-I`
 - 2026-07-08 — [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) (Medium) → `Medium/2026-07-08-3756-Concatenate-Non-Zero-Digits-and-Multiply-by-Sum-II`
 - 2026-07-09 — [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) (Medium) → `Medium/2026-07-09-3532-Path-Existence-Queries-in-a-Graph-I`
+- 2026-07-10 — [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) (Hard) → `Hard/2026-07-10-3534-Path-Existence-Queries-in-a-Graph-II`
