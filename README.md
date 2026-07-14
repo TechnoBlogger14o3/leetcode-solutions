@@ -514,3 +514,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-11 — [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) (Medium) → `Medium/2026-07-11-2685-Count-the-Number-of-Complete-Components`
 - 2026-07-12 — [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) (Easy) → `Easy/2026-07-12-1331-Rank-Transform-of-an-Array`
 - 2026-07-13 — [Sequential Digits](https://leetcode.com/problems/sequential-digits/) (Medium) → `Medium/2026-07-13-1291-Sequential-Digits`
+- 2026-07-14 — [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) (Hard) → `Hard/2026-07-14-3336-Find-the-Number-of-Subsequences-With-Equal-GCD`
