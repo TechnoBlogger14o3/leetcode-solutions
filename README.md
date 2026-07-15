@@ -515,3 +515,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-12 — [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) (Easy) → `Easy/2026-07-12-1331-Rank-Transform-of-an-Array`
 - 2026-07-13 — [Sequential Digits](https://leetcode.com/problems/sequential-digits/) (Medium) → `Medium/2026-07-13-1291-Sequential-Digits`
 - 2026-07-14 — [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) (Hard) → `Hard/2026-07-14-3336-Find-the-Number-of-Subsequences-With-Equal-GCD`
+- 2026-07-15 — [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) (Easy) → `Easy/2026-07-15-3658-GCD-of-Odd-and-Even-Sums`
