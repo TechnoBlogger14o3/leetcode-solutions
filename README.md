@@ -518,3 +518,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-15 — [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) (Easy) → `Easy/2026-07-15-3658-GCD-of-Odd-and-Even-Sums`
 - 2026-07-16 — [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) (Medium) → `Medium/2026-07-16-3867-Sum-of-GCD-of-Formed-Pairs`
 - 2026-07-17 — [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) (Hard) → `Hard/2026-07-17-3312-Sorted-GCD-Pair-Queries`
+- 2026-07-18 — [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) (Easy) → `Easy/2026-07-18-1979-Find-Greatest-Common-Divisor-of-Array`
