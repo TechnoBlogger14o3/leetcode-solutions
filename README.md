@@ -520,3 +520,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-17 — [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) (Hard) → `Hard/2026-07-17-3312-Sorted-GCD-Pair-Queries`
 - 2026-07-18 — [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) (Easy) → `Easy/2026-07-18-1979-Find-Greatest-Common-Divisor-of-Array`
 - 2026-07-19 — [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) (Medium) → `Medium/2026-07-19-1081-Smallest-Subsequence-of-Distinct-Characters`
+- 2026-07-20 — [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) (Easy) → `Easy/2026-07-20-1260-Shift-2D-Grid`
