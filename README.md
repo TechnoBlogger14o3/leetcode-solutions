@@ -522,3 +522,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-19 — [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) (Medium) → `Medium/2026-07-19-1081-Smallest-Subsequence-of-Distinct-Characters`
 - 2026-07-20 — [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) (Easy) → `Easy/2026-07-20-1260-Shift-2D-Grid`
 - 2026-07-21 — [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) (Medium) → `Medium/2026-07-21-3499-Maximize-Active-Section-with-Trade-I`
+- 2026-07-22 — [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) (Hard) → `Hard/2026-07-22-3501-Maximize-Active-Section-with-Trade-II`
