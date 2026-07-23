@@ -523,3 +523,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-20 — [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) (Easy) → `Easy/2026-07-20-1260-Shift-2D-Grid`
 - 2026-07-21 — [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) (Medium) → `Medium/2026-07-21-3499-Maximize-Active-Section-with-Trade-I`
 - 2026-07-22 — [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) (Hard) → `Hard/2026-07-22-3501-Maximize-Active-Section-with-Trade-II`
+- 2026-07-23 — [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) (Medium) → `Medium/2026-07-23-3513-Number-of-Unique-XOR-Triplets-I`
