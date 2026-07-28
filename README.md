@@ -528,3 +528,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-25 — [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) (Easy) → `Easy/2026-07-25-3536-Maximum-Product-of-Two-Digits`
 - 2026-07-26 — [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) (Easy) → `Easy/2026-07-26-628-Maximum-Product-of-Three-Numbers`
 - 2026-07-27 — [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) (Easy) → `Easy/2026-07-27-1464-Maximum-Product-of-Two-Elements-in-an-Array`
+- 2026-07-28 — [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) (Medium) → `Medium/2026-07-28-3517-Smallest-Palindromic-Rearrangement-I`
