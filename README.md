@@ -531,3 +531,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-28 — [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) (Medium) → `Medium/2026-07-28-3517-Smallest-Palindromic-Rearrangement-I`
 - 2026-07-29 — [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) (Hard) → `Hard/2026-07-29-3518-Smallest-Palindromic-Rearrangement-II`
 - 2026-07-30 — [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) (Easy) → `Easy/2026-07-30-3014-Minimum-Number-of-Pushes-to-Type-Word-I`
+- 2026-07-31 — [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) (Medium) → `Medium/2026-07-31-3016-Minimum-Number-of-Pushes-to-Type-Word-II`
