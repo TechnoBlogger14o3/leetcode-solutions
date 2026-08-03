@@ -534,3 +534,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-07-31 — [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) (Medium) → `Medium/2026-07-31-3016-Minimum-Number-of-Pushes-to-Type-Word-II`
 - 2026-08-01 — [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) (Medium) → `Medium/2026-08-01-486-Predict-the-Winner`
 - 2026-08-02 — [Stone Game](https://leetcode.com/problems/stone-game/) (Medium) → `Medium/2026-08-02-877-Stone-Game`
+- 2026-08-03 — [Stone Game III](https://leetcode.com/problems/stone-game-iii/) (Hard) → `Hard/2026-08-03-1406-Stone-Game-III`
