@@ -535,3 +535,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-01 — [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) (Medium) → `Medium/2026-08-01-486-Predict-the-Winner`
 - 2026-08-02 — [Stone Game](https://leetcode.com/problems/stone-game/) (Medium) → `Medium/2026-08-02-877-Stone-Game`
 - 2026-08-03 — [Stone Game III](https://leetcode.com/problems/stone-game-iii/) (Hard) → `Hard/2026-08-03-1406-Stone-Game-III`
+- 2026-08-04 — [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) (Easy) → `Easy/2026-08-04-3731-Find-Missing-Elements`
