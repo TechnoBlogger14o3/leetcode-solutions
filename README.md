@@ -536,3 +536,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-02 — [Stone Game](https://leetcode.com/problems/stone-game/) (Medium) → `Medium/2026-08-02-877-Stone-Game`
 - 2026-08-03 — [Stone Game III](https://leetcode.com/problems/stone-game-iii/) (Hard) → `Hard/2026-08-03-1406-Stone-Game-III`
 - 2026-08-04 — [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) (Easy) → `Easy/2026-08-04-3731-Find-Missing-Elements`
+- 2026-08-05 — [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) (Medium) → `Medium/2026-08-05-3310-Remove-Methods-From-Project`
