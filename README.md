@@ -538,3 +538,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-04 — [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) (Easy) → `Easy/2026-08-04-3731-Find-Missing-Elements`
 - 2026-08-05 — [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) (Medium) → `Medium/2026-08-05-3310-Remove-Methods-From-Project`
 - 2026-08-06 — [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) (Easy) → `Easy/2026-08-06-3345-Smallest-Divisible-Digit-Product-I`
+- 2026-08-07 — [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) (Hard) → `Hard/2026-08-07-3348-Smallest-Divisible-Digit-Product-II`
