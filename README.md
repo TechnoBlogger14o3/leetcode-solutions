@@ -541,3 +541,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-07 — [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) (Hard) → `Hard/2026-08-07-3348-Smallest-Divisible-Digit-Product-II`
 - 2026-08-08 — [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) (Medium) → `Medium/2026-08-08-3302-Find-the-Lexicographically-Smallest-Valid-Sequence`
 - 2026-08-09 — [Stone Game II](https://leetcode.com/problems/stone-game-ii/) (Medium) → `Medium/2026-08-09-1140-Stone-Game-II`
+- 2026-08-10 — [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) (Hard) → `Hard/2026-08-10-1510-Stone-Game-IV`
