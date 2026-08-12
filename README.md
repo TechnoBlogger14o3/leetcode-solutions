@@ -543,3 +543,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-09 — [Stone Game II](https://leetcode.com/problems/stone-game-ii/) (Medium) → `Medium/2026-08-09-1140-Stone-Game-II`
 - 2026-08-10 — [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) (Hard) → `Hard/2026-08-10-1510-Stone-Game-IV`
 - 2026-08-11 — [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) (Easy) → `Easy/2026-08-11-2996-Smallest-Missing-Integer-Greater-Than-Sequential-Prefix-Sum`
+- 2026-08-12 — [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) (Medium) → `Medium/2026-08-12-2958-Length-of-Longest-Subarray-With-at-Most-K-Frequency`
