@@ -547,3 +547,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-13 — [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) (Hard) → `Hard/2026-08-13-2213-Longest-Substring-of-One-Repeating-Character`
 - 2026-08-14 — [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) (Easy) → `Easy/2026-08-14-3090-Maximum-Length-Substring-With-Two-Occurrences`
 - 2026-08-15 — [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) (Medium) → `Medium/2026-08-15-3702-Longest-Subsequence-With-Non-Zero-Bitwise-XOR`
+- 2026-08-16 — [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) (Medium) → `Medium/2026-08-16-2029-Stone-Game-IX`
