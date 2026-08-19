@@ -550,3 +550,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-16 — [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) (Medium) → `Medium/2026-08-16-2029-Stone-Game-IX`
 - 2026-08-17 — [Stone Game V](https://leetcode.com/problems/stone-game-v/) (Hard) → `Hard/2026-08-17-1563-Stone-Game-V`
 - 2026-08-18 — [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) (Easy) → `Easy/2026-08-18-3471-Find-the-Largest-Almost-Missing-Integer`
+- 2026-08-19 — [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) (Medium) → `Medium/2026-08-19-1386-Cinema-Seat-Allocation`
