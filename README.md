@@ -552,3 +552,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-18 — [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) (Easy) → `Easy/2026-08-18-3471-Find-the-Largest-Almost-Missing-Integer`
 - 2026-08-19 — [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) (Medium) → `Medium/2026-08-19-1386-Cinema-Seat-Allocation`
 - 2026-08-20 — [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) (Easy) → `Easy/2026-08-20-3069-Distribute-Elements-Into-Two-Arrays-I`
+- 2026-08-21 — [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) (Hard) → `Hard/2026-08-21-3116-Kth-Smallest-Amount-With-Single-Denomination-Combination`
