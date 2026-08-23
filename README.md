@@ -554,3 +554,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-20 — [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) (Easy) → `Easy/2026-08-20-3069-Distribute-Elements-Into-Two-Arrays-I`
 - 2026-08-21 — [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) (Hard) → `Hard/2026-08-21-3116-Kth-Smallest-Amount-With-Single-Denomination-Combination`
 - 2026-08-22 — [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) (Easy) → `Easy/2026-08-22-3622-Check-Divisibility-by-Digit-Sum-and-Product`
+- 2026-08-23 — [Sum Game](https://leetcode.com/problems/sum-game/) (Medium) → `Medium/2026-08-23-1927-Sum-Game`
