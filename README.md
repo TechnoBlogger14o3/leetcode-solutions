@@ -556,3 +556,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-22 — [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) (Easy) → `Easy/2026-08-22-3622-Check-Divisibility-by-Digit-Sum-and-Product`
 - 2026-08-23 — [Sum Game](https://leetcode.com/problems/sum-game/) (Medium) → `Medium/2026-08-23-1927-Sum-Game`
 - 2026-08-24 — [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) (Hard) → `Hard/2026-08-24-1872-Stone-Game-VIII`
+- 2026-08-25 — [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) (Easy) → `Easy/2026-08-25-3718-Smallest-Missing-Multiple-of-K`
