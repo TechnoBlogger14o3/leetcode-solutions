@@ -558,3 +558,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-24 — [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) (Hard) → `Hard/2026-08-24-1872-Stone-Game-VIII`
 - 2026-08-25 — [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) (Easy) → `Easy/2026-08-25-3718-Smallest-Missing-Multiple-of-K`
 - 2026-08-26 — [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) (Medium) → `Medium/2026-08-26-2904-Shortest-and-Lexicographically-Smallest-Beautiful-String`
+- 2026-08-27 — [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) (Medium) → `Medium/2026-08-27-3720-Lexicographically-Smallest-Permutation-Greater-Than-Target`
