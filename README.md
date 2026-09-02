@@ -564,3 +564,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-08-30 — [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) (Medium) → `Medium/2026-08-30-2091-Removing-Minimum-and-Maximum-From-Array`
 - 2026-08-31 — [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) (Medium) → `Medium/2026-08-31-2058-Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points`
 - 2026-09-01 — [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) (Medium) → `Medium/2026-09-01-3568-Minimum-Moves-to-Clean-the-Classroom`
+- 2026-09-02 — [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) (Easy) → `Easy/2026-09-02-3875-Construct-Uniform-Parity-Array-I`
