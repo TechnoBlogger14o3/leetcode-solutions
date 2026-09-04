@@ -566,3 +566,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-01 — [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) (Medium) → `Medium/2026-09-01-3568-Minimum-Moves-to-Clean-the-Classroom`
 - 2026-09-02 — [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) (Easy) → `Easy/2026-09-02-3875-Construct-Uniform-Parity-Array-I`
 - 2026-09-03 — [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) (Medium) → `Medium/2026-09-03-3876-Construct-Uniform-Parity-Array-II`
+- 2026-09-04 — [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) (Easy) → `Easy/2026-09-04-3903-Smallest-Stable-Index-I`
