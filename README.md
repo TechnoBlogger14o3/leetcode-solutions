@@ -568,3 +568,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-03 — [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) (Medium) → `Medium/2026-09-03-3876-Construct-Uniform-Parity-Array-II`
 - 2026-09-04 — [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) (Easy) → `Easy/2026-09-04-3903-Smallest-Stable-Index-I`
 - 2026-09-05 — [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) (Medium) → `Medium/2026-09-05-3904-Smallest-Stable-Index-II`
+- 2026-09-06 — [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) (Hard) → `Hard/2026-09-06-115-Distinct-Subsequences`
