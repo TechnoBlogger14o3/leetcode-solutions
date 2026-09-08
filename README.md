@@ -570,3 +570,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-05 — [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) (Medium) → `Medium/2026-09-05-3904-Smallest-Stable-Index-II`
 - 2026-09-06 — [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) (Hard) → `Hard/2026-09-06-115-Distinct-Subsequences`
 - 2026-09-07 — [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) (Hard) → `Hard/2026-09-07-940-Distinct-Subsequences-II`
+- 2026-09-08 — [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) (Easy) → `Easy/2026-09-08-3870-Count-Commas-in-Range`
