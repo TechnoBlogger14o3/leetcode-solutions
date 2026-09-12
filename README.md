@@ -574,3 +574,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-09 — [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) (Medium) → `Medium/2026-09-09-3871-Count-Commas-in-Range-II`
 - 2026-09-10 — [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) (Medium) → `Medium/2026-09-10-2265-Count-Nodes-Equal-to-Average-of-Subtree`
 - 2026-09-11 — [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) (Easy) → `Easy/2026-09-11-3483-Unique-3-Digit-Even-Numbers`
+- 2026-09-12 — [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) (Hard) → `Hard/2026-09-12-3414-Maximum-Score-of-Non-overlapping-Intervals`
