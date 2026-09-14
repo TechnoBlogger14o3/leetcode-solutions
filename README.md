@@ -576,3 +576,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-11 — [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) (Easy) → `Easy/2026-09-11-3483-Unique-3-Digit-Even-Numbers`
 - 2026-09-12 — [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) (Hard) → `Hard/2026-09-12-3414-Maximum-Score-of-Non-overlapping-Intervals`
 - 2026-09-13 — [Image Overlap](https://leetcode.com/problems/image-overlap/) (Medium) → `Medium/2026-09-13-835-Image-Overlap`
+- 2026-09-14 — [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) (Easy) → `Easy/2026-09-14-836-Rectangle-Overlap`
