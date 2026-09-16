@@ -578,3 +578,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-13 — [Image Overlap](https://leetcode.com/problems/image-overlap/) (Medium) → `Medium/2026-09-13-835-Image-Overlap`
 - 2026-09-14 — [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) (Easy) → `Easy/2026-09-14-836-Rectangle-Overlap`
 - 2026-09-15 — [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) (Hard) → `Hard/2026-09-15-2472-Maximum-Number-of-Non-overlapping-Palindrome-Substrings`
+- 2026-09-16 — [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) (Medium) → `Medium/2026-09-16-1621-Number-of-Sets-of-K-Non-Overlapping-Line-Segments`
