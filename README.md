@@ -581,3 +581,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-16 — [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) (Medium) → `Medium/2026-09-16-1621-Number-of-Sets-of-K-Non-Overlapping-Line-Segments`
 - 2026-09-17 — [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) (Medium) → `Medium/2026-09-17-1477-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum`
 - 2026-09-18 — [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) (Hard) → `Hard/2026-09-18-1520-Maximum-Number-of-Non-Overlapping-Substrings`
+- 2026-09-19 — [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) (Medium) → `Medium/2026-09-19-1401-Circle-and-Rectangle-Overlapping`
