@@ -583,3 +583,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-18 — [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) (Hard) → `Hard/2026-09-18-1520-Maximum-Number-of-Non-Overlapping-Substrings`
 - 2026-09-19 — [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) (Medium) → `Medium/2026-09-19-1401-Circle-and-Rectangle-Overlapping`
 - 2026-09-20 — [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) (Easy) → `Easy/2026-09-20-3498-Reverse-Degree-of-a-String`
+- 2026-09-21 — [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) (Medium) → `Medium/2026-09-21-3524-Find-X-Value-of-Array-I`
