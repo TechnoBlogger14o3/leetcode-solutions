@@ -587,3 +587,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-22 — [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) (Hard) → `Hard/2026-09-22-3525-Find-X-Value-of-Array-II`
 - 2026-09-23 — [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) (Medium) → `Medium/2026-09-23-1658-Minimum-Operations-to-Reduce-X-to-Zero`
 - 2026-09-24 — [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) (Easy) → `Easy/2026-09-24-3550-Smallest-Index-With-Digit-Sum-Equal-to-Index`
+- 2026-09-25 — [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) (Hard) → `Hard/2026-09-25-1096-Brace-Expansion-II`
