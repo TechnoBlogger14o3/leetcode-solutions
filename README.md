@@ -589,3 +589,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-24 — [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) (Easy) → `Easy/2026-09-24-3550-Smallest-Index-With-Digit-Sum-Equal-to-Index`
 - 2026-09-25 — [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) (Hard) → `Hard/2026-09-25-1096-Brace-Expansion-II`
 - 2026-09-26 — [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) (Medium) → `Medium/2026-09-26-1807-Evaluate-the-Bracket-Pairs-of-a-String`
+- 2026-09-27 — [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) (Medium) → `Medium/2026-09-27-1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses`
