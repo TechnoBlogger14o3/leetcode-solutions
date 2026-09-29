@@ -591,3 +591,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-26 — [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) (Medium) → `Medium/2026-09-26-1807-Evaluate-the-Bracket-Pairs-of-a-String`
 - 2026-09-27 — [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) (Medium) → `Medium/2026-09-27-1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses`
 - 2026-09-28 — [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) (Easy) → `Easy/2026-09-28-1614-Maximum-Nesting-Depth-of-the-Parentheses`
+- 2026-09-29 — [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) (Hard) → `Hard/2026-09-29-2267-Check-if-There-Is-a-Valid-Parentheses-String-Path`
