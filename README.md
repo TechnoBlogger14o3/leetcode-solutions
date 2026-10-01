@@ -593,3 +593,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-28 — [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) (Easy) → `Easy/2026-09-28-1614-Maximum-Nesting-Depth-of-the-Parentheses`
 - 2026-09-29 — [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) (Hard) → `Hard/2026-09-29-2267-Check-if-There-Is-a-Valid-Parentheses-String-Path`
 - 2026-09-30 — [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) (Medium) → `Medium/2026-09-30-1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings`
+- 2026-10-01 — [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (Easy) → `Easy/2026-10-01-20-Valid-Parentheses`
