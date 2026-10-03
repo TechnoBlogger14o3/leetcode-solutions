@@ -595,3 +595,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-09-30 — [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) (Medium) → `Medium/2026-09-30-1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings`
 - 2026-10-01 — [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (Easy) → `Easy/2026-10-01-20-Valid-Parentheses`
 - 2026-10-02 — [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (Medium) → `Medium/2026-10-02-22-Generate-Parentheses`
+- 2026-10-03 — [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) (Hard) → `Hard/2026-10-03-32-Longest-Valid-Parentheses`
