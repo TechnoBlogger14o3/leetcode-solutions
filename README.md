@@ -601,3 +601,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-06 — [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) (Medium) → `Medium/2026-10-06-921-Minimum-Add-to-Make-Parentheses-Valid`
 - 2026-10-07 — [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) (Hard) → `Hard/2026-10-07-301-Remove-Invalid-Parentheses`
 - 2026-10-08 — [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) (Easy) → `Easy/2026-10-08-1021-Remove-Outermost-Parentheses`
+- 2026-10-09 — [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) (Medium) → `Medium/2026-10-09-1541-Minimum-Insertions-to-Balance-a-Parentheses-String`
