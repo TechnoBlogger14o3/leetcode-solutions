@@ -603,3 +603,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-08 — [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) (Easy) → `Easy/2026-10-08-1021-Remove-Outermost-Parentheses`
 - 2026-10-09 — [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) (Medium) → `Medium/2026-10-09-1541-Minimum-Insertions-to-Balance-a-Parentheses-String`
 - 2026-10-10 — [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) (Medium) → `Medium/2026-10-10-2333-Minimum-Sum-of-Squared-Difference`
+- 2026-10-11 — [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) (Easy) → `Easy/2026-10-11-2778-Sum-of-Squares-of-Special-Elements`
