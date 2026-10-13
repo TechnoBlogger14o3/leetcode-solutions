@@ -605,3 +605,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-10 — [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) (Medium) → `Medium/2026-10-10-2333-Minimum-Sum-of-Squared-Difference`
 - 2026-10-11 — [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) (Easy) → `Easy/2026-10-11-2778-Sum-of-Squares-of-Special-Elements`
 - 2026-10-12 — [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) (Hard) → `Hard/2026-10-12-2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares`
+- 2026-10-13 — [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) (Medium) → `Medium/2026-10-13-3727-Maximum-Alternating-Sum-of-Squares`
