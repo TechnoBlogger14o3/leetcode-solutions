@@ -607,3 +607,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-12 — [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) (Hard) → `Hard/2026-10-12-2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares`
 - 2026-10-13 — [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) (Medium) → `Medium/2026-10-13-3727-Maximum-Alternating-Sum-of-Squares`
 - 2026-10-14 — [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) (Medium) → `Medium/2026-10-14-3723-Maximize-Sum-of-Squares-of-Digits`
+- 2026-10-15 — [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) (Easy) → `Easy/2026-10-15-2913-Subarrays-Distinct-Element-Sum-of-Squares-I`
