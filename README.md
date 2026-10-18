@@ -610,3 +610,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-15 — [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) (Easy) → `Easy/2026-10-15-2913-Subarrays-Distinct-Element-Sum-of-Squares-I`
 - 2026-10-16 — [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) (Hard) → `Hard/2026-10-16-2916-Subarrays-Distinct-Element-Sum-of-Squares-II`
 - 2026-10-17 — [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) (Medium) → `Medium/2026-10-17-3551-Minimum-Swaps-to-Sort-by-Digit-Sum`
+- 2026-10-18 — [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) (Hard) → `Hard/2026-10-18-1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST`
