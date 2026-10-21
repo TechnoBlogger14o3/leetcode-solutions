@@ -613,3 +613,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-18 — [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) (Hard) → `Hard/2026-10-18-1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST`
 - 2026-10-19 — [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) (Easy) → `Easy/2026-10-19-2089-Find-Target-Indices-After-Sorting-Array`
 - 2026-10-20 — [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) (Hard) → `Hard/2026-10-20-3886-Sum-of-Sortable-Integers`
+- 2026-10-21 — [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) (Medium) → `Medium/2026-10-21-3863-Minimum-Operations-to-Sort-a-String`
