@@ -616,3 +616,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-21 — [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) (Medium) → `Medium/2026-10-21-3863-Minimum-Operations-to-Sort-a-String`
 - 2026-10-22 — [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) (Medium) → `Medium/2026-10-22-3942-Minimum-Operations-to-Sort-a-Permutation`
 - 2026-10-23 — [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) (Medium) → `Medium/2026-10-23-3644-Maximum-K-to-Sort-a-Permutation`
+- 2026-10-24 — [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) (Easy) → `Easy/2026-10-24-2409-Count-Days-Spent-Together`
