@@ -620,3 +620,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-25 — [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) (Medium) → `Medium/2026-10-25-1254-Number-of-Closed-Islands`
 - 2026-10-26 — [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) (Medium) → `Medium/2026-10-26-3619-Count-Islands-With-Total-Value-Divisible-by-K`
 - 2026-10-27 — [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) (Easy) → `Easy/2026-10-27-3963-Create-Grid-With-Exactly-One-Path`
+- 2026-10-28 — [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) (Medium) → `Medium/2026-10-28-3882-Minimum-XOR-Path-in-a-Grid`
