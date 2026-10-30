@@ -622,3 +622,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-27 — [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) (Easy) → `Easy/2026-10-27-3963-Create-Grid-With-Exactly-One-Path`
 - 2026-10-28 — [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) (Medium) → `Medium/2026-10-28-3882-Minimum-XOR-Path-in-a-Grid`
 - 2026-10-29 — [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) (Hard) → `Hard/2026-10-29-3841-Palindromic-Path-Queries-in-a-Tree`
+- 2026-10-30 — [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) (Medium) → `Medium/2026-10-30-3970-Shortest-Path-With-At-Most-K-Consecutive-Identical-Characters`
