@@ -624,3 +624,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-29 — [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) (Hard) → `Hard/2026-10-29-3841-Palindromic-Path-Queries-in-a-Tree`
 - 2026-10-30 — [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) (Medium) → `Medium/2026-10-30-3970-Shortest-Path-With-At-Most-K-Consecutive-Identical-Characters`
 - 2026-10-31 — [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) (Medium) → `Medium/2026-10-31-3665-Twisted-Mirror-Path-Count`
+- 2026-11-01 — [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) (Medium) → `Medium/2026-11-01-453-Minimum-Moves-to-Equal-Array-Elements`
