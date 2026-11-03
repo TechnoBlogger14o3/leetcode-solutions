@@ -626,3 +626,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-10-31 — [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) (Medium) → `Medium/2026-10-31-3665-Twisted-Mirror-Path-Count`
 - 2026-11-01 — [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) (Medium) → `Medium/2026-11-01-453-Minimum-Moves-to-Equal-Array-Elements`
 - 2026-11-02 — [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) (Medium) → `Medium/2026-11-02-462-Minimum-Moves-to-Equal-Array-Elements-II`
+- 2026-11-03 — [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) (Easy) → `Easy/2026-11-03-3736-Minimum-Moves-to-Equal-Array-Elements-III`
