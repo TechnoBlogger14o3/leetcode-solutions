@@ -628,3 +628,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-11-02 — [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) (Medium) → `Medium/2026-11-02-462-Minimum-Moves-to-Equal-Array-Elements-II`
 - 2026-11-03 — [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) (Easy) → `Easy/2026-11-03-3736-Minimum-Moves-to-Equal-Array-Elements-III`
 - 2026-11-04 — [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) (Hard) → `Hard/2026-11-04-3505-Minimum-Operations-to-Make-Elements-Within-K-Subarrays-Equal`
+- 2026-11-05 — [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) (Easy) → `Easy/2026-11-05-1385-Find-the-Distance-Value-Between-Two-Arrays`
