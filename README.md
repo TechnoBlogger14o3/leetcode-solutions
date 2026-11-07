@@ -630,3 +630,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-11-04 — [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) (Hard) → `Hard/2026-11-04-3505-Minimum-Operations-to-Make-Elements-Within-K-Subarrays-Equal`
 - 2026-11-05 — [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) (Easy) → `Easy/2026-11-05-1385-Find-the-Distance-Value-Between-Two-Arrays`
 - 2026-11-06 — [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) (Medium) → `Medium/2026-11-06-2747-Count-Zero-Request-Servers`
+- 2026-11-07 — [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) (Medium) → `Medium/2026-11-07-1882-Process-Tasks-Using-Servers`
