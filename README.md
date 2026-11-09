@@ -632,3 +632,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-11-06 — [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) (Medium) → `Medium/2026-11-06-2747-Count-Zero-Request-Servers`
 - 2026-11-07 — [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) (Medium) → `Medium/2026-11-07-1882-Process-Tasks-Using-Servers`
 - 2026-11-08 — [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) (Medium) → `Medium/2026-11-08-1267-Count-Servers-that-Communicate`
+- 2026-11-09 — [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) (Hard) → `Hard/2026-11-09-1606-Find-Servers-That-Handled-Most-Number-of-Requests`
