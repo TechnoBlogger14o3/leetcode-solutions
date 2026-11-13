@@ -636,3 +636,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-11-10 — [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) (Medium) → `Medium/2026-11-10-3693-Climbing-Stairs-II`
 - 2026-11-11 — [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) (Medium) → `Medium/2026-11-11-3789-Minimum-Cost-to-Acquire-Required-Items`
 - 2026-11-12 — [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) (Easy) → `Easy/2026-11-12-3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray`
+- 2026-11-13 — [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) (Hard) → `Hard/2026-11-13-3420-Count-Non-Decreasing-Subarrays-After-K-Operations`
