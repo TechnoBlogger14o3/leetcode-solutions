@@ -638,3 +638,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-11-12 — [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) (Easy) → `Easy/2026-11-12-3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray`
 - 2026-11-13 — [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) (Hard) → `Hard/2026-11-13-3420-Count-Non-Decreasing-Subarrays-After-K-Operations`
 - 2026-11-14 — [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) (Easy) → `Easy/2026-11-14-3364-Minimum-Positive-Sum-Subarray`
+- 2026-11-15 — [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) (Medium) → `Medium/2026-11-15-1524-Number-of-Sub-arrays-With-Odd-Sum`
