@@ -641,3 +641,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-11-15 — [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) (Medium) → `Medium/2026-11-15-1524-Number-of-Sub-arrays-With-Odd-Sum`
 - 2026-11-16 — [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) (Easy) → `Easy/2026-11-16-2243-Calculate-Digit-Sum-of-a-String`
 - 2026-11-17 — [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) (Hard) → `Hard/2026-11-17-2911-Minimum-Changes-to-Make-K-Semi-palindromes`
+- 2026-11-18 — [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) (Medium) → `Medium/2026-11-18-2914-Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful`
