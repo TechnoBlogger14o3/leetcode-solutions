@@ -645,3 +645,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-11-19 — [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) (Medium) → `Medium/2026-11-19-2567-Minimum-Score-by-Changing-Two-Elements`
 - 2026-11-20 — [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) (Hard) → `Hard/2026-11-20-3041-Maximize-Consecutive-Elements-in-an-Array-After-Modification`
 - 2026-11-21 — [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) (Medium) → `Medium/2026-11-21-3331-Find-Subtree-Sizes-After-Changes`
+- 2026-11-22 — [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) (Easy) → `Easy/2026-11-22-2124-Check-if-All-A-s-Appears-Before-All-B-s`
