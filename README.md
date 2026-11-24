@@ -647,3 +647,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-11-21 — [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) (Medium) → `Medium/2026-11-21-3331-Find-Subtree-Sizes-After-Changes`
 - 2026-11-22 — [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) (Easy) → `Easy/2026-11-22-2124-Check-if-All-A-s-Appears-Before-All-B-s`
 - 2026-11-23 — [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) (Medium) → `Medium/2026-11-23-1352-Product-of-the-Last-K-Numbers`
+- 2026-11-24 — [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) (Easy) → `Easy/2026-11-24-3411-Maximum-Subarray-With-Equal-Products`
