@@ -649,3 +649,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-11-23 — [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) (Medium) → `Medium/2026-11-23-1352-Product-of-the-Last-K-Numbers`
 - 2026-11-24 — [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) (Easy) → `Easy/2026-11-24-3411-Maximum-Subarray-With-Equal-Products`
 - 2026-11-25 — [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) (Hard) → `Hard/2026-11-25-3934-Smallest-Unique-Subarray`
+- 2026-11-26 — [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) (Easy) → `Easy/2026-11-26-3360-Stone-Removal-Game`
