@@ -651,3 +651,4 @@ Through completing the Blind 75 and NeetCode 150, you will have mastered:
 - 2026-11-25 — [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) (Hard) → `Hard/2026-11-25-3934-Smallest-Unique-Subarray`
 - 2026-11-26 — [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) (Easy) → `Easy/2026-11-26-3360-Stone-Removal-Game`
 - 2026-11-27 — [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) (Medium) → `Medium/2026-11-27-3946-Maximum-Number-of-Items-From-Sale-I`
+- 2026-11-28 — [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) (Medium) → `Medium/2026-11-28-3947-Maximum-Number-of-Items-From-Sale-II`
